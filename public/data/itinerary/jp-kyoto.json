@@ -137,6 +137,168 @@
         "hu": "Sétája az impozáns Városházánál kezdődik, amely a város szívének egyik ikonikus épülete. Ezután felfedezi a Xavéri Szent Ferenc Katedrálist, amely nyugodt kontrasztot nyújt a városi nyüzsgéssel szemben. Délben a Gear Színház innovatív előadása varázsolja el. A délután a japán oktatás történetének megismerésével telik a múzeumban, majd a nap a Byodo-ji templom békéjében ér véget.",
         "ro": "Plimbarea începe la impunătoarea Primărie, un punct de reper în inima orașului. Apoi veți descoperi Catedrala Sfântul Francisc Xavier, care oferă un contrast pașnic cu viața urbană. La prânz, veți fi fascinați de un spectacol inovator la Teatrul Gear. După-amiaza este dedicată tradiției educaționale la Muzeul de Istorie a Școlii, înainte ca ziua să se încheie liniștit la templul Byodo-ji.",
         "en": "Your walking tour begins at the imposing City Hall, a landmark in the heart of the city. Next, you will discover the St. Francis Xavier Cathedral, offering a serene contrast to urban life. At midday, be captivated by an innovative show at the Gear Theater. The afternoon is dedicated to educational tradition at the School History Museum, before the day ends peacefully at Byodo-ji Temple."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt regnerisch am Rathaus, wo die nassen Steine den Platz glänzen lassen. Mittags bieten die Kathedrale und das Gear Theater trockene Zuflucht und kulturelle Tiefe. Am Nachmittag schützt das Schulmuseum vor dem Dauerregen, während man in die Geschichte eintaucht. Der Abend am Byodo-ji wirkt durch den Regen besonders mystisch und friedlich im dämmrigen Licht.",
+            "hu": "A reggel esősen indul a Városházánál, ahol a vizes burkolat különleges fényt ad a térnek. Délben a katedrális és a Gear Theater nyújt fedett menedéket és kulturális élményt. Délután az Iskolatörténeti Múzeum falai között maradhatunk szárazon a szakadó eső elől. Az estét a Byodo-ji templom zárja, amelynek kertje esőben is lenyűgöző és meditatív hangulatot áraszt.",
+            "ro": "Dimineața începe ploios la Primărie, unde reflexiile de pe pavaj creează o atmosferă aparte. La prânz, Catedrala și Gear Theater oferă adăpost uscat și experiențe culturale bogate. După-amiaza, Muzeul de Istorie al Școlii este refugiul perfect împotriva ploii persistente. Seara la Templul Byodo-ji devine mistică, sunetul ploii completând liniștea spirituală a locului.",
+            "en": "The morning starts with rain at the City Hall, where the wet pavement adds a unique sheen to the square. At noon, the Cathedral and Gear Theater provide dry shelter and rich cultural experiences. In the afternoon, the School History Museum is the perfect refuge from the steady downpour. The evening at Byodo-ji Temple becomes mystical, with the rain enhancing the spiritual silence of the site."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Kyoto",
+                "hu": "Rathaus Kyoto",
+                "ro": "Rathaus Kyoto",
+                "en": "Rathaus Kyoto"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Schutz eines Schirms und achten Sie auf die rutschigen Fliesen vor dem Haupteingang.",
+                "hu": "Csodálja meg az épületet egy esernyő alól, és vigyázzon a főbejárat előtti csúszós burkolatra a nedves időben.",
+                "ro": "Admirați arhitectura sub protecția unei umbrele și aveți grijă la pavajul alunecos din fața intrării principale pe vreme umedă.",
+                "en": "Admire the architecture from under an umbrella and be careful of the slippery pavement in front of the main entrance during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Franz-Xavier-Kathedrale Kyoto",
+                "hu": "Franz-Xavier-Kathedrale Kyoto",
+                "ro": "Franz-Xavier-Kathedrale Kyoto",
+                "en": "Franz-Xavier-Kathedrale Kyoto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung abzuschütteln, bevor Sie die stille, trockene Atmosphäre genießen.",
+                "hu": "Használja a fedett bejáratot az esőruházat lerázására, mielőtt élvezné a templom csendes és teljesen száraz belső terét.",
+                "ro": "Folosiți intrarea acoperită pentru a scutura hainele de ploaie înainte de a vă bucura de atmosfera liniștită și uscată din interior.",
+                "en": "Use the covered entrance to shake off your rain gear before enjoying the quiet and completely dry atmosphere of the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Gear Theater",
+                "hu": "Gear Theater",
+                "ro": "Gear Theater",
+                "en": "Gear Theater"
+              },
+              "tip_5lang": {
+                "de": "Dieses Indoor-Theater ist der ideale Ort, um dem Regen zu entkommen und eine faszinierende nonverbale Performance zu erleben.",
+                "hu": "Ez a fedett színház ideális hely az eső elől való menekülésre, miközben egy lenyűgöző nonverbális előadást tekinthet meg.",
+                "ro": "Acest teatru interior este locul ideal pentru a scăpa de ploaie în timp ce vizionați o performanță non-verbală fascinantă.",
+                "en": "This indoor theater is the ideal spot to escape the rain while watching a fascinating non-verbal performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kyoto School History Museum",
+                "hu": "Kyoto School History Museum",
+                "ro": "Kyoto School History Museum",
+                "en": "Kyoto School History Museum"
+              },
+              "tip_5lang": {
+                "de": "Die umfangreichen Exponate im Inneren lassen Sie das schlechte Wetter vergessen, während Sie trocken durch die Bildungsgeschichte wandern.",
+                "hu": "A belső terek gazdag kiállításai elfeledtetik a rossz időt, miközben szárazon barangolhat az oktatástörténeti emlékek között.",
+                "ro": "Exponatele bogate din interior vă vor face să uitați de vremea rea în timp ce explorați istoria educației la adăpost.",
+                "en": "The rich indoor exhibits will make you forget the bad weather while you wander through educational history in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Byodo-ji Temple",
+                "hu": "Byodo-ji Temple",
+                "ro": "Byodo-ji Temple",
+                "en": "Byodo-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen in den kleinen Tempelgarten fällt; wasserfeste Schuhe sind für die kurzen Außenwege sehr empfehlenswert.",
+                "hu": "Figyelje meg, ahogy az eső mossa a templom kis kertjét; a rövid kültéri szakaszok miatt vízálló cipő viselése erősen ajánlott.",
+                "ro": "Observați cum ploaia spală grădina mică a templului; pantofii impermeabili sunt foarte recomandați pentru scurte parcursuri externe.",
+                "en": "Observe the rain washing the small temple garden; waterproof shoes are highly recommended for the short outdoor sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Morgen am Rathaus erfordert warme Schichten. Mittags wärmen die Sonnenstrahlen in der Kathedrale und die Heizung im Theater den Körper auf. Nachmittags ist das Schulmuseum ein gemütlicher Rückzugsort vor dem eisigen Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, erstrahlt der Byodo-ji am Abend in einem sanften, winterlichen Licht.",
+            "hu": "A tiszta, hideg reggel a Városházánál réteges öltözködést igényel. Délben a katedrális nyugodt békéje és a színház fűtött tere ad lehetőséget a felmelegedésre. Délután a múzeumi séta kiváló menedék a jeges szél elől a téli alkonyat előtt. Mivel a nap már 17:00 körül lemegy, a Byodo-ji templom korán esti, meghitt fényekben úszik.",
+            "ro": "O dimineață senină și rece la Primărie necesită haine groase în straturi. La prânz, liniștea Catedralei și interiorul încălzit al teatrului oferă momente de răgaz termic. După-amiaza, muzeul este un refugiu primitor împotriva vântului tăios de iarnă. Deoarece soarele apune în jurul orei 17:00, Templul Byodo-ji capătă o aură caldă în lumina serii timpurii.",
+            "en": "A clear, cold morning at City Hall requires dressing in warm layers. At noon, the peace of the Cathedral and the heated theater interior offer a chance to warm up. In the afternoon, the museum is a welcoming refuge from the biting winter wind. Since the sun sets around 5:00 PM, Byodo-ji Temple is bathed in cozy, early evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Kyoto",
+                "hu": "Rathaus Kyoto",
+                "ro": "Rathaus Kyoto",
+                "en": "Rathaus Kyoto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die winterliche Fassade, aber halten Sie die Handschuhe bereit für den kalten Wind auf dem Platz.",
+                "hu": "Élvezze a téli homlokzat látványát, de tartsa készenlétben a kesztyűit a téren átfújó hideg szél miatt.",
+                "ro": "Bucurați-vă de vederea fațadei de iarnă, dar păstrați mănușile la îndemână pentru vântul rece care bate în piață.",
+                "en": "Enjoy the view of the winter facade, but keep your gloves ready for the cold wind blowing across the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Franz-Xavier-Kathedrale Kyoto",
+                "hu": "Franz-Xavier-Kathedrale Kyoto",
+                "ro": "Franz-Xavier-Kathedrale Kyoto",
+                "en": "Franz-Xavier-Kathedrale Kyoto"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kathedrale schützen gut vor dem Wind; nutzen Sie die Stille für eine kurze Aufwärmpause im Sitzen.",
+                "hu": "A katedrális vastag falai jól védenek a szél ellen; használja ki a csendet egy rövid, pihentető és melegítő megállóra.",
+                "ro": "Zidurile groase ale catedralei protejează bine împotriva vântului; profitați de liniște pentru o scurtă pauză de încălzire.",
+                "en": "The cathedral's thick walls provide good protection against the wind; use the silence for a short, warming break while seated."
+              }
+            },
+            {
+              "name": {
+                "de": "Gear Theater",
+                "hu": "Gear Theater",
+                "ro": "Gear Theater",
+                "en": "Gear Theater"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Theater bietet perfekten Komfort; lassen Sie Ihre schweren Wintermäntel an der Garderobe, um die Show entspannt zu genießen.",
+                "hu": "A fűtött színház tökéletes kényelmet nyújt; tegye le a nehéz téli kabátot a ruhatárban, hogy zavartalanul élvezhesse az előadást.",
+                "ro": "Teatrul încălzit oferă un confort perfect; lăsați hainele groase de iarnă la garderobă pentru a savura spectacolul relaxat.",
+                "en": "The heated theater offers perfect comfort; leave your heavy winter coats at the cloakroom to enjoy the show in relaxation."
+              }
+            },
+            {
+              "name": {
+                "de": "Kyoto School History Museum",
+                "hu": "Kyoto School History Museum",
+                "ro": "Kyoto School History Museum",
+                "en": "Kyoto School History Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den Nachmittag, da die Innenräume gut temperiert sind und Sie vor der früh einsetzenden Kälte schützen.",
+                "hu": "Ideális helyszín délutánra, mivel a belső terek jól temperáltak, megvédve Önt a korán beköszöntő téli hidegtől.",
+                "ro": "Un loc ideal pentru după-amiază, deoarece interioarele sunt bine climatizate, protejându-vă de frigul care se lasă devreme.",
+                "en": "An ideal location for the afternoon, as the interiors are well-tempered, protecting you from the early-onset winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Byodo-ji Temple",
+                "hu": "Byodo-ji Temple",
+                "ro": "Byodo-ji Temple",
+                "en": "Byodo-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempel kurz vor 17:00 Uhr, um die winterliche Blaue Stunde zu erleben, bevor es komplett dunkel wird.",
+                "hu": "Látogasson el a templomhoz 17:00 előtt, hogy megtapasztalja a téli kék órát, mielőtt teljesen besötétedne a városban.",
+                "ro": "Vizitați templul chiar înainte de ora 17:00 pentru a experimenta ora albastră de iarnă înainte de a se întuneca complet.",
+                "en": "Visit the temple just before 5:00 PM to experience the winter blue hour before it gets completely dark in the city."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a Császári Palota parkjában található Munakata szentélynél indul. Ezután az ikonikus Városházához gurul, majd a Yurinkan Múzeumba, ahol ázsiai műkincsek várják. Kora délután a Gion Cornerben elmélyedhet a klasszikus japán művészetekben. Ezt követően felfedezi a misztikus Rokudo Chinno-ji-t, és a kirándulást a Higashiyama szélén fekvő békés Sorin-ji templomnál fejezi be.",
         "ro": "Turul cu bicicleta începe relaxant la Altarul Munakata din parcul Palatului Imperial. Apoi pedalați spre Primăria distinctivă și mai departe spre Muzeul Yurinkan, unde vă așteaptă arta asiatică. La începutul după-amiezii, vă cufundați în artele clasice ale Japoniei la Gion Corner. Apoi explorați misticul Rokudo Chinno-ji și încheiați excursia cu o oprire pașnică la Sorin-ji la marginea Higashiyama.",
         "en": "Your cycling tour begins gently at the Munakata Shrine within the Imperial Palace park. You then ride to the distinctive City Hall and onward to the Yurinkan Museum to view Asian art. In the early afternoon, immerse yourself in Japan's classical arts at Gion Corner. Afterwards, explore the mystical Rokudo Chinno-ji and end the excursion with a peaceful stop at Sorin-ji on the edge of Higashiyama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Morgen auf dem Rad zum Munakata-Schrein erfordert Vorsicht auf nassen Wegen. Mittags bietet das Rathaus eine kurze Pause vom Regen, bevor es zum trockenen Fujii Yurinkan Museum geht. Am Nachmittag ist Gion Corner ein wunderbarer Ort, um drinnen Kultur zu genießen. Der Tag endet an den Tempeln, die im sanften Regen eine stille, melancholische Schönheit ausstrahlen.",
+            "hu": "A kerékpáros reggel a Munakata szentélynél óvatosságot igényel a csúszós utakon. Délben a Városháza ad rövid pihenőt az esőben, mielőtt a száraz Fujii Yurinkan Múzeumba hajtana. Délután a Gion Corner kiváló helyszín a benti kultúrára. A nap a templomoknál ér véget, amelyek a halk esőben csendes, melankolikus szépséget árasztanak Kyoto szívében.",
+            "ro": "O dimineață pe bicicletă spre Sanctuarul Munakata necesită prudență pe drumurile ude. La prânz, Primăria oferă un scurt răgaz de ploaie înainte de a merge la Muzeul Fujii Yurinkan. După-amiaza, Gion Corner este locul ideal pentru cultură la interior. Ziua se încheie la temple, care sub ploaia fină emană o frumusețe tăcută și melancolică.",
+            "en": "A morning bike ride to Munakata Shrine requires caution on wet paths. At noon, City Hall offers a brief break from the rain before cycling to the dry Fujii Yurinkan Museum. In the afternoon, Gion Corner is an excellent spot for indoor culture. The day ends at the temples, which radiate a quiet, melancholic beauty under the gentle rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Munakata Shrine",
+                "hu": "Munakata Shrine",
+                "ro": "Munakata Shrine",
+                "en": "Munakata Shrine"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Kiesweg zum Schrein; die Bäume bieten nur begrenzten Schutz vor dem Regen, nutzen Sie ein Cape.",
+                "hu": "Hajtson lassan a szentélyhez vezető kavicsos úton; a fák csak korlátozott védelmet nyújtanak, viseljen esőköpenyt.",
+                "ro": "Conduceți încet pe drumul cu pietriș spre sanctuar; copacii oferă protecție limitată, purtați o pelerină de ploaie.",
+                "en": "Ride slowly on the gravel path to the shrine; the trees offer only limited protection, so wear a rain poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Kyoto",
+                "hu": "Rathaus Kyoto",
+                "ro": "Rathaus Kyoto",
+                "en": "Rathaus Kyoto"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen sicheren Parkplatz für Ihr Rad und nutzen Sie die Vordächer des Rathauses, um Ihre Karte im Trockenen zu prüfen.",
+                "hu": "Keressen biztonságos parkolót a biciklinek, és használja a Városháza előtetőit a térkép szárazon történő ellenőrzéséhez.",
+                "ro": "Căutați o parcare sigură pentru bicicletă și folosiți copertinele Primăriei pentru a verifica harta la adăpost.",
+                "en": "Find a secure parking spot for your bike and use the City Hall's overhangs to check your map in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Fujii Yurinkan Museum",
+                "hu": "Fujii Yurinkan Museum",
+                "ro": "Fujii Yurinkan Museum",
+                "en": "Fujii Yurinkan Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die trockene, warme Umgebung dieses privaten Museums mit seinen beeindruckenden Kunstschätzen.",
+                "hu": "Parkolja le a kerékpárt, és élvezze e privát múzeum száraz, meleg környezetét és lenyűgöző művészeti kincseit.",
+                "ro": "Parcați bicicleta și bucurați-vă de mediul uscat și cald al acestui muzeu privat cu comorile sale de artă impresionante.",
+                "en": "Park your bike and enjoy the dry, warm environment of this private museum and its impressive art treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Gion Corner",
+                "hu": "Gion Corner",
+                "ro": "Gion Corner",
+                "en": "Gion Corner"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen; stellen Sie Ihr Rad unter und erleben Sie traditionelle Künste in einem gemütlichen, trockenen Saal.",
+                "hu": "Tökéletes megálló esőben; támassza le a biciklit fedett helyre, és élvezze a hagyományos művészeteket egy száraz teremben.",
+                "ro": "O oprire perfectă pe ploaie; lăsați bicicleta la adăpost și experimentați artele tradiționale într-o sală primitoare și uscată.",
+                "en": "A perfect stop in the rain; park your bike under cover and experience traditional arts in a cozy, dry hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Rokudo Chinno-ji Temple",
+                "hu": "Rokudo Chinno-ji Temple",
+                "ro": "Rokudo Chinno-ji Temple",
+                "en": "Rokudo Chinno-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Legenden dieses Tempels wirken bei grauem Regenwetter besonders packend; achten Sie auf glatte Holzschwellen beim Betreten.",
+                "hu": "A templom legendái szürke esőben különösen magukkal ragadóak; ügyeljen a csúszós küszöbökre a belépéskor.",
+                "ro": "Legendele acestui templu sunt captivante pe vreme gri; atenție la pragurile de lemn alunecoase la intrare.",
+                "en": "The temple's legends are especially gripping in grey rain; watch out for slippery wooden thresholds when entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Sorin-ji Temple",
+                "hu": "Sorin-ji Temple",
+                "ro": "Sorin-ji Temple",
+                "en": "Sorin-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Der finale Stopp im Regen bietet eine ruhige Atmosphäre; tragen Sie Reflektoren am Rad für die Rückfahrt bei schlechter Sicht.",
+                "hu": "Az utolsó megálló esőben nyugodt hangulatot áraszt; viseljen fényvisszaverőt a biciklin a rossz látási viszonyok miatti hazaúton.",
+                "ro": "Ultima oprire pe ploaie oferă o atmosferă liniștită; purtați elemente reflectorizante pentru drumul de întoarcere pe vizibilitate redusă.",
+                "en": "The final stop in the rain offers a peaceful atmosphere; wear reflectors on your bike for the ride back in low visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Munakata-Schrein macht Handschuhe beim Radfahren unverzichtbar. Mittags wärmt der Besuch im Rathaus und im Fujii Yurinkan Museum die Hände wieder auf. Am Nachmittag bietet Gion Corner eine willkommene Pause in beheizten Räumen. Da es ab 17:00 Uhr dunkel wird, sollten die letzten Tempelbesuche bei schwindendem Tageslicht genossen werden.",
+            "hu": "A fagyos reggel a Munakata szentélynél a kesztyűt elengedhetetlenné teszi a biciklizéshez. Délben a Városháza és a Fujii Yurinkan Múzeum látogatása segít átmelegedni. Délután a Gion Corner kínál kellemes pihenőt a fűtött nézőtéren. Mivel 17:00-tól sötétedik, az utolsó templomokat a lemenő nap sugaraiban csodálhatjuk meg.",
+            "ro": "Un început înghețat la Sanctuarul Munakata face mănușile indispensabile pentru ciclism. La prânz, vizita la Primărie și Muzeul Fujii Yurinkan ajută la reîncălzire. După-amiaza, Gion Corner oferă un răgaz binevenit în săli încălzite. Deoarece se întunecă de la ora 17:00, ultimele temple trebuie savurate în lumina crepusculului.",
+            "en": "A frosty start at Munakata Shrine makes gloves indispensable for cycling. At noon, visiting City Hall and the Fujii Yurinkan Museum helps to warm up. In the afternoon, Gion Corner offers a welcome break in heated halls. Since it gets dark from 5:00 PM, the last temples should be enjoyed in the fading daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Munakata Shrine",
+                "hu": "Munakata Shrine",
+                "ro": "Munakata Shrine",
+                "en": "Munakata Shrine"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Morgenluft ist erfrischend; parken Sie das Rad in der Sonne, damit der Sattel beim Losfahren nicht zu kalt ist.",
+                "hu": "A hideg reggeli levegő frissítő; parkolja a kerékpárt napos helyre, hogy a nyereg ne legyen túl hideg induláskor.",
+                "ro": "Aerul rece de dimineață este revigorant; parcați bicicleta la soare pentru ca șaua să nu fie prea rece la plecare.",
+                "en": "The cold morning air is refreshing; park your bike in the sun so the saddle isn't too cold when you start riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Kyoto",
+                "hu": "Rathaus Kyoto",
+                "ro": "Rathaus Kyoto",
+                "en": "Rathaus Kyoto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um die steifen Finger aufzuwärmen; das Gebäudeinnere ist ein guter Ort für eine kurze Pause vom Fahrtwind.",
+                "hu": "Használja ezt a megállót az elgémberedett ujjak felmelegítésére; az épület belseje jó hely a menetszél utáni pihenőre.",
+                "ro": "Folosiți această oprire pentru a vă încălzi degetele amorțite; interiorul clădirii este un loc bun pentru un răgaz de la vântul din mers.",
+                "en": "Use this stop to warm up stiff fingers; the building's interior is a good place for a short break from the headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Fujii Yurinkan Museum",
+                "hu": "Fujii Yurinkan Museum",
+                "ro": "Fujii Yurinkan Museum",
+                "en": "Fujii Yurinkan Museum"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger bei den Exponaten, um die Wärme des Museums voll auszunutzen, bevor Sie wieder auf das Rad steigen.",
+                "hu": "Időzzön többet a kiállítási tárgyaknál, hogy teljesen kihasználja a múzeum melegét, mielőtt újra nyeregbe szállna.",
+                "ro": "Zăboviți mai mult la exponate pentru a profita din plin de căldura muzeului înainte de a urca din nou pe bicicletă.",
+                "en": "Spend more time at the exhibits to take full advantage of the museum's warmth before getting back on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Gion Corner",
+                "hu": "Gion Corner",
+                "ro": "Gion Corner",
+                "en": "Gion Corner"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um die Beine nach der Fahrt auszuruhen; der beheizte Zuschauerraum ist im Winter eine wahre Wohltat.",
+                "hu": "Ideális a lábak pihentetésére a tekerés után; a fűtött nézőtér télen igazi áldás a látogatóknak.",
+                "ro": "Ideal pentru a vă odihni picioarele după drum; sala de spectacole încălzită este o adevărată binecuvântare iarna.",
+                "en": "Ideal for resting your legs after the ride; the heated auditorium is a true blessing in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Rokudo Chinno-ji Temple",
+                "hu": "Rokudo Chinno-ji Temple",
+                "ro": "Rokudo Chinno-ji Temple",
+                "en": "Rokudo Chinno-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und wirft lange Schatten auf das Tempelgelände; achten Sie auf die Zeit vor Sonnenuntergang.",
+                "hu": "A téli nap alacsonyan jár és hosszú árnyékokat vet a templomudvarra; ügyeljen az időre a naplemente előtt.",
+                "ro": "Soarele de iarnă stă jos și aruncă umbre lungi pe terenul templului; fiți atenți la timp înainte de apus.",
+                "en": "The winter sun hangs low and casts long shadows on the temple grounds; be mindful of the time before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Sorin-ji Temple",
+                "hu": "Sorin-ji Temple",
+                "ro": "Sorin-ji Temple",
+                "en": "Sorin-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Da es nun schnell abkühlt, beenden Sie den Besuch zügig und stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+                "hu": "Mivel ilyenkor gyorsan hűl a levegő, fejezze be időben a látogatást, és ellenőrizze, hogy működnek-e a lámpák a biciklin.",
+                "ro": "Deoarece se răcește rapid, încheiați vizita la timp și asigurați-vă că luminile bicicletei funcționează.",
+                "en": "As it cools down quickly now, wrap up your visit promptly and ensure your bike lights are working for the trip back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós kirándulása Kiotó északi részén indul a sportos Shiramine szentélynél és a festői Honpo-ji templomnál. Egy rövid utazás a palota területén lévő nyugodt Munakata szentélyhez vezet. Dél körül kelet felé halad a Yurinkan Múzeumhoz, ahol ritka ázsiai kincseket csodálhat meg. A délután délre viszi: először a történelmileg mélyreható Yogen-in-t tekinti meg, majd kiélvezi a Kosho-ji templom spirituális tágasságát.",
         "ro": "Călătoria cu mașina începe în nordul orașului Kyoto la Altarul Shiramine și la pitorescul templu Honpo-ji. O scurtă plimbare vă duce la pașnicul Altar Munakata din zona palatului. În jurul prânzului conduceți spre est către Muzeul Yurinkan pentru a admira comori asiatice rare. După-amiaza vă poartă spre sud: mai întâi vizitați profundul Yogen-in istoric, înainte de a vă bucura din plin de imensitatea spirituală a templului Kosho-ji.",
         "en": "Your driving tour starts in northern Kyoto at the sports-themed Shiramine Shrine and the picturesque Honpo-ji. A short drive brings you to the tranquil Munakata Shrine within the palace grounds. Around midday, you drive eastward to the Yurinkan Museum to admire rare Asian treasures. The afternoon takes you south: first visiting the historically profound Yogen-in, before fully enjoying the spiritual vastness of Kosho-ji Temple."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die Schreine Shiramine und Honpo-ji trocken, während der Regen auf das Dach trommelt. Mittags bietet das Fujii Yurinkan Museum eine kunstvolle Pause im Warmen. Am Nachmittag sind die Tempelbesuche dank kurzer Wege vom Parkplatz unkompliziert. Der Tag endet entspannt mit einer Fahrt durch das verregnete, hell erleuchtete Kyoto.",
+            "hu": "Autóval szárazon érheti el a Shiramine és Honpo-ji szentélyeket, miközben az eső kopog a tetőn. Délben a Fujii Yurinkan Múzeum nyújt művészi pihenőt a melegben. Délután a templomlátogatások zökkenőmentesek a parkolótól való rövid távolságok miatt. A napot egy kényelmes autózás zárja az esős, kivilágított Kyoto utcáin.",
+            "ro": "Cu mașina ajungeți la sanctuarele Shiramine și Honpo-ji la adăpost, în timp ce ploaia bate în plafon. La prânz, Muzeul Fujii Yurinkan oferă o pauză artistică la căldură. După-amiaza, vizitele la temple sunt facile datorită distanțelor scurte de la parcare. Ziua se încheie relaxat cu o plimbare prin Kyoto-ul ploios și luminat.",
+            "en": "By car, you reach Shiramine and Honpo-ji shrines in the dry while rain drums on the roof. At noon, the Fujii Yurinkan Museum offers an artistic break in the warm. In the afternoon, temple visits are seamless due to the short distances from the parking lot. The day ends relaxingly with a drive through rainy, brightly lit Kyoto."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Shiramine Shrine",
+                "hu": "Shiramine Shrine",
+                "ro": "Shiramine Shrine",
+                "en": "Shiramine Shrine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Weg zum Hauptgebäude ist kurz, aber bei Regen oft von Pfützen übersät.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a főépülethez vezető út rövid, de esőben gyakran tócsás.",
+                "ro": "Parcați cât mai aproape de intrare; drumul spre clădirea principală este scurt, dar adesea plin de bălți când plouă.",
+                "en": "Park as close to the entrance as possible; the path to the main building is short but often riddled with puddles in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Honpo-ji Temple",
+                "hu": "Honpo-ji Temple",
+                "ro": "Honpo-ji Temple",
+                "en": "Honpo-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den nassen Zen-Garten von den überdachten Holzveranden aus; ein absolut trockener Genuss.",
+                "hu": "Élvezze a vizes Zen-kert látványát a fedett fateraszokról; abszolút száraz élmény a szakadó eső ellenére is.",
+                "ro": "Bucurați-vă de vederea grădinii Zen umede de pe verandele de lemn acoperite; o experiență uscată în ciuda ploii.",
+                "en": "Enjoy the view of the wet Zen garden from the covered wooden verandas; an absolutely dry experience despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Munakata Shrine",
+                "hu": "Munakata Shrine",
+                "ro": "Munakata Shrine",
+                "en": "Munakata Shrine"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Schirm im Auto bereitliegen, da der kurze Weg vom Parkplatz zum Schrein ungeschützt ist.",
+                "hu": "Tartsa készenlétben az esernyőt az autóban, mert a parkolótól a szentélyig vezető rövid út nem fedett.",
+                "ro": "Păstrați umbrela la îndemână în mașină, deoarece scurtul drum de la parcare la sanctuar nu este protejat.",
+                "en": "Keep your umbrella ready in the car, as the short path from the parking lot to the shrine is unprotected."
+              }
+            },
+            {
+              "name": {
+                "de": "Fujii Yurinkan Museum",
+                "hu": "Fujii Yurinkan Museum",
+                "ro": "Fujii Yurinkan Museum",
+                "en": "Fujii Yurinkan Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als längeren Zwischenstopp, um den stärksten Regenschauern des Tages komplett auszuweichen.",
+                "hu": "Használja a múzeumot hosszabb pihenőként, hogy teljesen elkerülje a nap leghevesebb esőzéseit.",
+                "ro": "Folosiți muzeul ca o oprire mai lungă pentru a evita complet cele mai puternice reprize de ploaie ale zilei.",
+                "en": "Use the museum as a longer stopover to completely avoid the heaviest rain showers of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Yogen-in Temple",
+                "hu": "Yogen-in Temple",
+                "ro": "Yogen-in Temple",
+                "en": "Yogen-in Temple"
+              },
+              "tip_5lang": {
+                "de": "Die berühmten Deckenbilder lassen sich drinnen perfekt studieren, während draußen der Regen die Atmosphäre vertieft.",
+                "hu": "A híres mennyezeti festmények bent tökéletesen tanulmányozhatók, miközben kint az eső tovább mélyíti a hangulatot.",
+                "ro": "Faimoasele picturi de pe tavan pot fi studiate perfect la interior, în timp ce afară ploaia adâncește atmosfera.",
+                "en": "The famous ceiling paintings can be studied perfectly inside, while outside the rain deepens the atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kosho-ji Temple",
+                "hu": "Kosho-ji Temple",
+                "ro": "Kosho-ji Temple",
+                "en": "Kosho-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang; das Auto bietet einen warmen Rückzugsort direkt nach der Besichtigung des weitläufigen Geländes.",
+                "hu": "Nyugodt befejezés; az autó meleg menedéket nyújt közvetlenül a tágas templomkert megtekintése után.",
+                "ro": "Un final liniștit; mașina oferă un refugiu cald imediat după vizitarea terenului vast al templului.",
+                "en": "A peaceful conclusion; the car offers a warm retreat immediately after visiting the extensive temple grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt bequem im beheizten Auto auf dem Weg zu den Schreinen. Mittags bietet das Museum einen warmen kulturellen Höhepunkt. Am Nachmittag leuchten die Tempel im klaren, tiefstehenden Sonnenlicht. Da es bereits ab 17:00 Uhr dunkel wird, genießen Sie die abendliche Fahrt vorbei an den festlich beleuchteten Straßen Kyotos.",
+            "hu": "A hideg téli reggel kényelmesen, a fűtött autóban indul a szentélyek felé. Délben a múzeum meleg belső tere kulturális csúcspontot jelent. Délután a templomok a tiszta, alacsonyan járó téli napfényben ragyognak. Mivel 17:00-tól sötétedik, élvezze az esti autózást Kyoto ünnepi fényekkel díszített utcáin.",
+            "ro": "O dimineață rece de iarnă începe confortabil în mașina încălzită spre sanctuare. La prânz, muzeul oferă un punct culminant cultural la căldură. După-amiaza, templele strălucesc în lumina clară a soarelui de iarnă. Deoarece se întunecă de la ora 17:00, bucurați-vă de drumul de seară pe străzile luminate festiv.",
+            "en": "A cold winter morning begins comfortably in a heated car on the way to the shrines. At noon, the museum provides a warm cultural highlight. In the afternoon, the temples shine in the clear, low winter sunlight. Since it gets dark from 5:00 PM, enjoy the evening drive past Kyoto's festively lit streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Shiramine Shrine",
+                "hu": "Shiramine Shrine",
+                "ro": "Shiramine Shrine",
+                "en": "Shiramine Shrine"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft ist am Schrein sehr klar; lassen Sie die Sitzheizung an, um nach dem kurzen Rundgang schnell aufzuwärmen.",
+                "hu": "A hideg levegő nagyon tiszta a szentélynél; hagyja bekapcsolva az ülésfűtést a gyors felmelegedéshez a rövid séta után.",
+                "ro": "Aerul rece este foarte clar la sanctuar; lăsați încălzirea în scaune pornită pentru a vă încălzi rapid după scurta plimbare.",
+                "en": "The cold air is very clear at the shrine; leave the seat heating on to warm up quickly after your short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Honpo-ji Temple",
+                "hu": "Honpo-ji Temple",
+                "ro": "Honpo-ji Temple",
+                "en": "Honpo-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Socken, da man im Tempel die Schuhe ausziehen muss und die Holzböden im Winter sehr kalt sein können.",
+                "hu": "Viseljen vastag zoknit, mivel a templomban le kell venni a cipőt, és a fapadló télen nagyon hideg lehet.",
+                "ro": "Purtați șosete groase, deoarece în templu trebuie să vă descălțați, iar podelele de lemn pot fi foarte reci iarna.",
+                "en": "Wear thick socks, as you must take off your shoes in the temple, and the wooden floors can be very cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Munakata Shrine",
+                "hu": "Munakata Shrine",
+                "ro": "Munakata Shrine",
+                "en": "Munakata Shrine"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe im Park des Kaiserpalasts ist herrlich; nutzen Sie die Klimaanlage des Autos für konstante Wärme zwischen den Stopps.",
+                "hu": "A császári palota parkjának téli nyugalma csodálatos; használja az autó fűtését a megállók közötti állandó meleg megőrzéséhez.",
+                "ro": "Liniștea de iarnă din parcul palatului imperial este superbă; folosiți climatizarea mașinii pentru căldură constantă între opriri.",
+                "en": "The winter tranquility in the Imperial Palace park is wonderful; use the car's climate control for constant warmth between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Fujii Yurinkan Museum",
+                "hu": "Fujii Yurinkan Museum",
+                "ro": "Fujii Yurinkan Museum",
+                "en": "Fujii Yurinkan Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für die Mittagszeit, um die Kälte draußen zu lassen und in wohltemperierter Umgebung Kunst zu genießen.",
+                "hu": "Tökéletes helyszín délidőben, hogy kint hagyja a hideget és temperált környezetben élvezze a művészetet.",
+                "ro": "Un loc perfect pentru prânz pentru a lăsa frigul afară și a vă bucura de artă într-un mediu bine climatizat.",
+                "en": "A perfect spot for midday to leave the cold outside and enjoy art in a well-tempered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Yogen-in Temple",
+                "hu": "Yogen-in Temple",
+                "ro": "Yogen-in Temple",
+                "en": "Yogen-in Temple"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Nachmittagssonne beleuchtet die historischen Details im Inneren auf eine ganz besondere, warme Weise.",
+                "hu": "Az alacsonyan járó délutáni napfény egészen különleges, meleg módon világítja meg a belső történelmi részleteket.",
+                "ro": "Soarele de după-amiază care stă jos luminează detaliile istorice din interior într-un mod cald și special.",
+                "en": "The low afternoon sun illuminates the historical details inside in a very special, warm way."
+              }
+            },
+            {
+              "name": {
+                "de": "Kosho-ji Temple",
+                "hu": "Kosho-ji Temple",
+                "ro": "Kosho-ji Temple",
+                "en": "Kosho-ji Temple"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag vor 17:00 Uhr, um den Tempel noch im Tageslicht zu sehen, bevor die frostige Nacht hereinbricht.",
+                "hu": "Fejezze be a napot 17:00 előtt, hogy még nappali fényben lássa a templomot a fagyos éjszaka beállta előtt.",
+                "ro": "Încheiați ziua înainte de ora 17:00 pentru a vedea templul la lumina zilei înainte de lăsarea nopții înghețate.",
+                "en": "End the day before 5:00 PM to see the temple in daylight before the frosty night sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

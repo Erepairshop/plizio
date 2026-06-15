@@ -748,7 +748,7 @@ export const sanmarinoCities: POI[] = [
       pt: ["Toda a área da cidade está sob rigorosa proteção de monumentos.", "Realizam-se regularmente celebrações estatais na cidade.", "As ruas estreitas são maioritariamente acessíveis apenas a peões.", "Existe uma variedade de pequenas lojas de artesanato.", "A cidade oferece uma excelente perspetiva da história da Idade Média.", "Uma visita ao pôr do sol é particularmente recomendável."],
       fr: ["L'ensemble du territoire urbain est soumis à une protection stricte des monuments historiques.", "Des cérémonies officielles y sont régulièrement organisées.", "Les ruelles étroites sont pour la plupart réservées aux piétons.", "Il existe une multitude de petites boutiques d'artisanat d'art.", "La ville offre un excellent aperçu de l'histoire du Moyen Âge.", "Une visite au coucher du soleil est particulièrement recommandée."],
     },
-    image: "/geo-images/sanmarino/city-san-marino.webp"
+    image: "/poi-images/city-san-marino.webp"
   },
 ];
 
@@ -820,7 +820,7 @@ export const sanmarinoCulture: POI[] = [
       pt: ["A estrutura tem mais de 900 anos.", "Do topo, oferece-se uma das melhores vistas de todo o país.", "A solução arquitetónica sem fundações é uma obra-prima da época.", "O Guaita é o símbolo mais forte da independência nacional.", "A história da defesa é comprovada por achados arqueológicos.", "A estrutura sobreviveu a inúmeros ataques."],
       fr: ["La structure du bâtiment a plus de 900 ans.", "D'en haut, on profite de l'une des meilleures vues sur tout le pays.", "La solution architecturale sans fondations est un chef-d'œuvre de l'époque.", "La Guaita est le symbole le plus fort de l'indépendance nationale.", "L'histoire défensive est attestée par des découvertes archéologiques.", "L'édifice a survécu à de nombreuses attaques."],
     },
-    image: "/geo-images/sanmarino/cult-guaita.webp"
+    image: "/poi-images/cult-guaita.webp"
   },
   {
     id: "cult-cesta",
@@ -889,7 +889,7 @@ export const sanmarinoCulture: POI[] = [
       pt: ["O museu foi sistematicamente ampliado e modernizado.", "A coleção de armas é uma das mais importantes do seu género na região.", "A vista do ponto mais alto é conhecida muito para além do Monte Titano.", "As origens romanas sublinham a profundidade histórica do local.", "O edifício é um exemplo perfeito da tecnologia defensiva medieval.", "Cesta é um importante ponto de identificação cultural."],
       fr: ["Le musée a été systématiquement agrandi et modernisé.", "La collection d'armes est l'une des plus importantes du genre dans la région.", "La vue depuis le point culminant est célèbre bien au-delà du mont Titano.", "Les origines romaines soulignent la profondeur historique du site.", "L'édifice est un exemple parfait de la technique de défense médiévale.", "Cesta est un point de repère culturel majeur."],
     },
-    image: "/geo-images/sanmarino/cult-cesta.webp"
+    image: "/poi-images/cult-cesta.webp"
   },
   {
     id: "cult-montale",
@@ -958,7 +958,7 @@ export const sanmarinoCulture: POI[] = [
       pt: ["A torre servia como um importante posto de vigia.", "O isolamento servia para garantir a segurança.", "Montale foi concebido como um local de refúgio.", "A construção arquitetónica é única.", "A história está estreitamente ligada à independência.", "O local é hoje frequentemente interpretado como uma estátua de um guardião silencioso."],
       fr: ["La tour servait d'important poste de guet.", "L'isolement était au service de la sécurité.", "Montale a été conçu comme un lieu de repli.", "La construction architecturale est unique.", "L'histoire est étroitement liée à l'indépendance.", "Le lieu est aujourd'hui souvent interprété comme une statue de gardien silencieux."],
     },
-    image: "/geo-images/sanmarino/cult-montale.webp"
+    image: "/poi-images/cult-montale.webp"
   },
   {
     id: "cult-palazzo-pubblico",
@@ -1027,7 +1027,7 @@ export const sanmarinoCulture: POI[] = [
       pt: ["O edifício serve tanto como câmara municipal como sede do parlamento.", "O estilo neogótico foi uma homenagem à tradição florentina.", "A Piazza della Libertà é o ponto de encontro central para atos oficiais de Estado.", "O render da guarda é um espetáculo muito popular entre os turistas.", "O Palazzo é um símbolo da estabilidade do país.", "No interior encontram-se salas luxuosas para convidados de Estado."],
       fr: ["Le bâtiment sert à la fois d'hôtel de ville et de siège du Parlement.", "Le style néogothique était un hommage à la tradition florentine.", "La Piazza della Libertà est le lieu de rassemblement central pour les actes d'État.", "La relève de la garde est un spectacle très apprécié des touristes.", "Le Palazzo est un symbole de la stabilité du pays.", "L'intérieur abrite de somptueuses salles pour les hôtes d'État."],
     },
-    image: "/geo-images/sanmarino/cult-palazzo-pubblico.webp"
+    image: "/poi-images/cult-palazzo-pubblico.webp"
   },
   {
     id: "cult-basilica-di-san-marino",
@@ -1096,7 +1096,7 @@ export const sanmarinoCulture: POI[] = [
       pt: ["O edifício reflete o orgulho da jovem república.", "A arquitetura neoclássica realça a harmonia e a ordem.", "As relíquias são veneradas por toda a população.", "A igreja serve também como local para cerimónias oficiais.", "A história da basílica está estreitamente ligada à do país.", "É um exemplo notável de arquitetura sacra."],
       fr: ["L'édifice reflète la fierté de la jeune République.", "L'architecture néoclassique souligne l'harmonie et l'ordre.", "Les reliques sont vénérées par toute la population.", "L'église sert également de lieu pour les cérémonies officielles.", "L'histoire de la basilique est étroitement liée à celle du pays.", "C'est un exemple remarquable d'architecture sacrée."],
     },
-    image: "/geo-images/sanmarino/cult-basilica-di-san-marino.webp"
+    image: "/poi-images/cult-basilica-di-san-marino.webp"
   },
   {
     id: "cult-chiesa-fiorentino",
@@ -1217,7 +1217,7 @@ export const sanmarinoNature: POI[] = [
       pt: ["A geologia da montanha é uma parte essencial do património cultural.", "As três torres servem como pontos de navegação.", "A flora da montanha é surpreendente na sua diversidade.", "O Monte Titano é o coração do turismo de San Marino.", "O ecossistema é estritamente protegido.", "As vistas mudam drasticamente com cada estação."],
       fr: ["La géologie de la montagne est une partie essentielle de l'héritage culturel.", "Les trois tours servent de points de navigation.", "La flore de la montagne est étonnante par sa diversité.", "Le mont Titano est le cœur du tourisme de Saint-Marin.", "L'écosystème est strictement protégé.", "Les vues changent radicalement au fil des saisons."],
     },
-    image: "/geo-images/sanmarino/nat-monte-titano.webp"
+    image: "/poi-images/nat-monte-titano.webp"
   },
   {
     id: "nat-parco-ausa",
@@ -1266,7 +1266,7 @@ export const sanmarinoNature: POI[] = [
       pt: ["A infraestrutura é continuamente expandida.", "O parque é um importante ponto de encontro para as famílias locais.", "As áreas verdes são muito valiosas em Serravalle.", "O parque é ideal para jogging e atividades de lazer.", "Contribui para a qualidade de vida na zona industrial.", "O complexo é muito bem cuidado."],
       fr: ["L'infrastructure est continuellement étendue.", "Le parc est un lieu de rencontre important pour les familles locales.", "Les espaces verts sont très précieux à Serravalle.", "Le parc est idéal pour le jogging et les activités de loisirs.", "Il contribue à la qualité de vie dans la zone industrielle.", "Le site est très bien entretenu."],
     },
-    image: "/geo-images/sanmarino/nat-parco-ausa.webp"
+    image: "/poi-images/nat-parco-ausa.webp"
   },
   {
     id: "nat-sentiero-rupe",
@@ -1315,7 +1315,7 @@ export const sanmarinoNature: POI[] = [
       pt: ["O caminho é um destaque para os amantes de caminhadas.", "Vivencia-se a natureza e a história de perto.", "O trilho está excelentemente sinalizado.", "Em algumas secções, o caminho é exigente.", "A combinação de floresta e rocha é única.", "A ligação das localidades através deste caminho é uma tradição secular."],
       fr: ["Le sentier est un moment fort pour les amateurs de randonnée.", "On y découvre la nature et l'histoire au plus près.", "Le sentier est parfaitement balisé.", "Le parcours est exigeant sur certains tronçons.", "La combinaison de forêt et de roche est unique.", "La liaison entre les localités par ce sentier est une tradition séculaire."],
     },
-    image: "/geo-images/sanmarino/nat-sentiero-rupe.webp"
+    image: "/poi-images/nat-sentiero-rupe.webp"
   },
   {
     id: "nat-lago-faetano",

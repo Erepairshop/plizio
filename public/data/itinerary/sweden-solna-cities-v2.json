@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a viking történelem felfedezésével az U121-es rúnakőnél, majd merüljön el a Pillangóház trópusi melegében. A délidőt a Haga Parkmúzeum királyi tájépítészeti titkainak megismerésével töltheti. Délután barangoljon a Haga-palota lenyűgöző romjai között és pihenjen meg Gusztáv herceg emlékművénél. Zárja az elegáns napot III. Gusztáv pompás pavilonjának megtekintésével.",
         "ro": "Începeți dimineața explorând istoria vikingilor la piatra runică U121, apoi bucurați-vă de căldura tropicală a Casei Fluturilor. Amiaza este dedicată descoperirii secretelor peisagistice regale la Haga Parkmuseum. După-amiaza, plimbați-vă printre ruinele evocatoare ale Palatului Haga și admirați monumentul Prințului Gustaf. Încheiați ziua explorând magnificul Pavilion al lui Gustav al III-lea.",
         "en": "Start your morning delving into Viking history at the U121 runestone, then transition into the lush warmth of the Butterfly House. Midday is spent uncovering royal landscape secrets at the Haga Parkmuseum. In the afternoon, wander through the evocative Haga Palace Ruins and pause at Prins Gustafs monument. Conclude your elegant day exploring the magnificent Gustav III's Pavilion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am U 121 Runenstein, bevor Sie sich im Schmetterlingshaus aufwärmen. Mittags bietet das Haga Parkmuseum eine trockene Zuflucht voller Geschichte. Am Nachmittag erkunden Sie die Haga-Ruinen mit Regenschirm, bevor Sie zum Prinz Gustafs Monument spazieren. Der Abend endet im Gustav III. Pavillon, wo Sie die Pracht geschützt vor dem Regen genießen.",
+            "hu": "Kezdje az esős reggelt az U 121 rúnakőnél, majd melegedjen fel a Pillangóház trópusi klímájában. Délben a Haga Parkmúzeum nyújt száraz, történelmi menedéket. Délután esernyővel fedezze fel a Haga-palota romjait, majd sétáljon el Gusztáv herceg emlékművéhez. Az estét III. Gusztáv pavilonjában zárja, ahol az időjárástól védve csodálhatja meg a lenyűgöző királyi pompát és építészetet.",
+            "ro": "Începeți dimineața ploioasă la Piatra runică U 121, apoi încălziți-vă în Casa Fluturilor. La prânz, Haga Parkmuseum oferă un refugiu uscat, plin de istorie. După-amiaza, explorați cu o umbrelă ruinele Palatului Haga și monumentul Prințului Gustaf. Seara se încheie la Pavilionul lui Gustav al III-lea, unde vă puteți bucura de splendoarea regală, complet protejați de ploaia de afară.",
+            "en": "Start your rainy morning at the U 121 Runestone, then warm up inside the tropical Butterfly House. At noon, the Haga Parkmuseum provides a dry and historical refuge. In the afternoon, grab an umbrella to explore the Haga Palace Ruins and Prins Gustafs monument. End the evening at Gustav III's Pavilion, where you can admire the royal splendor completely sheltered from the rain outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "U 121",
+                "hu": "U 121 rúnakő",
+                "ro": "Piatra runică U 121",
+                "en": "U 121 Runestone"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den historischen nassen Stein, dessen alte Runen im Regen oft viel besser lesbar sind; vergessen Sie aber Ihren großen Schirm nicht.",
+                "hu": "A nedves történelmi kövön a rúnák esőben gyakran sokkal jobban látszanak, de hozzon magával egy nagy esernyőt a rövid szabadtéri nézelődéshez.",
+                "ro": "Pietrele runice antice sunt adesea mult mai ușor de citit atunci când sunt ude; nu uitați umbrela mare pentru această scurtă oprire în aer liber.",
+                "en": "The ancient runes on the historical stone are often much easier to read when wet; just don't forget to bring your umbrella for this outdoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Schmetterlingshaus Haga Ocean",
+                "hu": "Pillangóház Haga Ocean",
+                "ro": "Casa Fluturilor Haga Ocean",
+                "en": "Butterfly House Haga Ocean"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tropische Atmosphäre als perfekten Zufluchtsort vor dem Regen und beobachten Sie exotische Fische sowie farbenprächtige Schmetterlinge.",
+                "hu": "Tökéletes menedék az eső elől: élvezze a trópusi meleget, a lenyűgöző egzotikus halakat és a feje felett repkedő, csodálatos, színpompás pillangókat.",
+                "ro": "Refugiul interior perfect împotriva ploii: bucurați-vă de căldura tropicală plăcută, de fluturii superbi colorați și de peștii exotici fascinanți.",
+                "en": "The perfect indoor refuge from the pouring rain: completely enjoy the tropical warmth, gorgeous colorful butterflies, and fascinating exotic fishes."
+              }
+            },
+            {
+              "name": {
+                "de": "Haga Parkmuseum",
+                "hu": "Haga Parkmúzeum",
+                "ro": "Haga Parkmuseum",
+                "en": "Haga Parkmuseum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet Ihnen ein sicheres, trockenes Dach über dem Kopf, während Sie drinnen alles über die faszinierende Geschichte des Parks lernen.",
+                "hu": "A múzeum kényelmes és száraz menedéket nyújt az esőben, miközben részletesen megismerheti a Haga park lenyűgöző történelmét és klasszikus építészetét.",
+                "ro": "Muzeul vă oferă un acoperiș uscat și sigur deasupra capului în timp ce descoperiți la interior istoria și arhitectura fascinantă a întregului parc.",
+                "en": "The museum provides a wonderfully dry shelter from the rain while you learn all about the park's fascinating royal history and classic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Haga-Palastes",
+                "hu": "Haga-palota romjai",
+                "ro": "Ruinele Palatului Haga",
+                "en": "Haga Palace Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Palastruinen haben eine ganz eigene, melancholische Atmosphäre; tragen Sie unbedingt wasserfestes Schuhwerk wegen der tiefen Schlammpfützen.",
+                "hu": "A nedves palotaromok egyedi, melankolikus és romantikus hangulatot árasztanak; a sáros tócsák miatt feltétlenül viseljen teljesen vízálló cipőt.",
+                "ro": "Ruinele umede ale palatului au o atmosferă melancolică cu totul specială; purtați neapărat încălțăminte rezistentă la apă din cauza bălților adânci.",
+                "en": "The wet palace ruins emit a very unique, highly melancholic atmosphere; just make sure to wear sturdy waterproof shoes due to the deep muddy puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Prinz Gustafs Monument",
+                "hu": "Gusztáv herceg emlékműve",
+                "ro": "Monumentul Prințului Gustaf",
+                "en": "Prins Gustafs monument"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie am besten nur einen sehr kurzen Stopp mit dem Regenschirm bei diesem historischen Denkmal ein, da es hier absolut keine direkten Unterstände gibt.",
+                "hu": "Csak egy nagyon rövid, esernyős megállót tervezzen ennél a történelmi emlékműnél, mivel a közvetlen környéken sajnos egyáltalán nincs semmilyen fedett menedék.",
+                "ro": "Planificați doar o oprire foarte scurtă cu umbrela la acest monument istoric, deoarece nu există deloc adăposturi acoperite în imediata vecinătate.",
+                "en": "Plan to make only a very brief umbrella stop at this impressive historical monument, as there are absolutely no covered shelters available in the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustav III. Pavillon",
+                "hu": "III. Gusztáv pavilonja",
+                "ro": "Pavilionul lui Gustav al III-lea",
+                "en": "Gustav III:s paviljong"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvollen königlichen Innenräume komplett im Trockenen, während der Regen sanft gegen die historischen Fenster des Pavillons prasselt.",
+                "hu": "Csodálja meg a pompás királyi belső tereket teljesen szárazon, miközben hallgatja, ahogy a heves eső veri a történelmi pavilon hatalmas, régi ablakait.",
+                "ro": "Admirați interioarele regale magnifice complet la adăpost, ascultând cum ploaia bate ușor în ferestrele istorice impresionante ale frumosului pavilion.",
+                "en": "Admire the magnificent royal interiors while staying completely dry, listening to the heavy rain gently patter against the pavilion's historic windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie an einem kalten Wintermorgen beim U 121 Runenstein und tauchen Sie dann in die Wärme des Schmetterlingshauses ein. Mittags wärmen Sie sich im Haga Parkmuseum weiter auf. Der Nachmittag bietet eine frostige, aber malerische Erkundung der Haga-Ruinen und des Denkmals im Schnee. Lassen Sie den Abend bei früher Dämmerung im beleuchteten Gustav III. Pavillon gemütlich ausklingen.",
+            "hu": "Egy hideg téli reggelen csodálja meg az U 121 rúnakövet, majd meneküljön a Pillangóház trópusi melegébe. Délben a Haga Parkmúzeum fedett tereiben melegedhet fel. Délután a havas Haga-palota romjai és az emlékmű festői látványt nyújtanak a korai sötétedésben. Az estét a gyönyörűen kivilágított III. Gusztáv pavilonjában töltse, ahol a fagyos idő ellenére is élvezheti a királyi eleganciát.",
+            "ro": "În dimineața de iarnă, vizitați Piatra runică U 121, apoi refugiați-vă în căldura tropicală din Casa Fluturilor. La prânz, încălziți-vă admirând expozițiile de la Haga Parkmuseum. După-amiaza, ruinele Palatului Haga și monumentul arată feeric sub zăpadă. Seara, odată cu lăsarea întunericului, admirați eleganța Pavilionului lui Gustav al III-lea la adăpost de frigul pătrunzător.",
+            "en": "On a cold winter morning, admire the U 121 Runestone before escaping to the tropical warmth of the Butterfly House. At noon, warm up while exploring the Haga Parkmuseum. In the afternoon, the snow-covered Haga Palace Ruins and monument offer a picturesque view. As the sun sets early, spend a cozy evening inside Gustav III's Pavilion, enjoying its royal elegance away from the winter chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "U 121",
+                "hu": "U 121 rúnakő",
+                "ro": "Piatra runică U 121",
+                "en": "U 121 Runestone"
+              },
+              "tip_5lang": {
+                "de": "Der historische verschneite Stein wirkt sehr mystisch, ziehen Sie sich aber unbedingt extrem warm an für diesen ungeschützten und eisigen historischen Stopp.",
+                "hu": "A hólepte ősi rúnakő misztikus és lenyűgöző látványt nyújt, de öltözzön fel nagyon melegen, mert a teljesen nyílt terepen meglehetősen metsző és hideg lehet.",
+                "ro": "Piatra runică acoperită cu un strat gros de zăpadă arată mistic, dar îmbrăcați-vă foarte gros pentru această scurtă oprire istorică complet în aer liber.",
+                "en": "The snow-covered ancient runestone looks truly mystical, but be sure to dress extra warmly as this entirely outdoor historical stop can be freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Schmetterlingshaus Haga Ocean",
+                "hu": "Pillangóház Haga Ocean",
+                "ro": "Casa Fluturilor Haga Ocean",
+                "en": "Butterfly House Haga Ocean"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der bitteren Kälte in dieses tropische Paradies, wo Sie sich bei herrlich warmen Temperaturen umgeben von Schmetterlingen aufwärmen können.",
+                "hu": "Meneküljön a téli fagy elől ebbe a trópusi paradicsomba, ahol a lenyűgöző egzotikus állatok és növények között garantáltan és nagyon kellemesen felmelegszik.",
+                "ro": "Scăpați de gerul iernii în acest paradis tropical, unde vă puteți încălzi garantat și confortabil admirând animalele și plantele exotice luxuriante.",
+                "en": "Escape the harsh winter chill in this beautiful tropical paradise, where you are guaranteed to quickly warm up among the colorful and exotic creatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Haga Parkmuseum",
+                "hu": "Haga Parkmúzeum",
+                "ro": "Haga Parkmuseum",
+                "en": "Haga Parkmuseum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender und gemütlicher Ort, um sich an einem eiskalten Tag aufzuwärmen und die königliche schwedische Geschichte ausgiebig im Warmen zu studieren.",
+                "hu": "Kiváló hely arra, hogy egy fagyos téli napon kényelmesen felmelegedjen, és a jól fűtött terekben alaposan tanulmányozza a lenyűgöző királyi történelmet.",
+                "ro": "Un loc excelent pentru a vă încălzi într-o zi geroasă de iarnă, studiind istoria regală suedeză în interiorul confortabil și deosebit de primitor.",
+                "en": "An excellent and cozy place to warm up on a freezing winter day while comfortably studying the fascinating royal Swedish history inside its heated rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Haga-Palastes",
+                "hu": "Haga-palota romjai",
+                "ro": "Ruinele Palatului Haga",
+                "en": "Haga Palace Ruins"
+              },
+              "tip_5lang": {
+                "de": "Unter einer weißen Schneedecke sehen die Ruinen absolut märchenhaft aus; Vorsicht vor vereisten und sehr rutschigen Wegen im Schatten des Parks.",
+                "hu": "A vastag hótakaró alatt a romok mesébe illőek és gyönyörűek; azonban legyen nagyon óvatos, mert a park árnyékos ösvényei télen rendkívül csúszósak és jegesek.",
+                "ro": "Sub un strat alb de zăpadă, ruinele arată absolut de basm; aveți însă mare grijă la potecile înghețate și foarte alunecoase din zonele umbrite ale parcului.",
+                "en": "Covered in white snow, the old ruins look like something out of a fairytale; just be cautious of the highly icy and slippery park paths in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Prinz Gustafs Monument",
+                "hu": "Gusztáv herceg emlékműve",
+                "ro": "Monumentul Prințului Gustaf",
+                "en": "Prins Gustafs monument"
+              },
+              "tip_5lang": {
+                "de": "Das beeindruckende Denkmal ist oft wunderschön eingeschneit; genießen Sie den majestätischen Anblick im schnell schwindenden Licht des frühen Nachmittags.",
+                "hu": "Az emlékmű gyakran gyönyörűen, vastagon havas; élvezze a fenséges látványt a kora délutáni, rohamosan fogyatkozó és misztikus téli fényviszonyok között.",
+                "ro": "Monumentul impresionant este adesea acoperit frumos de zăpadă; admirați-l în lumina difuză și scurtă a după-amiezii târzii de iarnă scandinavă.",
+                "en": "The monument is often beautifully covered in thick snow; simply enjoy the majestic and scenic view in the quickly fading light of the early winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustav III. Pavillon",
+                "hu": "III. Gusztáv pavilonja",
+                "ro": "Pavilionul lui Gustav al III-lea",
+                "en": "Gustav III:s paviljong"
+              },
+              "tip_5lang": {
+                "de": "Die hell beleuchteten Räume wirken im frühen Winterdunkel besonders einladend und bieten Ihnen am Ende des Tages eine warme, höchst elegante königliche Atmosphäre.",
+                "hu": "A kivilágított belső terek a korai téli sötétben különösen hívogatóak, kifejezetten meleg és rendkívül elegáns királyi atmoszférát biztosítva a nap végén.",
+                "ro": "Încăperile elegant luminate sunt deosebit de primitoare în întunericul timpuriu al iernii, oferind o atmosferă extrem de caldă și regală la finalul zilei.",
+                "en": "The illuminated rooms are especially inviting in the early winter darkness, offering a wonderfully warm and highly elegant royal atmosphere to conclude the day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúrája Kungshögen és Mellanjärva lenyűgöző vaskori sírhalmainál indul. Délben dél felé pedálozva a színes Olle Olsson Múzeum és az informatív Haga Parkmúzeum várja. A délután frissítő vízparti pihenést kínál a Huvudsta strandbadnál. Végül az estéje a Marabouparken kortárs művészeti kiállításai és gyönyörű szobrai között, egy kellemes kávézóban csendesedik el.",
         "ro": "Plimbarea cu bicicleta începe la movilele funerare din Epoca Fierului de la Kungshögen și Mellanjärva. La prânz, pedalând spre sud, ajungeți la coloratul muzeu Olle Olsson și la Haga Parkmuseum. După-amiaza vă oferă o pauză răcoroasă pe malul apei, la Huvudsta strandbad. În cele din urmă, seara se încheie printre arta contemporană și sculpturile superbe din Marabouparken.",
         "en": "Your ride begins at the monumental Iron Age burial mounds of Kungshögen and Mellanjärva. By midday, pedaling south takes you to the colorful Olle Olsson Hagalund-museet and the insightful Haga Parkmuseum. The afternoon offers a refreshing waterfront break at Huvudsta strandbad. Finally, your evening winds down among the contemporary art and beautiful sculptures of Marabouparken."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie trotz leichtem Regen zu den Kungshögen-Gräbern; achten Sie auf nasse Wege. Mittags bietet das Olle Olsson Hagalund-Museum einen bunten, trockenen Zufluchtsort. Nachmittags radeln Sie vorsichtig zum Haga Parkmuseum und machen einen kurzen, regnerischen Halt am Huvudsta Strandbad. Beenden Sie den Tag im Trockenen der Marabouparken Kunsthalle und genießen Sie dort die Ausstellungen.",
+            "hu": "Esőben is tekerjen el a Kungshögen sírhalmokhoz, de vigyázzon a csúszós utakon. Délben az Olle Olsson múzeum színes, száraz menedéket nyújt. Délután óvatosan biciklizzen a Haga Parkmúzeumhoz, majd tegyen egy rövid esős kitérőt a Huvudsta strandbadhoz. Az estét a Marabouparken műcsarnokban zárja, ahol a kortárs művészeti kiállításokat kényelmesen, az esőtől védve tekintheti meg.",
+            "ro": "Pedalați prin ploaie spre Kungshögen, dar atenție la potecile alunecoase. La prânz, Muzeul Olle Olsson oferă un refugiu plin de culoare și uscat. După-amiaza, mergeți cu grijă spre Haga Parkmuseum și faceți un scurt popas la Huvudsta Strandbad. Încheiați ziua în galeria de artă Marabouparken, bucurându-vă de expozițiile fascinante la adăpost de vremea umedă de afară.",
+            "en": "Cycle through the rain to the Kungshögen mounds, but be mindful of slippery paths. At noon, the Olle Olsson Museum provides a colorful, dry refuge. In the afternoon, ride carefully to the Haga Parkmuseum, followed by a quick rainy stop at Huvudsta strandbad. End your evening at the Marabouparken art gallery, where you can comfortably enjoy the contemporary exhibitions out of the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kungshögen",
+                "hu": "Kungshögen sírhalmok",
+                "ro": "Kungshögen",
+                "en": "Kungshögen"
+              },
+              "tip_5lang": {
+                "de": "Die nassen, grasbewachsenen Hügel können bei Regen sehr rutschig sein; schieben Sie Ihr Fahrrad am besten das letzte Stück, um Stürze zu vermeiden.",
+                "hu": "A nedves füves dombok esőben rendkívül csúszósak lehetnek; a balesetveszély miatt érdemes a kerékpárt az utolsó szakaszon óvatosan tolni.",
+                "ro": "Movilele înierbate umede pot fi foarte alunecoase pe ploaie; este mult mai sigur să împingeți bicicleta pe ultima porțiune pentru a evita căderile.",
+                "en": "The wet grassy mounds can be very slippery in the rain; it's highly recommended to safely push your bike for the last stretch to avoid any slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Mellanjärva Gräberfeld",
+                "hu": "Mellanjärva temető",
+                "ro": "Cimitirul Mellanjärva",
+                "en": "Mellanjärva gravfält"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie einen kurzen Halt an diesem historischen Feld; tragen Sie gute Regenkleidung, da es auf dem weiten Gelände beim Fahren sehr zugig ist.",
+                "hu": "Rövid megálló ezen a nyílt történelmi területen; viseljen minőségi esőruhát, mert a sík terepen tekerve nagyon fújhat a szél és verhet az eső.",
+                "ro": "Faceți o oprire scurtă la acest câmp istoric deschis; purtați haine bune de ploaie, deoarece zona este foarte bătută de vânt în timpul pedalatului.",
+                "en": "Plan a brief stop at this historic field; make sure to wear top-quality rain gear, as the open terrain can be very windy and exposed while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Olle Olsson Hagalund-Museum",
+                "hu": "Olle Olsson Hagalund-múzeum",
+                "ro": "Muzeul Olle Olsson Hagalund",
+                "en": "Olle Olsson Hagalund-museet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das nasse Rad sicher ab und genießen Sie die farbenfrohe Kunst in diesem herrlich trockenen, gemütlichen und warmen historischen Holzhaus.",
+                "hu": "Támassza le biztonságosan a vizes biciklit, és élvezze a színpompás művészetet ebben a tökéletesen száraz, hívogató, hangulatos és régi faházban.",
+                "ro": "Parcați în siguranță bicicleta udă și bucurați-vă de arta colorată în această casă de lemn istorică, complet uscată, primitoare și confortabilă.",
+                "en": "Safely park your wet bike and enjoy the colorful, vibrant art inside this wonderfully dry, cozy, and very welcoming historical wooden house."
+              }
+            },
+            {
+              "name": {
+                "de": "Haga Parkmuseum",
+                "hu": "Haga Parkmúzeum",
+                "ro": "Haga Parkmuseum",
+                "en": "Haga Parkmuseum"
+              },
+              "tip_5lang": {
+                "de": "Eine absolut ideale Indoor-Pause auf Ihrer regnerischen Radtour, um sich gründlich abzutrocknen und die Geschichte des Parks in Ruhe zu erkunden.",
+                "hu": "Abszolút ideális beltéri pihenő a nedves, esős biciklitúra során, ahol kicsit megszáradhat és kényelmesen felfedezheti a kastélypark lenyűgöző történetét.",
+                "ro": "O pauză ideală la interior în timpul turului ploios cu bicicleta, unde vă puteți usca bine și descoperi în liniște istoria fascinantă a parcului.",
+                "en": "An absolutely ideal indoor break during your rainy bike tour, allowing you to thoroughly dry off and comfortably explore the park's history in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Huvudsta Strandbad",
+                "hu": "Huvudsta strandbad",
+                "ro": "Plaja Huvudsta",
+                "en": "Huvudsta strandbad"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen völlig verlassen; genießen Sie den dramatischen Blick auf das aufgewühlte Wasser, aber bleiben Sie nicht zu lange im nassen Wind.",
+                "hu": "A vízpart esőben teljesen kihalt; élvezze a drámai kilátást a felkavart sötét vízre, de ne időzzön sokat a fázós, nedves és kellemetlen szélben.",
+                "ro": "Plaja este complet pustie pe ploaie; bucurați-vă de priveliștea dramatică a apei agitate, dar nu zăboviți prea mult în vântul ud și neplăcut.",
+                "en": "The beach is completely deserted in the rain; enjoy the highly dramatic view of the choppy water, but don't linger too long in the cold, wet wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Marabouparken Kunsthalle",
+                "hu": "Marabouparken műcsarnok",
+                "ro": "Galeria de artă Marabouparken",
+                "en": "Marabouparken konsthall"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Radtour gemütlich im Trockenen; die großzügigen Galerien bieten Ihnen viel Platz für die Aufbewahrung nasser Regenmäntel und Fahrradhelme.",
+                "hu": "Zárja a kerékpártúrát kényelmesen, szárazon; a tágas galériákban bőven elférnek a csepegő, nedves esőkabátok és a vizes kerékpáros sisakok is.",
+                "ro": "Încheiați turul cu bicicleta la uscat și confortabil; galeriile spațioase oferă suficient loc pentru depozitarea pelerinelor de ploaie și a căștilor ude.",
+                "en": "End your cycling tour comfortably in the dry indoors; the spacious art galleries provide plenty of room to easily store wet raincoats and bike helmets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln Sie gut eingepackt zu den verschneiten Kungshögen-Gräbern. Mittags können Sie sich im Olle Olsson Hagalund-Museum aufwärmen. Am Nachmittag bietet das Haga Parkmuseum eine weitere warme Pause, bevor Sie das frostige Huvudsta Strandbad passieren. Lassen Sie den Tag nach dem frühen Sonnenuntergang in der gemütlichen Marabouparken Kunsthalle ausklingen.",
+            "hu": "Egy fagyos téli reggelen, melegen felöltözve tekerjen a havas Kungshögen sírhalmokhoz. Délben az Olle Olsson múzeumban melegedhet át a festmények között. Délután a Haga Parkmúzeum nyújt újabb menedéket, mielőtt a jeges Huvudsta strandbad felé venné az irányt. A korai sötétedés után zárja a napot a Marabouparken műcsarnok melegében, gyönyörködve a lenyűgöző művészeti alkotásokban.",
+            "ro": "Într-o dimineață de iarnă, pedalați bine îmbrăcați spre movilele înzăpezite Kungshögen. La prânz, vă puteți încălzi admirând arta la Muzeul Olle Olsson. După-amiaza, Haga Parkmuseum oferă o nouă pauză caldă înainte de a trece pe lângă înghețata plajă Huvudsta. După apusul timpuriu, încheiați ziua la galeria de artă Marabouparken, bucurându-vă de cultură la căldură.",
+            "en": "On a crisp winter morning, bundle up and cycle to the snow-covered Kungshögen burial mounds. At noon, warm up while admiring art at the Olle Olsson Museum. In the afternoon, the Haga Parkmuseum provides another warm break before passing the icy Huvudsta strandbad. After the early sunset, end your day at the cozy Marabouparken art gallery, enjoying the exhibits in total warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kungshögen",
+                "hu": "Kungshögen sírhalmok",
+                "ro": "Kungshögen",
+                "en": "Kungshögen"
+              },
+              "tip_5lang": {
+                "de": "Eine wunderschöne, weiße und verschneite Landschaft, aber achten Sie besonders beim Bremsen auf unsichtbare Eisflächen auf den Radwegen dorthin.",
+                "hu": "Gyönyörű, teljesen havas táj fogadja, de biciklizés és fékezés közben nagyon figyeljen a kerékpárutakon megbúvó, alattomos, láthatatlan jégfoltokra.",
+                "ro": "Un peisaj înzăpezit superb și complet alb, dar fiți extrem de atenți la frânare pe porțiunile de gheață invizibile de pe pistele de biciclete.",
+                "en": "A beautiful, entirely snow-covered landscape awaits, but be extremely careful of hidden ice patches on the bike paths, especially when braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Mellanjärva Gräberfeld",
+                "hu": "Mellanjärva temető",
+                "ro": "Cimitirul Mellanjärva",
+                "en": "Mellanjärva gravfält"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Gräber zeichnen sich mystisch im tiefen Schnee ab; fahren Sie äußerst langsam, um auf den hart gefrorenen Wegen nicht wegzurutschen.",
+                "hu": "A történelmi sírok misztikusan rajzolódnak ki a mély hóban; vezessen rendkívül lassan, nehogy megcsússzon a keményre fagyott, veszélyes ösvényeken.",
+                "ro": "Mormintele istorice se conturează mistic în zăpada adâncă; pedalați extrem de încet pentru a nu aluneca pe potecile înghețate și foarte dure.",
+                "en": "The historic graves stand out mystically in the deep snow; ride your bike extremely slowly to avoid slipping on the hard-frozen and dangerous paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Olle Olsson Hagalund-Museum",
+                "hu": "Olle Olsson Hagalund-múzeum",
+                "ro": "Muzeul Olle Olsson Hagalund",
+                "en": "Olle Olsson Hagalund-museet"
+              },
+              "tip_5lang": {
+                "de": "Ein absolut perfekter Ort zum Aufwärmen! Das farbenfrohe Interieur vertreibt sofort die graue, beißende Winterkälte nach der eisigen Fahrt.",
+                "hu": "Abszolút tökéletes hely a felmelegedésre! A színes, vidám belső tér azonnal elűzi a kinti zord és csípős téli hideget a fagyos kerékpározás után.",
+                "ro": "Un loc absolut perfect pentru a vă încălzi! Interiorul colorat și vesel alungă instantaneu frigul gri și mușcător al iernii după o cursă înghețată.",
+                "en": "An absolutely perfect place to warm up! The colorful and cheerful interior instantly banishes the harsh, biting winter cold after a freezing ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Haga Parkmuseum",
+                "hu": "Haga Parkmúzeum",
+                "ro": "Haga Parkmuseum",
+                "en": "Haga Parkmuseum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die wohlige Heizungsluft im Museum ausgiebig, um Ihre eiskalten Hände wieder richtig aufzuwärmen, bevor Sie in die Kälte weiterradeln.",
+                "hu": "Használja ki a múzeum kellemes, meleg fűtését, hogy alaposan felmelegítse jéghideg, fagyos kezeit, mielőtt újra nyeregbe pattan a csípős hidegben.",
+                "ro": "Profitați din plin de căldura plăcută a muzeului pentru a vă încălzi complet mâinile înghețate bocnă înainte de a continua să pedalați în frig.",
+                "en": "Take full advantage of the museum's pleasant heating to properly warm up your freezing hands before bravely getting back on your bike in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Huvudsta Strandbad",
+                "hu": "Huvudsta strandbad",
+                "ro": "Plaja Huvudsta",
+                "en": "Huvudsta strandbad"
+              },
+              "tip_5lang": {
+                "de": "Das dicke Eis auf dem Wasser glitzert oft zauberhaft im flachen Winterlicht; ein rauer, aber wunderschöner und einzigartiger Fotostopp auf Ihrer Tour.",
+                "hu": "A vastag jég a vízen gyakran varázslatosan csillog a lapos téli fényben; zord, fagyos, de gyönyörű és egyedi fotómegálló a kerékpártúrán.",
+                "ro": "Gheața groasă de pe apă strălucește adesea magic în lumina plată a iernii; o oprire aspră, geroasă, dar unică și superbă pentru fotografii pe traseu.",
+                "en": "The thick ice on the water often sparkles magically in the flat winter light; a harsh, freezing, but exceptionally beautiful photo stop on your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Marabouparken Kunsthalle",
+                "hu": "Marabouparken műcsarnok",
+                "ro": "Galeria de artă Marabouparken",
+                "en": "Marabouparken konsthall"
+              },
+              "tip_5lang": {
+                "de": "Nach dem frühen Einbruch der Dunkelheit ist diese wunderbar warme Kunsthalle der perfekte Rückzugsort, um den winterlichen Radeltag sanft zu beenden.",
+                "hu": "A korai sötétedés beállta után ez a csodálatosan meleg műcsarnok tökéletes, kényelmes menedék a hideg elől, hogy kulturálisan zárja a téli biciklis napot.",
+                "ro": "După lăsarea întunecată și timpurie a serii, această galerie minunat de caldă este refugiul perfect pentru a încheia confortabil ziua de ciclism de iarnă.",
+                "en": "After the very early sunset, this wonderfully warm art gallery becomes the perfect cozy retreat to comfortably conclude your demanding winter cycling day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túráját a történelmi Ulvsunda kastélynál kezdi, mielőtt a meglepően lenyűgöző svéd vízvezeték-múzeumba indulna. A délidő helyi kulturális élményeket hoz a Sundbybergs múzeumban és a Marabouparken buja művészeti tereiben. Késő délután hajtson északra, hogy felfedezze az ősi Kungshögen halmokat. A napot a Pillangóház egzotikus vízi és légi élővilágának megcsodálásával zárhatja.",
         "ro": "Începeți traseul auto la istoricul Ulvsunda Slott, înainte de a vizita surprinzătorul muzeu suedez al instalațiilor sanitare. Amiaza aduce imersiune culturală la muzeul Sundbybergs și în spațiile artistice din Marabouparken. După-amiaza târziu, conduceți spre nord pentru a explora vechile movile Kungshögen. Ziua se termină cu viața exotică și acvatică fascinantă de la Casa Fluturilor.",
         "en": "Kick off your driving route at the historic Ulvsunda Slott before heading to the surprisingly fascinating Sveriges VVS-museum. Midday brings local cultural immersion at Sundbybergs museum and the lush art spaces of Marabouparken. In the late afternoon, drive north to experience the ancient Kungshögen mounds. Your day finishes with the exotic aquatic and aerial life at the Butterfly House."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem regnerischen Morgen bequem zum Schloss Ulvsunda, um dem Wetter zu entfliehen. Mittags bietet das VVS-Museum eine trockene und faszinierende Ausstellung. Nachmittags erkunden Sie das Sundbybergs Museum und die Marabouparken Kunsthalle im Trockenen. Abends machen Sie einen kurzen Halt in Kungshögen mit Regenschirm und entspannen dann im tropischen Schmetterlingshaus.",
+            "hu": "Egy esős reggelen vezessen kényelmesen az Ulvsunda kastélyhoz, távol az időjárás viszontagságaitól. Délben a VVS-múzeum nyújt száraz és érdekes programot. Délután fedezze fel a Sundbybergs múzeumot és a Marabouparken műcsarnokot esőmentesen. Este tegyen egy gyors, esernyős sétát a Kungshögennél, majd zárja a napot a Haga Ocean Pillangóház trópusi és száraz melegében.",
+            "ro": "Conduceți în dimineața ploioasă spre Castelul Ulvsunda pentru a scăpa de vremea urâtă. La prânz, Muzeul VVS oferă o expoziție interioară uscată și interesantă. După-amiaza, explorați Muzeul Sundbybergs și galeria Marabouparken la adăpost. Seara, opriți scurt cu umbrela la Kungshögen, apoi relaxați-vă în atmosfera tropicală și plăcută de la Casa Fluturilor Haga Ocean.",
+            "en": "Drive comfortably to Ulvsunda Castle on a rainy morning to escape the downpour. At noon, the VVS Museum offers a dry and fascinating indoor exhibition. In the afternoon, explore the Sundbybergs Museum and Marabouparken art gallery, completely sheltered from the rain. In the evening, make a quick umbrella stop at Kungshögen before relaxing in the tropical Butterfly House."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Ulvsunda",
+                "hu": "Ulvsunda kastély",
+                "ro": "Castelul Ulvsunda",
+                "en": "Ulvsunda Slott"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so nah wie möglich am Eingang und treten Sie schnell in das prachtvolle Schloss ein, um den eisigen Regentropfen ganz zu entkommen.",
+                "hu": "Parkoljon az autóval a lehető legközelebb a bejárathoz, és lépjen be gyorsan a pompás kastélyba, hogy elmeneküljön a heves és hideg eső elől.",
+                "ro": "Parcați mașina cât mai aproape de intrare și pășiți rapid în magnificul castel regal pentru a scăpa complet de picăturile reci și abundente de ploaie.",
+                "en": "Park your car as close to the main entrance as possible and step quickly into the magnificent castle to fully escape the heavy and cold raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwedisches VVS-Museum",
+                "hu": "Svéd VVS-múzeum",
+                "ro": "Muzeul Suedez VVS",
+                "en": "Sveriges VVS-museum"
+              },
+              "tip_5lang": {
+                "de": "Eine hervorragende, komplett überdachte Attraktion; das historische Thema Wasser passt ironischerweise absolut perfekt zum nassen Regenwetter draußen.",
+                "hu": "Kiváló, teljesen fedett és száraz látványosság; a történelmi vízvezetékek témája ironikus módon abszolút tökéletesen illik a kinti esős és nedves időhöz.",
+                "ro": "O atracție excelentă, complet acoperită la interior; tema istorică a instalațiilor de apă se potrivește ironic de perfect cu vremea ploioasă de afară.",
+                "en": "An excellent, fully indoor attraction; the historical plumbing and water theme ironically perfectly matches the very wet and rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sundbybergs Museum",
+                "hu": "Sundbybergs múzeum",
+                "ro": "Muzeul Sundbybergs",
+                "en": "Sundbybergs museum"
+              },
+              "tip_5lang": {
+                "de": "Ein weiteres wunderbar trockenes Museumsziel; ideal, um die spannende lokale Geschichte zu erleben, ohne beim Aussteigen auch nur einen Tropfen abzubekommen.",
+                "hu": "Egy újabb csodálatosan száraz múzeumi célpont; ideális a helyi történelem megismerésére anélkül, hogy a parkolásnál egy csepp eső is érné a ruháját.",
+                "ro": "O altă destinație muzeală uscată minunată; ideală pentru a experimenta istoria locală fără a vă uda absolut deloc la ieșirea rapidă din mașină.",
+                "en": "Another wonderfully dry museum destination; ideal for completely experiencing local history without getting a single drop of rain on you when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Marabouparken Kunsthalle",
+                "hu": "Marabouparken műcsarnok",
+                "ro": "Galeria de artă Marabouparken",
+                "en": "Marabouparken konsthall"
+              },
+              "tip_5lang": {
+                "de": "Das Parken ist hier äußerst einfach, und die Kunsthalle bietet einen angenehm hellen, geschützten Raum, wenn der Himmel draußen komplett grau und nass ist.",
+                "hu": "A parkolás itt rendkívül egyszerű, a műcsarnok pedig nagyon világos, védett teret kínál a kikapcsolódásra, ha odakint az ég teljesen szürke és esős.",
+                "ro": "Parcarea este extrem de ușoară aici, iar galeria de artă oferă un spațiu luminos și bine protejat când cerul de afară este complet gri și foarte ploios.",
+                "en": "Parking is extremely easy here, and the art gallery offers a pleasantly bright, protected space to relax when the sky outside is completely gray and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kungshögen",
+                "hu": "Kungshögen",
+                "ro": "Kungshögen",
+                "en": "Kungshögen"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie unbedingt einen großen Regenschirm aus dem Auto; der Weg zu den Grabhügeln ist zwar sehr kurz, aber dem starken Wind völlig ungeschützt.",
+                "hu": "Vegyen elő egy nagyon nagy esernyőt a csomagtartóból; a sírhalmokhoz vezető séta ugyan rövid, de a terület teljesen védtelen az erős esővel szemben.",
+                "ro": "Luați neapărat o umbrelă mare din portbagaj; drumul scurt spre movilele funerare este complet expus la vânturile puternice și la ploaia abundentă.",
+                "en": "Make sure to grab a large umbrella from your car; the walk to the burial mounds is very short but completely exposed to the harsh wind and heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schmetterlingshaus Haga Ocean",
+                "hu": "Pillangóház Haga Ocean",
+                "ro": "Casa Fluturilor Haga Ocean",
+                "en": "Butterfly House Haga Ocean"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines grauen, verregneten Fahrtags: Tauchen Sie in eine warme, extrem trockene und herrlich farbenfrohe Tropenwelt voll Leben ein.",
+                "hu": "Egy szürke, esős autós nap tökéletes lezárása: merüljön el a trópusi klímájú, meleg, teljesen száraz és rendkívül színpompás lepkeház varázslatos világában.",
+                "ro": "Încheierea perfectă a unei zile ploioase de condus: scufundați-vă într-o lume tropicală extrem de caldă, complet uscată și plină de culori vibrante.",
+                "en": "The absolute perfect conclusion to a rainy driving day: dive completely into a warm, fully dry, and wonderfully colorful tropical world full of life."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen mit einer warmen Autofahrt zum beeindruckenden Schloss Ulvsunda. Mittags können Sie sich bei einem Rundgang durch das beheizte VVS-Museum aufwärmen. Am Nachmittag erkunden Sie das Sundbybergs Museum und die Kunsthalle, bevor die Sonne früh untergeht. Beenden Sie den Tag bei den verschneiten Kungshögen und dem gemütlichen, warmen Schmetterlingshaus.",
+            "hu": "Kezdje a téli reggelt egy meleg autózással a lenyűgöző Ulvsunda kastélyhoz. Délben a fűtött VVS-múzeum kiállításain melegedhet át. Délután a korai sötétedés előtt fedezze fel a Sundbybergs múzeumot és a műcsarnokot. Az estét a havas Kungshögen sírhalmok rövid megtekintésével, majd a Haga Ocean Pillangóház trópusi, kellemes melegében zárja, elfeledve a kinti fagyot.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare călduroasă cu mașina până la impresionantul Castel Ulvsunda. La prânz, încălziți-vă la expozițiile Muzeului VVS. După-amiaza, explorați Muzeul Sundbybergs și galeria de artă înainte ca soarele să apună devreme. Încheiați ziua cu o privire scurtă la movilele înzăpezite Kungshögen, urmată de o vizită caldă la Casa Fluturilor Haga Ocean.",
+            "en": "Start your winter morning with a warm drive to the impressive Ulvsunda Castle. At noon, warm up while touring the indoor exhibits of the VVS Museum. In the afternoon, explore the Sundbybergs Museum and art gallery before the early sunset. End the day by briefly checking out the snow-covered Kungshögen, followed by a cozy and warm retreat into the tropical Butterfly House."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Ulvsunda",
+                "hu": "Ulvsunda kastély",
+                "ro": "Castelul Ulvsunda",
+                "en": "Ulvsunda Slott"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss bietet eine wunderbar gemütliche und angenehm beheizte Atmosphäre, absolut perfekt, um den eiskalten Wintermorgen königlich und warm zu beginnen.",
+                "hu": "A kastély rendkívül fűtött, hívogató atmoszférája tökéletes helyszín arra, hogy melegben és igazi királyi pompában kezdje a fagyos, hideg téli reggelt.",
+                "ro": "Castelul oferă o atmosferă minunat de caldă și foarte primitoare, absolut perfectă pentru a începe dimineața geroasă de iarnă într-un mod confortabil și regal.",
+                "en": "The castle's wonderfully heated and highly inviting atmosphere provides the absolutely perfect setting to start your freezing winter morning in royal warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwedisches VVS-Museum",
+                "hu": "Svéd VVS-múzeum",
+                "ro": "Muzeul Suedez VVS",
+                "en": "Sveriges VVS-museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem tiefen Schnee in dieses warme Museum und erfahren Sie alles über die faszinierende Geschichte der schwedischen Heizungstechnik.",
+                "hu": "Meneküljön a nagy hó elől ebbe a meleg, barátságos múzeumba, és tudjon meg mindent a svéd fűtés- és vízvezetékszerelés lenyűgöző téli történetéről.",
+                "ro": "Scăpați de zăpada adâncă în acest muzeu cald și aflați absolut totul despre istoria fascinantă a tehnicii de încălzire suedeze pe timp de iarnă.",
+                "en": "Escape the deep snow into this warm, welcoming museum and learn absolutely everything about the fascinating history of Swedish winter heating engineering."
+              }
+            },
+            {
+              "name": {
+                "de": "Sundbybergs Museum",
+                "hu": "Sundbybergs múzeum",
+                "ro": "Muzeul Sundbybergs",
+                "en": "Sundbybergs museum"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das eiskalte Auto einfach stehen und verbringen Sie viel Zeit in den gut beheizten, einladenden Räumen dieses spannenden lokalen Stadtmuseums.",
+                "hu": "Hagyja hátra a hideg autót a parkolóban, és töltsön el hosszabb időt ennek az izgalmas városi múzeumnak a nagyon jól fűtött, kényelmes és világos termeiben.",
+                "ro": "Lăsați mașina rece în parcare și petreceți mai mult timp în camerele foarte bine încălzite și primitoare ale acestui muzeu municipal plin de cultură.",
+                "en": "Simply leave your freezing cold car behind and spend ample time in the very well-heated, highly engaging rooms of this interesting local city museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Marabouparken Kunsthalle",
+                "hu": "Marabouparken műcsarnok",
+                "ro": "Galeria de artă Marabouparken",
+                "en": "Marabouparken konsthall"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Kunstausstellungen sind ein wunderbarer, sehr warmer Kontrast zur ungemütlichen, frühen winterlichen Dunkelheit im schneebedeckten Park draußen.",
+                "hu": "A fényes kortárs művészeti kiállítások csodálatos, meleg kontrasztot nyújtanak a kinti hólepte park zord, barátságtalan és nagyon korai téli sötétségével szemben.",
+                "ro": "Expozițiile luminoase de artă oferă un contrast cald și minunat față de întunericul neplăcut și extrem de timpuriu de iarnă din parcul înzăpezit de afară.",
+                "en": "The brightly lit contemporary art exhibitions provide a wonderful, warm contrast to the very early and gloomy winter darkness in the snowy park outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kungshögen",
+                "hu": "Kungshögen",
+                "ro": "Kungshögen",
+                "en": "Kungshögen"
+              },
+              "tip_5lang": {
+                "de": "Im tiefen Winter sind die weiten Hügel wunderschön verschneit; ziehen Sie sich für diesen extrem kurzen Outdoor-Fotostopp aus dem Auto besonders warm an.",
+                "hu": "Télen a hatalmas halmok gyönyörűen, vastagon havasak; öltözzön fel különösen melegen ehhez az autóból kiszállós, mindössze pár perces, fagyos fotómegállóhoz.",
+                "ro": "În plină iarnă, movilele sunt frumos acoperite de zăpadă groasă; îmbrăcați-vă extrem de gros pentru această scurtă oprire de făcut poze chiar lângă mașină.",
+                "en": "In deep winter, the massive mounds are beautifully covered in thick snow; dress extra warmly for this extremely brief outdoor photo stop straight out of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Schmetterlingshaus Haga Ocean",
+                "hu": "Pillangóház Haga Ocean",
+                "ro": "Casa Fluturilor Haga Ocean",
+                "en": "Butterfly House Haga Ocean"
+              },
+              "tip_5lang": {
+                "de": "Nach der langen Fahrt durch die Kälte ist dies der wärmste Ort der Stadt; entspannen Sie sich vollständig bei den herrlichen, tropischen Temperaturen hier drinnen.",
+                "hu": "A hidegben való vezetés után ez garantáltan a város legmelegebb helye; lazítson és melegedjen fel a kellemes, igazi trópusi hőmérsékleten ebben a csodás oázisban.",
+                "ro": "După condusul lung prin frig, acesta este cu siguranță cel mai cald loc din oraș; relaxați-vă complet la temperaturile tropicale minunate din această oază.",
+                "en": "After driving all day through the freezing cold, this is the warmest place in the city; fully relax in the incredibly pleasant and soothing tropical temperatures inside."
+              }
+            }
+          ]
+        }
       }
     }
   }

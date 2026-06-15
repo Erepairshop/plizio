@@ -160,6 +160,196 @@
         "hu": "Reggel: Kezdje a napot a Tamás-templomban, ahol Bach öröksége ma is él, majd csodálja meg a Régi Városháza lenyűgöző reneszánsz építészetét.\nDélben: Sétáljon végig a Mädler Passage árkádjain nézelődve, majd elmélkedjen a modern történelemről a békés Miklós-templom csendes falai között.\nDélután: Merüljön el a régmúltban az Egyiptomi Múzeumban, ahol évezredes, gondosan megőrzött leleteket fedezhet fel.\nEste: Zárja sétáját éles elméjű humorral az academixer-Kellerben, elmerülve a kabarékultúrában.",
         "ro": "Dimineața: Începeți la Biserica Sf. Toma, unde moștenirea lui Bach trăiește, înainte de a admira arhitectura renascentistă a Vechii Primării.\nPrânz: Plimbați-vă prin Pasajul Mädler pentru a admira vitrinele, apoi reflectați asupra istoriei moderne în interiorul Bisericii Sf. Nicolae.\nDupă-amiaza: Pătrundeți în trecutul îndepărtat la Muzeul Egiptean, descoperind artefacte vechi de milenii.\nSeara: Încheiați-vă turul cu umor ascuțit și râsete la academixer-Keller, cufundându-vă în tradiția cabaretului.",
         "en": "Morning: Start at the iconic St. Thomas Church, where J.S. Bach's legacy still resonates, before marveling at the Renaissance architecture of the Old Town Hall.\nMidday: Wander through the elegant Mädler Passage for high-end window shopping, then reflect on modern history inside the peaceful walls of St. Nicholas Church.\nAfternoon: Delve into the deep past at the Ägyptisches Museum, discovering millennia-old artifacts meticulously preserved right in the heart of Leipzig.\nEvening: Conclude your walking tour with sharp wit and laughter at academixer-Keller, completely immersing yourself in Germany's beloved cabaret tradition."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Leipzig lässt sich am besten in den prächtigen Passagen genießen. Vormittags bieten die Kirchen trockenen Unterschlupf und Stille. Mittags schützen die historischen Arkaden vor dem Wetter, während Sie das Rathaus bestaunen. Der Nachmittag gehört der ägyptischen Geschichte in geschlossenen Räumen. Abends steigen Sie in den gemütlichen Kabarettkeller hinab.",
+            "hu": "Egy esős lipcsei napon a város híres passzázsai nyújtanak menedéket. Reggel a templomok békéje várja, ahol szárazon maradhat. Délben a történelmi árkádok alatt sétálva csodálhatja meg a városházát. A délután az egyiptomi tárlat felfedezéséé a zárt múzeumban. Az este egy hangulatos, föld alatti kabaré pincéjében ér véget, ahol teljesen kizárhatja a kinti szürkeséget.",
+            "ro": "O zi ploioasă în Leipzig este ideală pentru a explora faimoasele pasaje acoperite. Dimineața, bisericile oferă un refugiu liniștit și uscat. La prânz, arcadele istorice vă protejează în timp ce admirați primăria. După-amiaza este dedicată istoriei egiptene în spații interioare călduroase. Seara, coborâți în subsolul primitor al unui cabaret pentru a uita de vremea de afară.",
+            "en": "A rainy day in Leipzig is best spent within the city's grand covered passages. Spend your morning in the dry, silent nave of the churches. At midday, let the historical arcades shield you from the wet while exploring the center. The afternoon is perfect for the Egyptian Museum's indoor exhibits. End your day in the cozy basement of a cabaret, safe from the evening drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thomaskirche",
+                "hu": "Tamás-templom",
+                "ro": "Biserica Sf. Toma",
+                "en": "St. Thomas Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Bach-Denkmal und die Buntglasfenster im trockenen Kirchenschiff; achten Sie beim Verlassen auf die sehr rutschigen Kopfsteinpflaster rund um den Vorplatz.",
+                "hu": "Csodálja meg a Bach-emlékművet és az üvegablakokat a száraz templomhajóból, de kilépéskor ügyeljen a templomkert körüli, esőtől rendkívül csúszóssá váló macskakövekre.",
+                "ro": "Admirați monumentul lui Bach și vitraliile din nava uscată a bisericii, dar aveți grijă la ieșire, deoarece pavajul din jurul curții devine foarte alunecos când plouă.",
+                "en": "Admire the Bach monument and the stained glass windows from the dry nave, but be careful when leaving as the cobblestones around the churchyard become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Rathaus",
+                "hu": "Régi Városháza",
+                "ro": "Vechea Primărie",
+                "en": "Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Arkadengang des Rathauses als trockenen Laufweg zum Markt; die Ausstellungen im Inneren bieten zudem perfekten Schutz vor starken Regenschauern.",
+                "hu": "Használja a városháza hosszú árkádsorát száraz útvonalként a piac felé, a belső kiállítások pedig tökéletes menedéket nyújtanak a hirtelen lezúduló záporok elől.",
+                "ro": "Folosiți arcada lungă a primăriei ca traseu uscat spre piață; expozițiile din interior oferă, de asemenea, un adăpost perfect împotriva averselor bruște de ploaie.",
+                "en": "Use the long arcade of the town hall as a dry walkway towards the market; the indoor exhibitions also provide a perfect refuge from heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mädler Passage",
+                "hu": "Mädler Passage",
+                "ro": "Pasajul Mädler",
+                "en": "Mädler Passage"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prachtvolle Architektur unter der Glaskuppel völlig trocken; klopfen Sie Ihre Schuhe am Eingang gut ab, um auf dem glatten Marmorboden nicht auszurutschen.",
+                "hu": "Élvezze a pompás építészetet az üvegkupola alatt, teljesen szárazon; a bejáratnál alaposan törölje le a cipőjét, hogy ne csússzon meg a tükörsima márványpadlón.",
+                "ro": "Bucurați-vă de arhitectura magnifică sub cupola de sticlă, stând la uscat; ștergeți-vă bine încălțămintea la intrare pentru a nu aluneca pe podeaua de marmură.",
+                "en": "Enjoy the magnificent architecture under the glass dome while staying completely dry; wipe your shoes well at the entrance to avoid slipping on the polished marble."
+              }
+            },
+            {
+              "name": {
+                "de": "Nikolaikirche",
+                "hu": "Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St. Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von den hellen Pastellfarben im Inneren aufheitern, während es draußen grau ist; nutzen Sie den Seiteneingang, um dem Wind auf dem freien Platz zu entgehen.",
+                "hu": "Hagyja, hogy a belső tér világos pasztellszínei felvidítsák a kinti szürkeségben; használja az oldalsó bejáratot, hogy elkerülje a nyitott téren fújó metsző szelet.",
+                "ro": "Lăsați culorile pastelate luminoase din interior să vă înveselească în timp ce afară e gri; folosiți intrarea laterală pentru a evita vântul din piața deschisă.",
+                "en": "Let the bright pastel colors of the interior cheer you up while it's grey outside; use the side entrance to avoid the wind blowing across the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Ägyptisches Museum",
+                "hu": "Egyiptomi Múzeum",
+                "ro": "Muzeul Egiptean",
+                "en": "Ägyptisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger bei den Exponaten, während der Regen gegen die Scheiben peitscht; geben Sie Ihren nassen Schirm unbedingt an der bewachten Garderobe ab.",
+                "hu": "Időzzön el hosszabban a tárlatoknál, amíg kint dobol az eső az ablakokon; a vizes esernyőjét mindenképpen adja le a ruhatárban, hogy kényelmesen nézelődhessen.",
+                "ro": "Zăboviți mai mult printre exponate în timp ce ploaia bate în geamuri; nu uitați să lăsați umbrela umedă la garderoba supravegheată pentru confort.",
+                "en": "Stay longer among the exhibits while the rain beats against the windows; be sure to leave your wet umbrella at the cloakroom to explore comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "academixer-Keller",
+                "hu": "academixer-Keller",
+                "ro": "academixer-Keller",
+                "en": "academixer-Keller"
+              },
+              "tip_5lang": {
+                "de": "Dieser Keller ist der ideale Ort, um einen Regentag bei Kultur und Getränken zu beenden; bringen Sie eine leichte Jacke mit, da es im Souterrain kühl sein kann.",
+                "hu": "Ez a pince tökéletes hely egy esős nap kulturális lezárásához; hozzon egy könnyű zakót vagy kardigánt, mert a szuterénben hűvösebb lehet a levegő.",
+                "ro": "Acest subsol este locul ideal pentru a încheia o zi ploioasă cu cultură și băuturi; aduceți o jachetă ușoară, deoarece în subteran poate fi răcoare.",
+                "en": "This basement is the ideal place to end a rainy day with culture and drinks; bring a light jacket as it can be cool in the underground theater."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Leipzig bedeutet gemütliche Einkehr und stimmungsvolle Beleuchtung. Der Vormittag beginnt in der Wärme der geschichtsträchtigen Kirchen. Mittags wärmen Sie sich in den Museen der Altstadt auf. Da es gegen 17 Uhr dunkel wird, erstrahlt die Stadt am späten Nachmittag in festlichem Glanz. Den Abend verbringen Sie in der behaglichen Atmosphäre eines Kellerkabaretts.",
+            "hu": "A lipcsei tél a bekuckózásról és a hangulatos fényekről szól. A délelőttöt kezdje a nagy múltú templomok melegében. Délben a belváros múzeumaiban melegedhet fel. Mivel 17 óra körül sötétedik, a város már késő délután ünnepi díszbe öltözik. Az estét töltse egy pincekabaré bensőséges, fűtött termében, távol a téli fagyoktól.",
+            "ro": "Iarna în Leipzig înseamnă refugii primitoare și iluminat atmosferic. Dimineața începe în căldura bisericilor pline de istorie. La prânz, vă puteți încălzi în muzeele din centrul vechi. Deoarece se întunecă în jurul orei 17:00, orașul strălucește în lumini festive încă de după-amiaza. Seara, bucurați-vă de atmosfera intimă a unui cabaret la subsol.",
+            "en": "Winter in Leipzig is all about cozy retreats and atmospheric lights. Start your morning in the warmth of the city's historic churches. At midday, warm up in the old town's museums. Since it gets dark around 5 PM, the city glows with festive lights by late afternoon. Spend your evening in the snug, heated atmosphere of a basement cabaret."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thomaskirche",
+                "hu": "Tamás-templom",
+                "ro": "Biserica Sf. Toma",
+                "en": "St. Thomas Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die angenehme Wärme im Inneren; ziehen Sie sich nach der Besichtigung warm an, da der Wind in den Gassen der Altstadt stark abkühlen kann.",
+                "hu": "Élvezze a csendet és a kellemes belső meleget; a látogatás után öltözzön fel rétegesen, mert az óvárosi szűk utcákban a szél fagyos lehet.",
+                "ro": "Bucurați-vă de liniște și de căldura interioară plăcută; îmbrăcați-vă bine după vizită, deoarece vântul de pe străzile vechi poate fi foarte tăios.",
+                "en": "Enjoy the silence and the pleasant interior warmth; dress warmly after your visit as the wind in the old town streets can be very biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Rathaus",
+                "hu": "Régi Városháza",
+                "ro": "Vechea Primărie",
+                "en": "Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen und die Geschichte lebendig; planen Sie den Besuch für die Mittagszeit, um die hellsten Stunden des Tages drinnen zu nutzen.",
+                "hu": "A vastag falak kint tartják a hideget és bent a történelmet; látogassa meg délidőben, hogy a nap legvilágosabb óráit a fűtött termekben tölthesse.",
+                "ro": "Zidurile groase țin frigul afară și istoria vie; planificați vizita la prânz pentru a profita de cele mai luminoase ore ale zilei în interior.",
+                "en": "The thick walls keep the cold out and history alive; plan your visit for midday to enjoy the brightest hours of the day inside the heated rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Mädler Passage",
+                "hu": "Mädler Passage",
+                "ro": "Pasajul Mädler",
+                "en": "Mädler Passage"
+              },
+              "tip_5lang": {
+                "de": "In der Passage herrscht ein mildes Mikroklima, ideal zum Aufwärmen zwischen den Stopps; bewundern Sie die funkelnde Winterdekoration unter den Glaskuppeln.",
+                "hu": "A passzázsban enyhe mikroklíma uralkodik, ideális a felmelegedésre két megálló között; csodálja meg az üvegkupola alatt csillogó téli dekorációt.",
+                "ro": "În pasaj există un microclimat blând, ideal pentru încălzire între opriri; admirați decorațiunile de iarnă strălucitoare de sub cupolele de sticlă.",
+                "en": "The passage has a mild microclimate, ideal for warming up between stops; admire the sparkling winter decorations under the glass domes."
+              }
+            },
+            {
+              "name": {
+                "de": "Nikolaikirche",
+                "hu": "Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St. Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Die helle Decke wirkt an dunklen Wintertagen besonders einladend; besuchen Sie die Kirche kurz vor 17 Uhr, um danach die beleuchtete Fassade zu bestaunen.",
+                "hu": "A világos mennyezet a sötét téli napokon különösen hívogató; látogasson el ide 17 óra előtt, hogy utána megcsodálhassa a kivilágított homlokzatot.",
+                "ro": "Tavanul luminos este deosebit de primitor în zilele întunecate de iarnă; vizitați biserica înainte de ora 17 pentru a admira apoi fațada iluminată.",
+                "en": "The bright ceiling is especially welcoming on dark winter days; visit shortly before 5 PM to see the illuminated facade right after you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Ägyptisches Museum",
+                "hu": "Egyiptomi Múzeum",
+                "ro": "Muzeul Egiptean",
+                "en": "Ägyptisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Frost und tauchen Sie in die Hitze der Wüstenexponate ein; nutzen Sie die Schließfächer, um schwere Wintermäntel während des Rundgangs abzulegen.",
+                "hu": "Meneküljön el a fagy elől, és merüljön el a sivatagi tárlatok hangulatában; használja a szekrényeket, hogy a nehéz télikabátot letehesse a séta idejére.",
+                "ro": "Evadați de ger și scufundați-vă în atmosfera exponatelor din deșert; folosiți dulapurile pentru a lăsa haina grea de iarnă în timpul turului.",
+                "en": "Escape the frost and immerse yourself in the desert exhibits; use the lockers to leave your heavy winter coat behind during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "academixer-Keller",
+                "hu": "academixer-Keller",
+                "ro": "academixer-Keller",
+                "en": "academixer-Keller"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen langen Winterabend in geselliger Wärme; da die Plätze begehrt sind, sollten Sie in der kalten Jahreszeit unbedingt vorab reservieren.",
+                "hu": "Tökéletes hely egy hosszú téli este eltöltéséhez barátságos melegben; mivel a helyek kelendőek, a hideg évszakban mindenképpen foglaljon előre asztalt.",
+                "ro": "Locul perfect pentru o seară lungă de iarnă în căldură primitoare; deoarece locurile sunt căutate, ar trebui să rezervați neapărat în avans iarna.",
+                "en": "The perfect place for a long winter evening in social warmth; as seats are in high demand during the cold season, be sure to reserve in advance."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Reggel: Kezdje a kerékpártúrát az ipari délnyugaton a Nyomdaművészeti Múzeumban, és tapasztalja meg a történelmi nyomdagépek lenyűgöző mechanikáját.\nDélben: Tekerjen a Zenés Vígjáték Színház felé, majd egyenesen a városközpontba, hogy meglátogassa a fenséges Tamás-templomot.\nDélután: Kerékpározzon a lenyűgöző Régi Városházához, és élvezze az élettel teli piactér történelmi hangulatát.\nEste: Fejezze be túráját a világhírű Lipcsei Állatkertben, sétálva a hatalmas Gondwanalandban, miközben az állatok lecsendesednek.",
         "ro": "Dimineața: Începeți turul cu bicicleta în sud-vestul industrial, la Muzeul Artei Tipografice, experimentând mecanica preselor istorice.\nPrânz: Pedalați spre Comedia Muzicală, apoi mergeți direct în centrul orașului pentru a vizita maiestuoasa Biserică Sf. Toma.\nDupă-amiaza: Mergeți cu bicicleta spre grandioasa Veche Primărie pentru a vă bucura de vibrațiile istorice ale pieței.\nSeara: Terminați-vă plimbarea la faimoasa Grădină Zoologică, rătăcind prin vastul Gondwanaland în timp ce animalele se pregătesc de culcare.",
         "en": "Morning: Kick off your cycling tour in the industrial southwest at the Museum of Printing Arts, experiencing the fascinating mechanics of historical printing presses.\nMidday: Pedal towards the Musical Comedy Theatre to admire its charm, then ride directly into the city center to visit the majestic St. Thomas Church.\nAfternoon: Cycle over to the grand Old Town Hall to soak in the historical market square vibes, taking a moment to appreciate the lively civic atmosphere.\nEvening: Finish your ride at the world-renowned Leipzig Zoo, wandering through the vast Gondwanaland as the animals settle down for the approaching twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Leipzig Vorsicht, besonders bei Straßenbahnschienen. Starten Sie bei Museen, die Ihre Ausrüstung trocken halten. Mittags bieten die Kirchen eine willkommene Pause vom nassen Sattel. Der Nachmittag führt zum Zoo, wo viele überdachte Häuser warten. Trotz Pfützen bleibt die Stadt flach und gut befahrbar, wenn man die glatten Schienen meidet.",
+            "hu": "Az esőben való biciklizés Lipcsében óvatosságot igényel, különösen a villamossínek miatt. Kezdjen olyan múzeumoknál, ahol fedett helyen hagyhatja a felszerelést. Napközben a templomok nyújtanak pihenőt a vizes nyereg után. Délután az állatkert belső pavilonjai várják. A pocsolyák ellenére a város sík marad, így könnyen tekerhető, ha kerüli a csúszós síneket.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în Leipzig, mai ales din cauza șinelor de tramvai. Începeți la muzee care vă mențin echipamentul uscat. La prânz, bisericile oferă o pauză binevenită de la șaua udă. După-amiaza vă conduce la grădina zoologică, unde vă așteaptă pavilioane acoperite. În ciuda bălților, orașul este plat și ușor de parcurs.",
+            "en": "Cycling in the rain requires caution in Leipzig, especially with the tram tracks. Start at museums that keep your gear dry. At midday, the churches offer a welcome break from a wet saddle. The afternoon leads to the zoo, where many indoor houses await. Despite the puddles, the city remains flat and easy to ride if you avoid the slippery rails."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Druckkunst",
+                "hu": "Nyomdaművészeti Múzeum",
+                "ro": "Muzeul Artei Tipografice",
+                "en": "Museum of Printing Arts"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Innenhof, um Ihre Packtaschen vor dem Regen zu schützen; im Inneren finden Sie reichlich Platz zum Trocknen Ihrer Regenbekleidung.",
+                "hu": "Parkolja le kerékpárját biztonságosan a belső udvarban, hogy megvédje a táskáit az esőtől; bent bőven van hely a vizes esőkabátok megszárítására.",
+                "ro": "Parcați bicicleta în siguranță în curtea interioară pentru a vă proteja bagajele de ploaie; în interior veți găsi mult spațiu pentru a vă usca hainele.",
+                "en": "Park your bike safely in the inner courtyard to protect your panniers from the rain; inside there is plenty of space to dry your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Musikalische Komödie",
+                "hu": "Zenés Vígjáték Színház",
+                "ro": "Comedia Muzicală",
+                "en": "Musical Comedy Theatre"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf der Anfahrt über die Lützner Straße besonders auf die nassen Schienen; nutzen Sie die überdachten Eingangsbereiche zum sicheren Abstellen des Rades.",
+                "hu": "A Lützner Straße felőli megközelítéskor figyeljen a vizes sínekre; használja a fedett bejárati részeket a bicikli biztonságos és száraz leállításához.",
+                "ro": "Fiți atenți la șinele umede pe drumul de acces; folosiți zonele de intrare acoperite pentru a lăsa bicicleta în siguranță și la uscat.",
+                "en": "Be extra careful of the wet rails when approaching via Lützner Straße; use the covered entrance areas to park your bike safely and out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Thomaskirche",
+                "hu": "Tamás-templom",
+                "ro": "Biserica Sf. Toma",
+                "en": "St. Thomas Church"
+              },
+              "tip_5lang": {
+                "de": "Die Radständer direkt am Kirchplatz sind ungeschützt; nehmen Sie Ihren Helm mit hinein, anstatt ihn am nassen Rad zu lassen, während Sie die Akustik genießen.",
+                "hu": "A közvetlenül a templomkertnél lévő tárolók nem fedettek; vigye be a sisakját magával, ne hagyja a vizes gépen, amíg a templom akusztikáját élvezi.",
+                "ro": "Suporturile de biciclete din piață sunt neprotejate; luați casca cu dvs. în interior în loc să o lăsați pe bicicleta udă cât timp admirați acustica.",
+                "en": "The bike racks right at the church square are unprotected; take your helmet inside with you instead of leaving it on the wet bike while you enjoy the acoustics."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Rathaus",
+                "hu": "Régi Városháza",
+                "ro": "Vechea Primărie",
+                "en": "Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über den glatten Marktplatz, der bei Regen spiegelglatt sein kann; parken Sie unter den Arkaden des Salzgäßchens für einen trockenen Stopp.",
+                "hu": "Tekerjen óvatosan a piactéren, amely esőben tükörsima és csúszós lehet; a száraz megállóhoz parkoljon a Salzgäßchen árkádjai alatt.",
+                "ro": "Circulați cu atenție prin piață, care poate fi alunecoasă ca oglinda pe ploaie; parcați sub arcadele de pe Salzgäßchen pentru o oprire uscată.",
+                "en": "Ride carefully across the market square, which can be slippery as glass when wet; park under the arcades of Salzgäßchen for a dry stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo Leipzig",
+                "hu": "Lipcsei Állatkert",
+                "ro": "Grădina Zoologică din Leipzig",
+                "en": "Leipzig Zoo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Zoo für Ihr Fahrrad, um es trocken zu halten; im Zoo bieten Gondwanaland und die Tierhäuser stundenlangen Schutz vor Regen.",
+                "hu": "Használja az állatkert melletti parkolóházat a bicikli szárazon tartásához; bent a Gondwanaland és a többi ház órákig tartó védelmet nyújt az eső elől.",
+                "ro": "Folosiți parcarea supraetajată de lângă zoo pentru bicicletă ca să rămână uscată; în interior, Gondwanaland oferă adăpost de ploaie pentru ore întregi.",
+                "en": "Use the parking garage next to the zoo to keep your bike dry; inside, Gondwanaland and other animal houses offer hours of shelter from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Leipziger Winter ist bei klarer Luft herrlich, erfordert aber warme Kleidung. Starten Sie bei Museen, um sich nach der Fahrt aufzuwärmen. Mittags laden die Kirchen zur besinnlichen Pause ein. Da die Sonne früh untergeht, sollten Sie die Beleuchtung Ihres Rades prüfen. Der Zoo bietet mit seinen Tropenhäusern eine exotische Wärme-Oase mitten im kalten Wintertag.",
+            "hu": "A lipcsei télben a biciklizés frissítő, de meleg öltözetet igényel. Kezdjen múzeumokkal, hogy tekerés után rögtön felmelegedhessen. Napközben a templomok hívogatnak egy kis békés pihenőre. Mivel a nap korán nyugszik, ellenőrizze a világítást a biciklin. Az állatkert trópusi házaival egy egzotikus meleg oázist kínál a fagyos téli nap közepén.",
+            "ro": "Mersul pe bicicletă iarna în Leipzig este revigorant, dar necesită haine groase. Începeți la muzee pentru a vă încălzi imediat după drum. La prânz, bisericile vă invită la o pauză liniștită. Deoarece soarele apune devreme, verificați luminile bicicletei. Grădina zoologică oferă o oază de căldură exotică în mijlocul zilei geroase.",
+            "en": "Cycling in Leipzig's winter is refreshing but requires warm layers. Start at museums to warm up immediately after your ride. At midday, churches invite you for a peaceful break. Since the sun sets early, check your bike lights before starting. The zoo's tropical houses offer an exotic warm oasis in the middle of a cold winter day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Druckkunst",
+                "hu": "Nyomdaművészeti Múzeum",
+                "ro": "Muzeul Artei Tipografice",
+                "en": "Museum of Printing Arts"
+              },
+              "tip_5lang": {
+                "de": "Die Werkstätten sind angenehm temperiert; wärmen Sie Ihre Hände an den Druckmaschinen auf, bevor Sie die Fahrt durch den kalten Wind fortsetzen.",
+                "hu": "A műhelyekben kellemes a hőmérséklet; melegítse fel a kezét a nyomdagépek közelében, mielőtt folytatná az utat a metsző téli szélben.",
+                "ro": "Atelierele au o temperatură plăcută; încălziți-vă mâinile lângă mașinile de tipărit înainte de a continua drumul prin vântul rece de iarnă.",
+                "en": "The workshops are pleasantly tempered; warm your hands near the printing presses before continuing your ride through the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Musikalische Komödie",
+                "hu": "Zenés Vígjáték Színház",
+                "ro": "Comedia Muzicală",
+                "en": "Musical Comedy Theatre"
+              },
+              "tip_5lang": {
+                "de": "Der Weg durch Lindenau kann im Winter zugig sein; nutzen Sie das Foyer zum Aufwärmen und stellen Sie sicher, dass Ihr Schloss bei Frost nicht einfriert.",
+                "hu": "A Lindenau felé vezető út télen huzatos lehet; használja az előcsarnokot melegedésre, és ügyeljen rá, hogy a biciklizár ne fagyjon be a nagy hidegben.",
+                "ro": "Drumul prin Lindenau poate fi bântuit de curent iarna; folosiți foierul pentru încălzire și asigurați-vă că antifurtul nu îngheață la temperaturi scăzute.",
+                "en": "The route through Lindenau can be drafty in winter; use the foyer to warm up and make sure your bike lock doesn't freeze in the sub-zero temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Thomaskirche",
+                "hu": "Tamás-templom",
+                "ro": "Biserica Sf. Toma",
+                "en": "St. Thomas Church"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit im Inneren, um die Kälte aus den Knochen zu vertreiben; Handschuhe sind für das restliche Stück zum Markt bei Wintertemperaturen Pflicht.",
+                "hu": "Szánjon időt a belső térre, hogy kiűzze a hideget a csontjaiból; a piac felé tartó rövid szakaszon is kötelező a kesztyű a téli mínuszokban.",
+                "ro": "Acordați-vă timp în interior pentru a alunga frigul din oase; mănușile sunt obligatorii pentru restul drumului spre piață la temperaturi de iarnă.",
+                "en": "Take your time inside to get the cold out of your bones; gloves are mandatory for the rest of the ride to the market in freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Rathaus",
+                "hu": "Régi Városháza",
+                "ro": "Vechea Primărie",
+                "en": "Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den winterlichen Markt; achten Sie beim Absteigen auf Eisplatten, die sich im Schatten des Rathauses bilden können.",
+                "hu": "Élvezze a téli piac látványát; leszálláskor ügyeljen a jégfoltokra, amelyek a városháza árnyékában könnyen kialakulhatnak a hideg napokon.",
+                "ro": "Bucurați-vă de vederea pieței de iarnă; aveți grijă la coborâre la peticele de gheață care se pot forma în umbra primăriei.",
+                "en": "Enjoy the view of the winter market; watch out for ice patches when dismounting, as they can easily form in the shadow of the town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo Leipzig",
+                "hu": "Lipcsei Állatkert",
+                "ro": "Grădina Zoologică din Leipzig",
+                "en": "Leipzig Zoo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Gondwanaland für echtes Tropenfeeling bei 25 Grad; denken Sie daran, Ihr Radlicht für die Rückfahrt im frühen Dunkeln einzuschalten.",
+                "hu": "Látogassa meg a Gondwanalandot a valódi trópusi érzésért 25 fokban; ne felejtse el bekapcsolni a világítást a korai sötétben induló hazaúthoz.",
+                "ro": "Vizitați Gondwanaland pentru o senzație tropicală reală la 25 de grade; nu uitați să aprindeți luminile bicicletei pentru drumul de întoarcere pe întuneric.",
+                "en": "Visit Gondwanaland for a real tropical feel at 25 degrees; remember to turn on your bike lights for the ride back in the early darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Reggel: Vezessen ki az impozáns Népek Csatájának Emlékművéhez, és mássza meg a hatalmas építményt a lenyűgöző panorámáért.\nDélben: Térjen vissza a belvárosba, hogy ókori kincseket fedezzen fel az Egyiptomi Múzeumban, majd álljon meg a lenyűgöző Mädler Passagenál.\nDélután: Vezessen egy kicsit északra a Lipcsei Állatkerthez, ahol órákat tölthet a különféle ökoszisztémák és egzotikus állatok megfigyelésével.\nEste: Parkoljon le a nyüzsgő nyugati oldalon, és vegyen részt egy innovatív előadáson az Ifjúsági Színházban, inspirálóan zárva a napot.",
         "ro": "Dimineața: Conduceți până la impunătorul Monument al Bătăliei Națiunilor, urcând pe structura sa pentru a admira priveliștile panoramice spectaculoase.\nPrânz: Întoarceți-vă în centru pentru a explora comori la Muzeul Egiptean, urmat de o scurtă oprire la Pasajul Mädler cu arhitectura sa uimitoare.\nDupă-amiaza: Mergeți spre nord până la Grădina Zoologică din Leipzig, unde puteți petrece cu ușurință ore întregi observând animale exotice.\nSeara: Parcați în partea de vest a orașului pentru a participa la o reprezentație inovatoare la Teatrul Lumii Tinerilor, încheind ziua perfect.",
         "en": "Morning: Drive out to the imposing Monument to the Battle of the Nations, climbing its massive structure to take in spectacular panoramic views of the entire region.\nMidday: Cruise back to the city center to explore ancient treasures at the Ägyptisches Museum, followed by a quick stop at the architecturally stunning Mädler Passage.\nAfternoon: Drive slightly north to the Leipzig Zoo, where you can easily spend hours exploring diverse ecosystems and observing exotic wildlife in modern habitats.\nEvening: Park near the lively west side to attend an innovative performance at the Theater der Jungen Welt, wrapping up your day with inspiring modern theater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Leipzig bei Regen ganz entspannt. Vormittags bietet das Völkerschlachtdenkmal trockene Aussichten und Geschichte. Mittags parken Sie nah an den Museen der Innenstadt. Der Nachmittag lässt sich flexibel zwischen Passagen und dem Zoo gestalten. Die kurzen Wege vom Parkplatz zum Eingang halten Sie trocken, während Sie die kulturelle Vielfalt genießen.",
+            "hu": "Autóval az esős Lipcse is kényelmesen felfedezhető. A délelőttöt kezdje a Népek Csatájának Emlékművénél, ahol bent maradva is élvezheti a történelem erejét. Napközben parkoljon a belvárosi múzeumok közelében. A délután rugalmasan tölthető a passzázsok és az állatkert között. A rövid séta a parkolótól a bejáratig szárazon tartja, miközben élvezi a város kultúráját.",
+            "ro": "Cu mașina, puteți explora Leipzig pe ploaie foarte relaxat. Dimineața, Monumentul Bătăliei Națiunilor oferă priveliști uscate și istorie. La prânz, parcați aproape de muzeele din centru. După-amiaza poate fi petrecută flexibil între pasaje și grădina zoologică. Drumurile scurte de la parcare la intrare vă mențin uscat în timp ce vă bucurați de cultură.",
+            "en": "Exploring Leipzig by car during rain is a relaxed experience. Start your morning at the Monument to the Battle of the Nations, offering dry views and history. At midday, park near the city center museums. Spend your afternoon flexibly between the passages and the zoo. Short walks from the parking lot to the entrances keep you dry while enjoying the culture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Völkerschlachtdenkmal",
+                "hu": "Népek Csatájának Emlékműve",
+                "ro": "Monumentul Bătăliei Națiunilor",
+                "en": "Monument to the Battle of the Nations"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug, um trocken nach oben zu kommen; bei Regen wirkt die Krypta besonders mystisch, aber Vorsicht auf den nassen Außentreppen.",
+                "hu": "Használja a liftet, hogy szárazon jusson fel; esőben a kripta különösen misztikus hangulatú, de legyen óvatos a vizes és csúszós külső lépcsőkön.",
+                "ro": "Folosiți liftul pentru a ajunge sus fără să vă udați; pe ploaie cripta pare deosebit de mistică, dar atenție la treptele exterioare umede.",
+                "en": "Use the elevator to reach the top while staying dry; the crypt feels especially mystical in the rain, but be careful on the wet outdoor stairs."
+              }
+            },
+            {
+              "name": {
+                "de": "Ägyptisches Museum",
+                "hu": "Egyiptomi Múzeum",
+                "ro": "Muzeul Egiptean",
+                "en": "Ägyptisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Augustusplatz-Parkhaus, um fast direkt zum Eingang zu gelangen; die unterirdische Führung spart Ihnen den Weg durch den Regen.",
+                "hu": "Parkoljon az Augustusplatz mélygarázsában, hogy szinte közvetlenül a bejárathoz jusson; a föld alatti kijárat megspórolja az esőben való gyaloglást.",
+                "ro": "Parcați în parcarea de la Augustusplatz pentru a ajunge aproape direct la intrare; traseul subteran vă scutește de mersul prin ploaie.",
+                "en": "Park in the Augustusplatz underground garage to reach the entrance almost directly; the underground route saves you from walking through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mädler Passage",
+                "hu": "Mädler Passage",
+                "ro": "Pasajul Mädler",
+                "en": "Mädler Passage"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Burgplatz', von dort sind es nur wenige Schritte in die trockene Passage; ideal für einen wetterfesten Stadtbummel.",
+                "hu": "Használja a Burgplatz parkolóházat, onnan csak pár lépés a száraz passzázs; tökéletes megoldás egy időjárásálló városi sétához és nézelődéshez.",
+                "ro": "Folosiți parcarea de la Burgplatz, de acolo sunt doar câțiva pași până la pasajul uscat; ideal pentru o plimbare prin oraș ferită de intemperii.",
+                "en": "Use the Burgplatz parking garage, it's only a few steps from there to the dry passage; ideal for a weather-proof city stroll and sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo Leipzig",
+                "hu": "Lipcsei Állatkert",
+                "ro": "Grădina Zoologică din Leipzig",
+                "en": "Leipzig Zoo"
+              },
+              "tip_5lang": {
+                "de": "Das Parkhaus direkt gegenüber dem Haupteingang hält Ihre Wege kurz und trocken; konzentrieren Sie Ihren Besuch auf die riesigen Indoor-Erlebniswelten.",
+                "hu": "A főbejárattal szemközti parkolóház röviden és szárazon tartja az utat; összpontosítson a látogatás során a hatalmas belső élményvilágokra.",
+                "ro": "Parcarea direct vizavi de intrarea principală vă menține drumul scurt și uscat; concentrați-vă vizita pe lumile imense de experiență interioară.",
+                "en": "The parking garage directly opposite the main entrance keeps your walk short and dry; focus your visit on the massive indoor experience worlds."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater der Jungen Welt",
+                "hu": "Ifjúsági Színház",
+                "ro": "Teatrul Lumii Tinerilor",
+                "en": "Theater der Jungen Welt"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie frühzeitig einen Parkplatz in den Nebenstraßen von Lindenau; der kurze Sprint zum Theaterfoyer schützt vor dem abendlichen Nieselregen.",
+                "hu": "Keressen időben parkolóhelyet Lindenau mellékutcáiban; egy rövid vágta a színház előcsarnokába megvédi Önt az esti szemerkélő esőtől.",
+                "ro": "Căutați din timp un loc de parcare pe străzile secundare din Lindenau; un scurt sprint spre foierul teatrului vă protejează de burnița de seară.",
+                "en": "Look for a parking spot in the side streets of Lindenau early; a short dash to the theater foyer will protect you from the evening drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Leipzig im Winter lässt sich im warmen Auto besonders komfortabel erfahren. Vormittags beeindruckt das Denkmal mit klarer Winterfernsticht. Mittags bieten die Museen der Innenstadt wohlige Wärme. Da es um 17 Uhr dunkel wird, genießen Sie die beleuchtete Stadtkulisse bequem während der Fahrt. Ein Theaterbesuch am Abend bildet den perfekten Abschluss in beheizten Räumen.",
+            "hu": "A téli Lipcse egy fűtött autóban ülve válik igazán kényelmessé. Reggel az emlékműnél élvezheti a tiszta, téli tájképet. Napközben a belváros múzeumaiban melegedhet fel. Mivel 17 órakor sötétedik, az autó kényelméből csodálhatja meg a kivilágított várost a helyszínek között. Az estét zárja egy színházi előadás a jól fűtött nézőtéren.",
+            "ro": "Leipzig iarna poate fi explorat confortabil într-o mașină încălzită. Dimineața, monumentul impresionează cu o vizibilitate clară de iarnă. La prânz, muzeele din centru oferă căldură primitoare. Deoarece se întunecă la ora 17:00, bucurați-vă de peisajul iluminat al orașului din mașină. O vizită la teatru seara este finalul perfect în spații încălzite.",
+            "en": "Winter in Leipzig is especially comfortable when traveling in a heated car. Start with the monument in the morning for clear winter views. At midday, enjoy the warmth of the city center museums. As it gets dark at 5 PM, admire the illuminated city scenery comfortably from your car. An evening theater visit provides the perfect warm conclusion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Völkerschlachtdenkmal",
+                "hu": "Népek Csatájának Emlékműve",
+                "ro": "Monumentul Bătăliei Națiunilor",
+                "en": "Monument to the Battle of the Nations"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft klarer; wärmen Sie sich im Museum 'FORUM 1813' auf, nachdem Sie die kalte Brise auf der Plattform genossen haben.",
+                "hu": "A kilátás télen gyakran sokkal tisztább; melegedjen fel a 'FORUM 1813' múzeumban, miután a kilátóteraszon szembenézett a jeges téli széllel.",
+                "ro": "Vizibilitatea este adesea mai clară iarna; încălziți-vă în muzeul „FORUM 1813” după ce ați înfruntat briza rece de pe platforma de observație.",
+                "en": "The long-distance view is often clearer in winter; warm up in the 'FORUM 1813' museum after enjoying the cold breeze on the observation platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Ägyptisches Museum",
+                "hu": "Egyiptomi Múzeum",
+                "ro": "Muzeul Egiptean",
+                "en": "Ägyptisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Winterjacke im Auto, wenn Sie im Parkhaus darunter parken; die kurzen Wege im Gebäude machen den Museumsbesuch sehr angenehm.",
+                "hu": "Hagyja a télikabátot az autóban, ha a mélygarázsban parkol; az épületen belüli rövid utaknak köszönhetően kabát nélkül is kényelmes a múzeumlátogatás.",
+                "ro": "Lăsați haina de iarnă în mașină dacă parcați în subteran; drumurile scurte din interiorul clădirii fac vizita la muzeu foarte plăcută și lejeră.",
+                "en": "Leave your winter jacket in the car if you park in the underground garage; the short distances inside make the museum visit very pleasant without a coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Mädler Passage",
+                "hu": "Mädler Passage",
+                "ro": "Pasajul Mädler",
+                "en": "Mädler Passage"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Passage nach 16 Uhr, um die stimmungsvolle Winterbeleuchtung zu sehen; das Parkhaus 'Burgplatz' bietet einen direkten, warmen Zugang.",
+                "hu": "Látogassa meg a passzázst 16 óra után, hogy lássa a hangulatos téli fényeket; a Burgplatz parkolóházból közvetlen és fűtött út vezet a helyszínre.",
+                "ro": "Vizitați pasajul după ora 16 pentru a vedea iluminatul atmosferic de iarnă; parcarea de la Burgplatz oferă un acces direct și călduros spre interior.",
+                "en": "Visit the passage after 4 PM to see the atmospheric winter lighting; the Burgplatz parking garage offers direct and warm access to the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo Leipzig",
+                "hu": "Lipcsei Állatkert",
+                "ro": "Grădina Zoologică din Leipzig",
+                "en": "Leipzig Zoo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winterrabatt bei den Eintrittspreisen; im Gondwanaland herrschen tropische Temperaturen, ziehen Sie sich also im Inneren unbedingt luftiger an.",
+                "hu": "Használja ki a téli kedvezményeket a jegyárakból; a Gondwanalandban trópusi hőség várja, így bent mindenképpen vegye le a vastagabb ruhákat.",
+                "ro": "Profitați de reducerile de iarnă la prețul biletelor; în Gondwanaland sunt temperaturi tropicale, deci îmbrăcați-vă mai subțire odată intrați acolo.",
+                "en": "Take advantage of the winter discounts on entry prices; tropical temperatures prevail in Gondwanaland, so be sure to dress in lighter layers inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater der Jungen Welt",
+                "hu": "Ifjúsági Színház",
+                "ro": "Teatrul Lumii Tinerilor",
+                "en": "Theater der Jungen Welt"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie die Sitzheizung für die Fahrt zurück zum Hotel ein; im Winter ist eine frühzeitige Ankunft ratsam, da die Parkplatzsuche bei Dunkelheit länger dauert.",
+                "hu": "Kapcsolja be az ülésfűtést a hotelbe vezető útra; télen érdemes korábban érkezni, mert a sötétben nehezebb szabad parkolóhelyet találni a környéken.",
+                "ro": "Porniți încălzirea în scaune pentru drumul înapoi; iarna este recomandat să sosiți mai devreme, deoarece căutarea locului de parcare pe întuneric durează mai mult.",
+                "en": "Turn on the seat heaters for the ride back to the hotel; in winter, arriving early is advisable as finding parking in the dark can take longer."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Reggel: Kezdje a napot a Jesuskirken és a Johannes Døbers Kirke felfedezésével, magába szívva Valby építészeti szépségét.\nDél: Ereszkedjen le a Cisternerne kísérteties mélységeibe egy szürreális művészeti élményért.\nDélután: Sétáljon el a Bakkehusmuseet-be a dán aranykor irodalomtörténetéért.\nEste: Fejezze be a napot a Betty Nansen Teatret érintésével a Storm P. Museet humoros falai között.",
         "ro": "Dimineață: Începeți ziua la Jesuskirken și Johannes Døbers Kirke, admirând frumusețea arhitecturală din Valby.\nPrânz: Coborâți în adâncurile Cisternerne pentru o experiență de artă suprarealistă.\nDupă-amiază: Vizitați Bakkehusmuseet pentru o notă de istorie literară daneză.\nSeară: Încheiați trecând pe lângă Betty Nansen Teatret, finalizând ziua cu mult umor la faimosul Storm P. Museet.",
         "en": "Morning: Start the day exploring local spirituality at Jesuskirken and Johannes Døbers Kirke, absorbing the serene architectural beauty of Valby's historic borders.\nMidday: Descend into the haunting depths of Cisternerne for a surreal underground art experience before re-emerging into the daylight.\nAfternoon: Stroll to Bakkehusmuseet for a touch of Danish Golden Age literary history, enjoying the peacefulness of its beautiful, historic garden.\nEvening: Conclude by passing the iconic Betty Nansen Teatret, ending up at Storm P. Museet to finish the day with a healthy dose of Danish humor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in Valbys Kirchen, die eine friedliche und trockene Zuflucht bieten. Mittags steigen Sie in die schaurigen, feuchten Untergrundgewölbe der Cisternerne hinab, ideal bei Regen. Verbringen Sie den nassen Nachmittag mit der Erkundung der Theatergeschichte im Bakkehusmuseet. Beenden Sie den Tag entspannt im Trockenen im Storm P. Museet.",
+            "hu": "Kezdje az esős reggelt Valby templomaiban, amelyek békés és száraz menedéket nyújtanak. Délben ereszkedjen le a Cisternerne hátborzongató, csepegő földalatti világába, ami tökéletes esős időben. A nedves délutánt a helyi színháztörténet és a Bakkehusmuseet felfedezésével töltheti. Fejezze be a napot a meleg, zárt terek kulturális élményeivel a Storm P. Museet-ben.",
+            "ro": "Începeți dimineața ploioasă în bisericile din Valby, care oferă un refugiu pașnic și uscat. La prânz, coborâți în lumea subterană a Cisternerne, perfectă pentru vremea umedă. Petreceți după-amiaza ploioasă explorând istoria teatrului local și Bakkehusmuseet. Încheiați ziua la adăpost, reflectând la bogata cultură interioară a orașului la Storm P. Museet.",
+            "en": "Begin your rainy morning visiting beautiful Valby churches, offering peaceful dry shelter. By midday, descend into the eerie, dripping underground world of Cisternerne, perfect for wet weather, before heading to Bakkehusmuseet. Spend the rainy afternoon exploring local theatre history. Finish the day indoors, reflecting on Copenhagen's indoor culture at Storm P. Museet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jesuskirken",
+                "hu": "Jesuskirken",
+                "ro": "Jesuskirken",
+                "en": "Jesuskirken"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende Akustik und Trockenheit dieser Kirche; nehmen Sie einen Regenschirm für den kurzen Weg nach draußen mit.",
+                "hu": "Csodálja meg a templom lenyűgöző akusztikáját a száraz belső térben; vigyen magával egy masszív esernyőt a rövid kinti sétához.",
+                "ro": "Admirați acustica uimitoare și confortul uscat al acestei biserici; luați o umbrelă robustă pentru scurta plimbare de afară.",
+                "en": "Admire the stunning acoustics and dry comfort of this spacious church; bring a sturdy umbrella for the short walk outside in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Johannes Døbers Kirke",
+                "hu": "Johannes Døbers Kirke",
+                "ro": "Johannes Døbers Kirke",
+                "en": "Johannes Døbers Kirke"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser modernen Kirche Schutz vor dem Regen und bewundern Sie die Buntglasfenster im sanften, trüben Licht des Vormittags.",
+                "hu": "Keressen menedéket az eső elől ebben a modern templomban, és csodálja meg az ólomüveg ablakokat a lágy, borús fényviszonyok között.",
+                "ro": "Adăpostiți-vă de ploaie în această biserică modernă frumoasă, admirând vitraliile colorate în lumina difuză a dimineții mohorâte.",
+                "en": "Take shelter from the rain inside this beautiful modern church, taking time to appreciate the stained glass in the soft, gloomy daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisternerne",
+                "hu": "Cisternerne",
+                "ro": "Cisternerne",
+                "en": "Cisternerne"
+              },
+              "tip_5lang": {
+                "de": "Dieser unterirdische Kunstraum ist von Natur aus feucht, daher passt Ihre Regenkleidung perfekt in diese stimmungsvolle Atmosphäre.",
+                "hu": "Ez a földalatti művészeti tér amúgy is nyirkos és csepegős, így a vízálló esőruházat tökéletesen illik a nedves hangulathoz.",
+                "ro": "Acest spațiu de artă subteran este natural umed și picurător, așa că hainele impermeabile de ploaie se vor potrivi perfect aici.",
+                "en": "This underground art space is naturally damp and dripping, so your waterproof rain gear will fit perfectly in this subterranean atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bakkehusmuseet",
+                "hu": "Bakkehusmuseet",
+                "ro": "Bakkehusmuseet",
+                "en": "Bakkehusmuseet"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich ab, während Sie die historischen Räume erkunden; lassen Sie Ihren nassen Mantel unbedingt an der Museumsgarderobe.",
+                "hu": "Száradjon meg a történelmi szobák felfedezése közben; hagyja a vizes kabátot a múzeum ruhatárában, hogy védje a kiállítási tárgyakat.",
+                "ro": "Uscați-vă în timp ce explorați camerele istorice; lăsați haina udă la garderoba muzeului pentru a proteja exponatele delicate de umezeală.",
+                "en": "Dry off while exploring the historic rooms of this golden-age home; leave your wet coat at the cloakroom to protect the vintage exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Betty Nansen Teatret",
+                "hu": "Betty Nansen Teatret",
+                "ro": "Betty Nansen Teatret",
+                "en": "Betty Nansen Teatret"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie den Nachmittagsschauer im einladenden Theaterfoyer ab und genießen Sie die dramatische Geschichte im Trockenen.",
+                "hu": "Várja ki a délutáni záport a színház hívogató előcsarnokában, és merüljön el a drámai történelemben száraz és kényelmes körülmények között.",
+                "ro": "Așteptați trecerea ploilor de după-amiază în foaierul primitor al teatrului, bucurându-vă de istoria dramatică într-un loc complet uscat.",
+                "en": "Wait out the afternoon showers in the welcoming theater foyer, taking in the dramatic local history safely away from the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Storm P. Museet",
+                "hu": "Storm P. Museet",
+                "ro": "Storm P. Museet",
+                "en": "Storm P. Museet"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang mit dänischem Humor im Museum; das gemütliche Café ist ideal zum Aufwärmen mit einem Heißgetränk.",
+                "hu": "Fejezze be a nedves sétát dán humorral a beltérben; a hangulatos múzeumi kávézó ideális hely egy forró ital melletti teljes felmelegedésre.",
+                "ro": "Încheiați plimbarea umedă cu umorul danez în interior; cafeneaua confortabilă a muzeului este ideală pentru a vă încălzi cu o băutură fierbinte.",
+                "en": "End your damp walk with Danish humor and satire indoors; the cozy museum café is the perfect spot for warming up with a hot, comforting drink."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Morgen in Valbys warmen Kirchen. Mittags sollten Sie sich warm anziehen, wenn Sie in die faszinierende, aber kalte Unterwelt der Cisternerne hinabsteigen. Verbringen Sie den Nachmittag in den beheizten Räumen des Bakkehusmuseet. Wenn die Sonne gegen 17:00 Uhr untergeht, genießen Sie die Lichter und den Humor im Storm P. Museet.",
+            "hu": "Kezdje a fagyos reggelt Valby meleg, barátságos templomaiban. Délben öltözzön fel melegen, amikor leereszkedik a Cisternerne lenyűgöző, de hideg földalatti világába. A hideg délutánt a Bakkehusmuseet fűtött termeiben töltheti. Ahogy a nap 17:00 körül lemegy, fejezze be a napot a Storm P. Museet beltéri fényeivel és humorával.",
+            "ro": "Începeți dimineața geroasă în bisericile primitoare din Valby. La prânz, îmbrăcați-vă gros pentru a coborî în subteranul fascinant, dar rece, al Cisternerne. Petreceți după-amiaza friguroasă în camerele încălzite ale Bakkehusmuseet. Pe măsură ce soarele apune în jur de 17:00, încheiați ziua bucurându-vă de căldura și umorul de la Storm P. Museet.",
+            "en": "Start your frosty morning in Valby's warm, welcoming churches. By midday, wrap up tightly as you descend into the freezing but fascinating underground of Cisternerne. Spend the cold afternoon moving between the heated rooms of Bakkehusmuseet and the local theatre. As the sun sets around 17:00, finish your day enjoying the indoor lights at Storm P. Museet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jesuskirken",
+                "hu": "Jesuskirken",
+                "ro": "Jesuskirken",
+                "en": "Jesuskirken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den gut beheizten Innenraum; das tiefe winterliche Morgenlicht, das durch die großen Fenster fällt, ist wahrhaft magisch.",
+                "hu": "Élvezze a jól fűtött belső teret; a nagy ablakokon beáramló alacsony téli reggeli fény igazán varázslatos hangulatot teremt.",
+                "ro": "Bucurați-vă de interiorul bine încălzit; lumina joasă a dimineții de iarnă care pătrunde prin ferestrele mari este cu adevărat magică.",
+                "en": "Enjoy the well-heated interior and beautiful architecture; the low winter morning light streaming through the windows is truly magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Johannes Døbers Kirke",
+                "hu": "Johannes Døbers Kirke",
+                "ro": "Johannes Døbers Kirke",
+                "en": "Johannes Døbers Kirke"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der Kälte in diese friedliche Kirche, ein fantastischer Ort, um die Hände aufzuwärmen und die winterliche Ruhe zu genießen.",
+                "hu": "Lépjen be a fagyos hidegből ebbe a békés templomba, ami kiváló hely a kezek felmelegítésére és a csendes téli hangulat élvezetére.",
+                "ro": "Ieșiți din frigul înghețat în această biserică liniștită, un loc minunat pentru a vă încălzi mâinile și a admira liniștea profundă a iernii.",
+                "en": "Step out of the freezing cold into this peaceful modern church, a great spot to warm your hands and admire the quiet winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisternerne",
+                "hu": "Cisternerne",
+                "ro": "Cisternerne",
+                "en": "Cisternerne"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur im Untergrund ist eisig kühl; tragen Sie zusätzliche Thermoschichten, während Sie diese dunklen Reservoirs erkunden.",
+                "hu": "A földalatti hőmérséklet a kinti fagyhoz igazodik; feltétlenül viseljen extra termorétegeket e sötét, jeges víztározók felfedezésekor.",
+                "ro": "Temperatura subterană este la fel de rece ca afară; purtați straturi termice suplimentare în timp ce explorați aceste rezervoare întunecate.",
+                "en": "The underground temperature matches the freezing chill outside; wear extra thermal layers as you explore these dark, icy reservoirs."
+              }
+            },
+            {
+              "name": {
+                "de": "Bakkehusmuseet",
+                "hu": "Bakkehusmuseet",
+                "ro": "Bakkehusmuseet",
+                "en": "Bakkehusmuseet"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie in den gemütlichen Räumen dieses historischen Hauses auf und erleben Sie, wie sich die Dänen im 19. Jahrhundert im Winter wärmten.",
+                "hu": "Melegedjen fel e történelmi ház hangulatos szobáiban, és tapasztalja meg, hogyan vészeltek át a dánok egy 19. századi kemény telet.",
+                "ro": "Încălziți-vă în camerele confortabile ale acestei case istorice, descoperind cum se protejau danezii de iernile grele în secolul 19.",
+                "en": "Thaw out in the cozy, heated rooms of this historic house, experiencing firsthand how Danes kept warm during harsh winters in the 19th century."
+              }
+            },
+            {
+              "name": {
+                "de": "Betty Nansen Teatret",
+                "hu": "Betty Nansen Teatret",
+                "ro": "Betty Nansen Teatret",
+                "en": "Betty Nansen Teatret"
+              },
+              "tip_5lang": {
+                "de": "Das helle Foyer ist eine willkommene Flucht vor dem schwindenden Nachmittagslicht; tanken Sie hier noch etwas Wärme und Kultur.",
+                "hu": "A világos előcsarnok tökéletes menedék a halványodó délutáni fény elől; szívjon magába egy kis meleget és kultúrát a továbbindulás előtt.",
+                "ro": "Foaierul luminos este o evadare binevenită din lumina slabă a după-amiezii târzii; bucurați-vă de căldură și cultură înainte de a ieși.",
+                "en": "The bright theater foyer is a welcome escape from the quickly fading afternoon light; absorb the warm cultural vibes before stepping back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Storm P. Museet",
+                "hu": "Storm P. Museet",
+                "ro": "Storm P. Museet",
+                "en": "Storm P. Museet"
+              },
+              "tip_5lang": {
+                "de": "Da die Dunkelheit bereits um 17:00 Uhr hereinbricht, vertreiben Sie den Winterblues am besten in diesem hell erleuchteten Museum.",
+                "hu": "Mivel a koromsötét már 17:00 órakor beáll, űzze el a téli melankóliát ebben a barátságosan kivilágított, fűtött múzeumban nevetve.",
+                "ro": "Deoarece întunericul se lasă în jur de 17:00, alungați melancolia iernii în acest muzeu cald și luminos, plin de umor și voie bună.",
+                "en": "As pitch darkness falls early around 17:00, laugh away the winter blues inside this brightly lit, comfortably heated indoor museum."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Reggel: Kerékpározzon a Margrethekirken modern vonalaitól a Jesuskirken klasszikus szépségéig.\nDél: Merüljön el a Cisternerne földalatti titkaiban, majd irány a Møstings Hus kortárs művészete.\nDélután: Tekerjen végig a dán szatíra történelmén az Alhambra múzeumban.\nEste: Haladjon el az Aveny-T mellett, majd fejezze be túráját a látványos Det Ny Teater lenyűgöző esti kivilágított homlokzatánál.",
         "ro": "Dimineață: Pedalați de la liniile moderne ale Margrethekirken la frumusețea clasică a Jesuskirken.\nPrânz: Scufundați-vă în misterele subterane de la Cisternerne, urmate de arta contemporană de la Møstings Hus.\nDupă-amiază: Pedalați prin istoria satirei daneze la uimitorul muzeu Alhambra.\nSeară: Treceți pe lângă Aveny-T, terminând turul la spectaculosul Det Ny Teater pentru a-i admira fațada iluminată.",
         "en": "Morning: Cycle from the modern lines of Margrethekirken to the classic beauty of Jesuskirken, enjoying the brisk morning air and varied architecture.\nMidday: Dive into the underground mysteries of Cisternerne, followed by a short ride to Møstings Hus for contemporary art by a tranquil pond.\nAfternoon: Pedal through the history of Danish satire at Alhambra, discovering the quirky past of local revues and theater entertainment.\nEvening: Ride past Aveny-T, finishing your tour at the spectacularly grand Det Ny Teater to admire its illuminated evening facade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie sich mit guter Regenkleidung für eine nasse Radtour durch Valby. Starten Sie bei zwei Kirchen, die Zuflucht vor den Morgenschauern bieten. Fahren Sie vorsichtig über rutschige Pflastersteine zu den Museen. Verbringen Sie den verregneten Nachmittag in trockenen Kulturstätten; schalten Sie bei dem trüben Wetter stets Ihr helles Fahrradlicht ein.",
+            "hu": "Szerelkezzen fel jó esőruházattal egy nedves kerékpártúrához Valbyban. Kezdje két templommal, amelyek menedéket nyújtanak a reggeli záporok elől. Óvatosan tekerjen a csúszós macskaköveken a múzeumok felé. A délutánt száraz kulturális helyszíneken töltse, és ügyeljen arra, hogy a borús időben végig be legyen kapcsolva a kerékpárlámpa.",
+            "ro": "Echipați-vă cu haine de ploaie pentru un tur umed cu bicicleta prin Valby. Începeți cu două biserici care oferă refugiu. Navigați cu grijă pe piatra cubică alunecoasă către muzee. Petreceți după-amiaza ploioasă trecând între atracții culturale uscate, asigurându-vă că luminile bicicletei sunt aprinse pe vremea extrem de mohorâtă.",
+            "en": "Equip yourself with high-quality rain gear for a wet cycling tour through Valby. Start with two beautiful churches that offer refuge from the morning showers. Navigate carefully over slippery cobblestones towards the Cisternerne. Spend the rainy afternoon hopping between dry cultural hotspots, ensuring your bike lights are on in the gloomy weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Margrethekirken",
+                "hu": "Margrethekirken",
+                "ro": "Margrethekirken",
+                "en": "Margrethekirken"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad unter den Bäumen ab und trocknen Sie sich in dieser modernen Kirche ab, ein ruhiger Start an einem nassen Morgen.",
+                "hu": "Zárja le kerékpárját a közeli fák alatt, és száradjon meg ebben a modern templomban; tökéletes, csendes kezdés egy nedves reggelen.",
+                "ro": "Legați bicicleta sub copaci și uscați-vă în interiorul acestei biserici moderne, un început uscat și liniștit pentru o dimineață umedă.",
+                "en": "Lock your bike under the nearby trees and dry off inside this modern church, a perfectly quiet and sheltered start to a thoroughly wet morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Jesuskirken",
+                "hu": "Jesuskirken",
+                "ro": "Jesuskirken",
+                "en": "Jesuskirken"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf dem nassen Weg zur Kirche; der große Innenraum bietet viel Platz, um den Regen geschützt abzuschütteln.",
+                "hu": "Óvatosan közlekedjen a templomhoz vezető vizes és csúszós úton; a hatalmas belső tér nagyszerű hely az eső lerázására és a pihenésre.",
+                "ro": "Aveți grijă pe drumul umed și alunecos spre biserică; interiorul grandios oferă un spațiu uscat și vast pentru a scăpa de ploaia rece.",
+                "en": "Be careful on the wet, slippery approach to the church; the grand interior offers a vast, dry space to comfortably shake off the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisternerne",
+                "hu": "Cisternerne",
+                "ro": "Cisternerne",
+                "en": "Cisternerne"
+              },
+              "tip_5lang": {
+                "de": "Ihre wasserdichte Fahrradausrüstung ist perfekt für den Abstieg in diesen ohnehin tropfenden, atmosphärischen unterirdischen Kunstraum.",
+                "hu": "A vízálló kerékpáros felszerelés tökéletes ahhoz, hogy leereszkedjen ebbe a folyamatosan csepegő, hangulatos földalatti művészeti térbe.",
+                "ro": "Echipamentul impermeabil de ciclism este perfect pentru a coborî în acest spațiu de artă subteran cu umiditate ridicată și picături de apă.",
+                "en": "Your waterproof cycling gear is absolutely perfect for descending into this dripping, highly atmospheric underground reservoir art space."
+              }
+            },
+            {
+              "name": {
+                "de": "Møstings Hus",
+                "hu": "Møstings Hus",
+                "ro": "Møstings Hus",
+                "en": "Møstings Hus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher in der Nähe des Eingangs und genießen Sie die trockenen Ausstellungen in diesem malerischen Haus fernab des Nieselregens.",
+                "hu": "Parkoljon biztonságosan a bejárat közelében, és élvezze a száraz kiállításokat ebben a festői kúriában a szitáló eső elől menedéket találva.",
+                "ro": "Parcați în siguranță lângă intrare și bucurați-vă de expozițiile uscate din această casă pitorească pentru a scăpa complet de burnița rece.",
+                "en": "Park safely near the entrance and enjoy the warm, dry exhibitions inside this picturesque country house to fully escape the endless drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Alhambra - Museet for humor og satire",
+                "hu": "Alhambra - Museet for humor og satire",
+                "ro": "Alhambra - Museet for humor og satire",
+                "en": "Alhambra - Museet for humor og satire"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze, vielleicht matschige Fahrt bringt Sie zu diesem Museum, in dem Sie den grauen, verregneten Himmel einfach weglachen können.",
+                "hu": "Egy rövid, de valószínűleg saras út után megérkezik ebbe a vicces múzeumba, ahol nevetve felejtheti el a kinti szürke, esős eget.",
+                "ro": "O scurtă plimbare, posibil noroioasă, vă aduce la acest muzeu amuzant unde puteți uita de cerul gri și ploios printr-o porție bună de râs.",
+                "en": "A short, potentially muddy ride brings you to this hilarious indoor museum where you can laugh away the grey skies and relentless rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aveny-T",
+                "hu": "Aveny-T",
+                "ro": "Aveny-T",
+                "en": "Aveny-T"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie vom nassen Sattel und erkunden Sie das markante Foyer dieses historischen Theaters als herrliche, trockene Kulturpause.",
+                "hu": "Szálljon le a nedves nyeregből, és fedezze fel e történelmi színház lenyűgöző előcsarnokát egy száraz és felemelő kulturális szünetre.",
+                "ro": "Coborâți din șaua udă și explorați foaierul impresionant al acestui teatru istoric, o pauză culturală interioară excelentă și complet uscată.",
+                "en": "Hop off your soaking wet saddle and explore the striking foyer of this historic theatre, treating yourself to a great indoor cultural pause."
+              }
+            },
+            {
+              "name": {
+                "de": "Det Ny Teater",
+                "hu": "Det Ny Teater",
+                "ro": "Det Ny Teater",
+                "en": "Det Ny Teater"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt an diesem Theater; fahren Sie besonders vorsichtig, da die Sicht auf den nassen Straßen im Abendregen stark abnimmt.",
+                "hu": "Fejezze be a nedves utat ennél a csodálatos színháznál; vigyázzon a csúszós utakon, ahogy az esti esőben egyre jobban romlik a látási viszony.",
+                "ro": "Încheiați cursa umedă la acest teatru magnific; fiți extrem de prudenți pe drumurile ude, deoarece vizibilitatea scade brusc în ploaia de seară.",
+                "en": "Finish your wet ride arriving at this magnificent theatre; use extreme caution on the slippery wet roads as visibility drops in the evening rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem frostigen Wintermorgen mit Thermokleidung und guten Handschuhen. Wärmen Sie sich in den Kirchen auf, bevor Sie zu den unterirdischen Cisternerne fahren. Wenn die Kälte am Nachmittag zunimmt, radeln Sie schnell zwischen den beheizten Museen. Da die Sonne gegen 17:00 Uhr untergeht, sorgen Sie für sehr starkes Licht am Fahrrad für den dunklen, eisigen Weg.",
+            "hu": "Szálljon szembe a fagyos téli reggellel vastag termóruházatban és kesztyűben egy frissítő bringázásért. Melegedjen fel a templomokban, mielőtt a fagyos talajon a Cisternerne felé teker. A délutáni hideg beálltával pedálozzon gyorsan a múzeumok között. A 17:00 órai naplemente miatt legyen erős lámpa a kerékpáron a sötét, jeges esti útra.",
+            "ro": "Înfruntați dimineața geroasă cu haine termice groase și mănuși pentru o plimbare cu bicicleta. Încălziți-vă în biserici înainte de a merge pe terenul înghețat spre Cisternerne. Pe măsură ce frigul se întețește, pedalați rapid între muzee. Odată cu apusul la ora 17:00, asigurați-vă că aveți lumini puternice pentru drumul înghețat și întunecat de seară.",
+            "en": "Brave the frosty winter morning with serious thermal layers and gloves for a crisp bike ride. Warm up inside local churches before riding over freezing grounds to the subterranean Cisternerne. As the afternoon chill sets in, pedal quickly between indoor museums. With sunset around 17:00, ensure your bike has strong lights for the dark, icy evening ride to the theater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Margrethekirken",
+                "hu": "Margrethekirken",
+                "ro": "Margrethekirken",
+                "en": "Margrethekirken"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre kühle Fahrt hier und wärmen Sie Ihre tauben Finger drinnen gut auf, bevor Sie die längeren Strecken in Angriff nehmen.",
+                "hu": "Kezdje itt a fagyos utat, és lépjen be a fűtött térbe, hogy felmelegítse zsibbadt ujjait a hosszabb kerékpáros szakaszok megtétele előtt.",
+                "ro": "Începeți cursa friguroasă aici, intrând la căldură pentru a vă încălzi degetele amorțite înainte de a parcurge traseele mai lungi și reci.",
+                "en": "Start your chilly ride here, stepping inside the heated interior to warm your numb fingers before tackling the longer stretches of your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Jesuskirken",
+                "hu": "Jesuskirken",
+                "ro": "Jesuskirken",
+                "en": "Jesuskirken"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die herrliche Wintersonne durch die Kirchenfenster, um für einen Moment komplett aufzutauen.",
+                "hu": "Parkolja le a kerékpárt, és élvezze az ablakokon besütő gyönyörű téli napfényt, tartva egy kis szünetet a teljes testi felmelegedésre.",
+                "ro": "Parcați bicicleta și bucurați-vă de soarele glorios de iarnă prin ferestrele bisericii, luându-vă un moment pentru a vă încălzi complet corpul.",
+                "en": "Park your bike safely and enjoy the glorious winter sunshine streaming through the large windows, taking a quiet moment to fully thaw out."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisternerne",
+                "hu": "Cisternerne",
+                "ro": "Cisternerne",
+                "en": "Cisternerne"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefährliche Eisflächen am Eingang; die Luft im Untergrund ist eisig, behalten Sie Ihre dicke Thermokleidung also zwingend an.",
+                "hu": "Vigyázzon a bejárat körüli alattomos jégfoltokkal; a földalatti levegő csípős, így tartsa magán a meleg rétegeket a séta alatt is.",
+                "ro": "Atenție la peticele periculoase de gheață de la intrare; aerul subteran este înghețat, așa că păstrați toate straturile termice și în interior.",
+                "en": "Watch out for slippery ice patches near the entrance; the underground air is extremely crisp and cold, so keep all your thermal layers on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Møstings Hus",
+                "hu": "Møstings Hus",
+                "ro": "Møstings Hus",
+                "en": "Møstings Hus"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Innere dieses klassischen Gebäudes ist ein fantastischer Ort, um sich vom beißenden Winterwind in Ihrem Gesicht zu erholen.",
+                "hu": "E klasszikus épület kellemesen fűtött belső tere fantasztikus hely, hogy kipihenje és felmelegítse az arcát csípő kegyetlen téli szél után.",
+                "ro": "Interiorul încălzit al acestei clădiri clasice este un loc fantastic pentru a vă recupera complet fața înghețată de vântul tăios de iarnă.",
+                "en": "The wonderfully heated interior of this classical building is a fantastic place to recover and thaw out from the biting winter wind on your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Alhambra - Museet for humor og satire",
+                "hu": "Alhambra - Museet for humor og satire",
+                "ro": "Alhambra - Museet for humor og satire",
+                "en": "Alhambra - Museet for humor og satire"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit Lachen auf; es ist eine kurze, frostige Fahrt hierher, also holen Sie sich vorher noch ein Heißgetränk zum Aufwärmen.",
+                "hu": "Melegedjen fel egy kis nevetéssel; az idevezető fagyos út után érdemes egy forró italt venni a kezeit is melegítve, mielőtt belépne.",
+                "ro": "Încălziți-vă cu râsete; după scurta cursă geroasă până aici, luați o băutură fierbinte pentru a vă încălzi mâinile înghețate înainte de a intra.",
+                "en": "Warm up with some solid laughs; it's a short but frosty ride here, so strongly consider grabbing a hot drink at a nearby café before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Aveny-T",
+                "hu": "Aveny-T",
+                "ro": "Aveny-T",
+                "en": "Aveny-T"
+              },
+              "tip_5lang": {
+                "de": "Da die Dämmerung extrem früh einsetzt, genießen Sie die hell erleuchtete Theaterfassade und die gemütliche, rettende Wärme des Foyers.",
+                "hu": "Ahogy a téli szürkület gyorsan beáll, élvezze a kivilágított színház homlokzatát és a hívogató, meleg előcsarnok megmentő hangulatát.",
+                "ro": "Pe măsură ce amurgul se lasă foarte rapid, bucurați-vă de fațada luminată a teatrului și de căldura salvatoare și confortabilă a foaierului său.",
+                "en": "As the winter twilight sets in very quickly, enjoy the brightly lit, welcoming theater facade and the cozy, life-saving warmth of its inviting foyer."
+              }
+            },
+            {
+              "name": {
+                "de": "Det Ny Teater",
+                "hu": "Det Ny Teater",
+                "ro": "Det Ny Teater",
+                "en": "Det Ny Teater"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie äußerst vorsichtig durch die eisigen Straßen im Schein der Straßenlaternen und beenden Sie die Tour an diesem prachtvollen Ort.",
+                "hu": "Fokozott óvatossággal közlekedjen a jeges esti utcákon az utcai lámpák fényében, és fejezze be a téli túrát ennél a lenyűgözően kivilágított helyszínnél.",
+                "ro": "Navigați cu extrem de multă grijă pe străzile înghețate sub lumina slabă a felinarelor, terminând turul de iarnă la această locație absolut uimitoare.",
+                "en": "Navigate the dangerous icy evening streets carefully under the glow of streetlamps, finishing your demanding winter bike tour at this stunning venue."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Reggel: Kezdjen az ipari DieselHouse-ban, megcsodálva az óriási történelmi motorokat.\nDél: Látogassa meg a Husets Teater-t és a klasszikus Saint Mark's Church-öt, ötvözve a kultúrát az építészettel.\nDélután: Folytassa útját az Alhambra és a Storm P. Museet felé a dán komédia felfedezéséhez.\nEste: Fejezze be az autózást a Cisternerne és a Jesuskirken közelében, visszagondolva a nap drámai kontrasztjaira.",
         "ro": "Dimineață: Începeți la DieselHouse, minunându-vă de motoarele uriașe.\nPrânz: Vizitați Husets Teater și clasica Biserică Saint Mark, îmbinând artele spectacolului cu arhitectura uimitoare.\nDupă-amiază: Continuați la Alhambra și Storm P. Museet pentru o explorare a tradițiilor comice daneze.\nSeară: Încheiați plimbarea cu mașina lângă magnificele Cisternerne și Jesuskirken pentru o reflecție liniștită.",
         "en": "Morning: Begin at the industrial powerhouse of DieselHouse, marvelling at giant engines before driving towards the cultural heart of the district.\nMidday: Visit Husets Teater and the classic Saint Mark's Church, blending intimate local performing arts with striking religious architecture.\nAfternoon: Continue to Alhambra and Storm P. Museet for a delightful exploration of Denmark's rich comedic and satirical traditions.\nEvening: End the drive near the magnificent Cisternerne and Jesuskirken, reflecting on a day filled with dramatic contrasts and deep history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren ist heute ideal, um dem ständigen Regen zu entgehen. Beginnen Sie trocken im massiven DieselHouse. Mittags fahren Sie bequem und geschützt zu den Museen. Halten Sie unbedingt einen großen Regenschirm für die kurzen Wege vom geparkten Auto zu den Eingängen der Cisternerne und der Jesuskirken am verregneten, dunklen Nachmittag bereit.",
+            "hu": "Az autózás a legjobb módja, hogy ma elkerülje az esőt. Kezdje a reggelt a hatalmas DieselHouse-ban, teljesen szárazon maradva. Délben kényelmesen közlekedhet a vizes utcákon a helyi múzeumokhoz. Tartson kéznél egy nagy esernyőt a parkolótól a Cisternerne és a Jesuskirken bejáratáig tartó rövid, de vizenyős sétákhoz a borús délutánon.",
+            "ro": "Condusul este modul perfect de a evita ploaia continuă astăzi. Începeți dimineața la DieselHouse, rămânând complet uscat. La prânz, navigați ușor din mașină pe străzile umede pentru a explora muzeele locale. Păstrați o umbrelă mare la îndemână pentru scurtele distanțe de la mașina parcată până la intrările în Cisternerne și Jesuskirken.",
+            "en": "Driving is the absolute perfect way to dodge the relentless rain today. Start your morning at the massive DieselHouse, staying completely dry. At noon, navigate the wet streets easily to explore local theater history and museums. Keep a sturdy umbrella handy for the short dashes from your parked car to the entrance of Cisternerne in the gloomy afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "DieselHouse",
+                "hu": "DieselHouse",
+                "ro": "DieselHouse",
+                "en": "DieselHouse"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Tür und treten Sie völlig trocken in diese riesige Industriehalle, um die gigantischen Motoren bequem zu bewundern.",
+                "hu": "Parkoljon közvetlenül az ajtó előtt, és lépjen be ebbe a hatalmas ipari térbe, teljesen szárazon csodálva meg az óriási gépeket kényelemben.",
+                "ro": "Parcați chiar afară și pășiți complet uscat în acest spațiu industrial masiv, admirând motoarele gigantice într-un confort total ferit de ploaie.",
+                "en": "Park right outside and step straight into this massive industrial space, staying perfectly dry from the rain while marveling at the giant engines in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Husets Teater",
+                "hu": "Husets Teater",
+                "ro": "Husets Teater",
+                "en": "Husets Teater"
+              },
+              "tip_5lang": {
+                "de": "Eine schnelle Fahrt durch den Regen bringt Sie hierher; lassen Sie Ihren nassen Schirm am Eingang stehen, um die trockenen Räume zu genießen.",
+                "hu": "Egy gyors, esős autózás után érkezik meg ide a kocsival; hagyja csöpögő esernyőjét a bejáratnál, hogy nyugodtan élvezhesse a beltéri kiállítást.",
+                "ro": "Un scurt drum cu mașina prin ploaia abundentă vă aduce aici; lăsați umbrela udă la intrare pentru a vă bucura de exponatele complet uscate.",
+                "en": "A quick, convenient drive through the rain brings you to this cultural spot; leave your soaking wet umbrella by the entrance to freely enjoy the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mark's Church",
+                "hu": "Saint Mark's Church",
+                "ro": "Saint Mark's Church",
+                "en": "Saint Mark's Church"
+              },
+              "tip_5lang": {
+                "de": "Das trockene Innere ist eine tolle Flucht vor dem Platzregen; achten Sie jedoch beim Aussteigen aus dem Auto unbedingt auf tiefe Wasserpfützen.",
+                "hu": "A száraz, nyugodt belső tér nagyszerű menedék a felhőszakadás elől; azonban nagyon vigyázzon a mély tócsákkal, amikor kiszáll az autójából.",
+                "ro": "Interiorul uscat este o evadare excelentă din ploaia torențială; aveți totuși mare grijă la bălțile adânci ascunse când coborâți rapid din mașină.",
+                "en": "The dry, serene interior is a great escape from the heavy downpour; however, watch out carefully for surprisingly deep puddles when stepping out of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Alhambra - Museet for humor og satire",
+                "hu": "Alhambra - Museet for humor og satire",
+                "ro": "Alhambra - Museet for humor og satire",
+                "en": "Alhambra - Museet for humor og satire"
+              },
+              "tip_5lang": {
+                "de": "Dank der Parkplätze in der Nähe müssen Sie nur kurz durch den Regen eilen, bevor Sie über den historischen dänischen Humor trocken lachen können.",
+                "hu": "A közeli parkolásnak köszönhetően csak egy rövidet kell sprintelnie a szakadó esőben, mielőtt a dán humoron nevetne a meleg, száraz beltérben.",
+                "ro": "Parcarea convenabilă în apropiere înseamnă doar un scurt sprint prin ploaie înainte de a râde copios de umorul danez în interiorul protejat.",
+                "en": "Finding convenient parking nearby means only a very brief dash through the rain before you are safely indoors laughing at Danish historical humor."
+              }
+            },
+            {
+              "name": {
+                "de": "Storm P. Museet",
+                "hu": "Storm P. Museet",
+                "ro": "Storm P. Museet",
+                "en": "Storm P. Museet"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie vor den heftigen Schauern in Ihrem Auto geschützt, bis Sie direkt an diesem Museum für einen völlig nassen Nachmittag ankommen.",
+                "hu": "Maradjon védve a záporoktól a kényelmes autójában, amíg meg nem érkezik közvetlenül ebbe a lenyűgöző múzeumba ezen a rendkívül vizes délutánon.",
+                "ro": "Rămâneți perfect protejat de ploaie în mașina dumneavoastră până ajungeți direct la acest muzeu fascinant, ideal pentru o după-amiază umedă.",
+                "en": "Stay completely shielded from the harsh showers in your car until you arrive directly at this fascinating museum, perfect for a very wet afternoon indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisternerne",
+                "hu": "Cisternerne",
+                "ro": "Cisternerne",
+                "en": "Cisternerne"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie Ihre Regenjacke aus dem Kofferraum, denn dieses feuchte unterirdische Museum passt thematisch perfekt zum nassen Wetter draußen.",
+                "hu": "Vegye ki a vízálló esőkabátot a csomagtartóból, mivel ez a nyirkos földalatti múzeum hangulatában tökéletesen illik a kinti borús, vizes időhöz.",
+                "ro": "Luați haina de ploaie din portbagaj, deoarece acest muzeu subteran umed și fascinant se potrivește absolut perfect cu vremea mohorâtă de afară.",
+                "en": "Make sure to bring your rain jacket from the trunk, as this damp underground museum actually matches the gloomy, wet weather outside absolutely perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Jesuskirken",
+                "hu": "Jesuskirken",
+                "ro": "Jesuskirken",
+                "en": "Jesuskirken"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihren regnerischen Roadtrip; die schweren Holztüren schließen den Sturm sicher aus und bieten ein absolut trockenes Heiligtum.",
+                "hu": "Fejezze be az esős autóstúrát itt; a vastag, nehéz faajtók teljesen kizárják a vihart, és csendes, biztonságos, száraz menedéket nyújtanak a nap végén.",
+                "ro": "Încheiați călătoria auto ploioasă aici; ușile masive și grele din lemn țin furtuna afară cu succes, lăsându-vă într-un sanctuar liniștit și complet uscat.",
+                "en": "Finish your rainy road trip right here; the massive, heavy wooden doors completely close out the storm, leaving you in a perfectly quiet, dry sanctuary."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Autoheizung an diesem eisigen Wintertag voll aus. Beginnen Sie im DieselHouse und bewundern Sie die Technik drinnen. Fahren Sie in der klaren Mittagsluft bequem und warm zwischen Theatern und Kirchen, ohne jemals zu frieren. Da es gegen 17:00 Uhr dunkel wird, leuchten Ihnen die Scheinwerfer sicher den Weg zu den letzten Zielen in der Dunkelheit.",
+            "hu": "Használja ki az autó fűtését ezen a hideg téli napon. Kezdje a DieselHouse-ban, kényelmesen élvezve a hatalmas beltéri mérnöki csodákat. Délben fagyoskodás nélkül vezethet a színházak és templomok között a meleg kocsiban. Mivel 17:00 körül koromsötét lesz, a fényszórók vezetik majd el a Cisternerne és a Jesuskirken felé, miközben végig biztonságban és melegben marad.",
+            "ro": "Profitați la maximum de încălzirea mașinii în această zi foarte rece de iarnă. Începeți la DieselHouse, admirând ingineria masivă la interior. Conduceți extrem de confortabil la prânz între teatre și biserici fără a îngheța vreodată. Deoarece se întunecă complet în jur de 17:00, farurile mașinii vă vor ghida în siguranță spre Cisternerne și Jesuskirken la finalul zilei.",
+            "en": "Make the absolute most of your car's heater on a bitterly cold winter day. Start at DieselHouse, enjoying the massive indoor engineering. Drive smoothly and warmly through the crisp midday air between local theaters without ever freezing. Since it gets completely dark around 17:00, the headlights will safely guide you to Cisternerne and Jesuskirken, keeping you cozy the entire route."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "DieselHouse",
+                "hu": "DieselHouse",
+                "ro": "DieselHouse",
+                "en": "DieselHouse"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren dicken Wintermantel gerne im warmen Auto; diese riesige Industriehalle wird in der Nähe der laufenden Motoren überraschend warm.",
+                "hu": "Nyugodtan hagyja a vastag télikabátot a meleg autóban; ez a hatalmas ipari csarnok meglepően jó időt biztosít a hatalmas motorok közvetlen közelében.",
+                "ro": "Lăsați haina groasă de iarnă în mașina încălzită; această hală industrială masivă devine surprinzător de caldă în imediata apropiere a motoarelor uriașe.",
+                "en": "Feel free to leave your heavy winter coat in the warm car if you like; this massive industrial hall gets surprisingly warm near the operation of the big engines."
+              }
+            },
+            {
+              "name": {
+                "de": "Husets Teater",
+                "hu": "Husets Teater",
+                "ro": "Husets Teater",
+                "en": "Husets Teater"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kurze, beheizte Autofahrt, bevor Sie in die frostige Luft treten, um diesen sehr einladenden und warmen Kulturort schnell zu betreten.",
+                "hu": "Élvezze a gyors, fűtött autózást, mielőtt kilép a rendkívül fagyos levegőre, hogy gyorsan belépjen ebbe a barátságos és hívogató kulturális beltérbe.",
+                "ro": "Bucurați-vă de drumul scurt și foarte bine încălzit înainte de a ieși în aerul geros pentru a intra rapid în acest spațiu cultural extrem de primitor.",
+                "en": "Thoroughly enjoy the quick, wonderfully heated drive before stepping out into the frosty air to rapidly enter this highly inviting indoor cultural venue."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mark's Church",
+                "hu": "Saint Mark's Church",
+                "ro": "Saint Mark's Church",
+                "en": "Saint Mark's Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie äußerst vorsichtig, wenn die Straßen eisig sind; das Kircheninnere bietet danach eine absolut ruhige Flucht vor dem eisigen Winterwind.",
+                "hu": "Parkoljon különös óvatossággal a jeges, csúszós utakon; a templom fenséges belseje békés menedéket és felmelegedést nyújt a metsző téli szél elől.",
+                "ro": "Parcați cu foarte mare grijă dacă drumurile sunt complet înghețate; interiorul bisericii oferă apoi o evadare senină și sigură din vântul tăios de iarnă.",
+                "en": "Park extremely carefully if the local roads are dangerously icy; the church interior then provides a completely serene escape from the bitterly biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Alhambra - Museet for humor og satire",
+                "hu": "Alhambra - Museet for humor og satire",
+                "ro": "Alhambra - Museet for humor og satire",
+                "en": "Alhambra - Museet for humor og satire"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie auf der kurzen Fahrt hierher die Sitzheizung ein; die humorvollen Ausstellungen lassen Sie die eisige Kälte draußen schnell vergessen.",
+                "hu": "Kapcsolja be az ülésfűtést a rövid úton; a humoros kiállításokon való őszinte nevetés a legjobb módja a kinti fagyos, kellemetlen időjárás elfelejtésének.",
+                "ro": "Porniți încălzirea în scaune pe drumul scurt până aici; a râde cu poftă de exponatele umoristice este o modalitate excelentă de a uita rapid de frigul de afară.",
+                "en": "Crank up the seat warmers on your short drive here; laughing loudly at the highly humorous exhibits is a truly great way to immediately forget the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Storm P. Museet",
+                "hu": "Storm P. Museet",
+                "ro": "Storm P. Museet",
+                "en": "Storm P. Museet"
+              },
+              "tip_5lang": {
+                "de": "Die blendende Wintersonne steht nachmittags tief; tragen Sie eine Sonnenbrille beim Fahren und genießen Sie die herrlich warmen Räume in diesem Museum.",
+                "hu": "A vakító téli nap délután már nagyon alacsonyan jár; viseljen napszemüveget a biztonságos vezetéshez, és élvezze a múzeum meleg, világos kiállítási tereit.",
+                "ro": "Soarele orbitor de iarnă este foarte jos după-amiaza; purtați ochelari de soare la volan și bucurați-vă apoi de spațiile calde și luminoase ale acestui muzeu.",
+                "en": "The blinding winter sun is very low by the afternoon; wear sunglasses for the safe drive and freely enjoy the warm, well-lit spaces of this fascinating museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisternerne",
+                "hu": "Cisternerne",
+                "ro": "Cisternerne",
+                "en": "Cisternerne"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, bevor Sie das gut geheizte Auto verlassen; dieser dunkle unterirdische Raum hat eine Kälte, die perfekt zum dunklen Winterabend passt.",
+                "hu": "Öltözzön fel nagyon jól, mielőtt kiszáll a meleg autóból; ez a hatalmas földalatti tér állandó, átható hideget tart, ami illik a sötét, borzongató téli estéhez.",
+                "ro": "Îmbrăcați-vă extrem de bine înainte de a părăsi mașina caldă; acest spațiu subteran menține un frig constant, pătrunzător, care se potrivește cu seara de iarnă.",
+                "en": "Wrap up completely tight before leaving the wonderfully warm car; this underground space holds a steady, penetrating chill that perfectly matches the dark winter evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Jesuskirken",
+                "hu": "Jesuskirken",
+                "ro": "Jesuskirken",
+                "en": "Jesuskirken"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre abendliche Winterfahrt an dieser Kirche; das schön beleuchtete Äußere sieht vor dem pechschwarzen 17:00-Uhr-Himmel wirklich atemberaubend aus.",
+                "hu": "Fejezze be a kényelmes téli autózást ennél a gyönyörű templomnál; a csodásan kivilágított külseje lenyűgözően mutat a 17:00 órai koromsötét éjszakai égbolt alatt.",
+                "ro": "Încheiați cursa caldă de iarnă la această biserică superbă; exteriorul iluminat spectaculos arată uimitor pe fundalul cerului complet întunecat la ora 17:00.",
+                "en": "End your very cozy winter drive at this beautiful church; the brightly illuminated exterior looks absolutely stunning against the pitch-black 17:00 evening sky."
+              }
+            }
+          ]
+        }
       }
     }
   }

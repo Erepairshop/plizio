@@ -5583,7 +5583,7 @@ export const norwayRegions: POI[] = [
       pt: ["Bergen foi a capital do reino norueguês até ao século XIII.", "O bairro de Bryggen foi reconstruído no estilo original após vários incêndios.", "A cidade regista uma média de mais de 200 dias de chuva por ano.", "O funicular Fløibanen oferece vistas panorâmicas sobre a cidade desde 1918."],
       fr: ["Bergen a été la capitale du royaume de Norvège jusqu'au XIIIe siècle.", "Le quartier de Bryggen a été reconstruit dans son style original après plusieurs incendies.", "La ville enregistre en moyenne plus de 200 jours de pluie par an.", "Le funiculaire Fløibanen offre une vue panoramique sur la ville depuis 1918."],
     },
-    image: "/geo-images/norway/bergen.webp",
+    image: "/poi-images/bergen.webp",
   },
   {
     id: "city-trondheim", "sights": {
@@ -10859,7 +10859,7 @@ export const norwayNature: POI[] = [
       pt: ["O Mjøsa é o maior lago da Noruega em termos de área, com 365 quilómetros quadrados.", "No seu ponto mais profundo, o lago mede uns impressionantes 468 metros.", "O navio a vapor Skibladner opera no lago desde o ano de 1856.", "As regiões costeiras do Mjøsa estão entre as áreas de cultivo de cereais mais importantes do país."],
       fr: ["Le Mjøsa est le plus grand lac de Norvège en superficie avec 365 kilomètres carrés.", "À son point le plus profond, le lac mesure pas moins de 468 mètres.", "Le bateau à roues à aubes Skibladner circule sur le lac depuis 1856.", "Les régions riveraines du Mjøsa comptent parmi les zones de culture céréalière les plus importantes du pays."],
     },
-    image: "/geo-images/norway/lake-mjosa.webp",
+    image: "/poi-images/lake-mjosa.webp",
   },
   {
     id: "river-glomma", "sights": {
@@ -10984,7 +10984,7 @@ export const norwayNature: POI[] = [
       pt: ["O Glomma é o rio mais longo da península escandinava, com 621 quilómetros.", "A sua bacia hidrográfica abrange cerca de 13 por cento da área total da Noruega.", "A flutuação de madeira no Glomma foi um sector económico central da região até 1985.", "A maior cascata do rio é Sarpsfossen, com um dos maiores caudais de água da Europa."],
       fr: ["La Glomma est, avec 621 kilomètres, le plus long fleuve de la péninsule scandinave.", "Son bassin versant couvre environ 13 % de la surface terrestre totale de la Norvège.", "Le flottage du bois sur la Glomma fut un secteur économique majeur de la région jusqu'en 1985.", "La plus grande chute d'eau du fleuve est Sarpsfossen, l'une des plus puissantes d'Europe en termes de débit."],
     },
-    image: "/geo-images/norway/river-glomma.webp",
+    image: "/poi-images/river-glomma.webp",
   },
   {
     id: "island-hinnoya",

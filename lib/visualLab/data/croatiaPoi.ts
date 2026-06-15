@@ -1889,7 +1889,7 @@ export const croatiaAllPoi = [
         pt: ["Rijeka foi um porto importante para a Europa Central sob administração húngara no século XIX.", "A igreja de peregrinação de Nossa Senhora de Trsat é a maior do seu género no oeste da Croácia.", "A torre da cidade (Gradski toranj) com o seu relógio é um marco conhecido no Korzo.", "Em Rijeka foi desenvolvido e fabricado o primeiro torpedo do mundo.", "O carnaval de Rijeka atrai todos os anos dezenas de milhares de participantes e espectadores.", "O museu de informática Peek&Poke abriga uma das maiores coleções de computadores antigos da Europa.", "Os mercados de Rijeka são uma joia arquitetónica do estilo Art Nouveau.", "Sob o nome italiano Fiume, a cidade foi palco de conflitos políticos após a Primeira Guerra Mundial."],
         fr: ["Au XIXe siècle, Rijeka était un port important pour l'Europe centrale sous administration hongroise.", "L'église de pèlerinage Notre-Dame de Trsat est la plus grande de ce type en Croatie occidentale.", "La tour de la ville (Gradski toranj) et son horloge sont un emblème célèbre du Korzo.", "C'est à Rijeka que la première torpille au monde a été développée et fabriquée.", "Le carnaval de Rijeka attire chaque année des dizaines de milliers de participants et de spectateurs.", "Le musée informatique Peek&Poke abrite l'une des plus grandes collections d'ordinateurs anciens d'Europe.", "Les halles du marché de Rijeka sont un joyau architectural de style Art nouveau.", "Sous le nom italien de Fiume, la ville fut le théâtre de conflits politiques après la Première Guerre mondiale."],
     },
-    image: "/geo-images/croatia/city-rijeka.webp"
+    image: "/poi-images/city-rijeka.webp"
   },
   {
     id: "cult-dubrovnik-walls",
@@ -1962,7 +1962,7 @@ export const croatiaAllPoi = [
         pt: ["A altura das muralhas atinge até 25 metros em alguns pontos.", "A Fortaleza Minčeta, o baluarte mais alto, foi desenhada pelo famoso arquiteto renascentista Michelozzo.", "Existem três entradas para as muralhas: na porta de Pile, na porta de Ploče e na Fortaleza de São João.", "Existem no total 16 torres ao longo das muralhas da cidade.", "As muralhas foram incluídas na lista do Património Mundial da UNESCO em 1979, juntamente com a cidade velha.", "A Fortaleza Lovrijenac, situada num rochedo fora das muralhas, ostenta a inscrição 'Non Bene Pro Toto Libertas Venditur Auro'.", "As muralhas foram usadas como local de filmagem para a série 'Game of Thrones'.", "A construção e manutenção das muralhas foram financiadas por impostos sobre o comércio do sal."],
         fr: ["La hauteur des remparts atteint jusqu'à 25 mètres par endroits.", "La tour Minčeta, le point le plus élevé, a été conçue par le célèbre architecte de la Renaissance Michelozzo.", "Il existe trois entrées pour les remparts : à la porte Pile, à la porte Ploče et à la forteresse Saint-Jean.", "On compte au total 16 tours le long des remparts de la ville.", "Les remparts ont été inscrits au patrimoine mondial de l'UNESCO en 1979, en même temps que la vieille ville.", "La forteresse Lovrijenac, perchée sur un rocher hors les murs, porte l'inscription « Non Bene Pro Toto Libertas Venditur Auro ».", "Les remparts ont servi de lieu de tournage pour la série « Game of Thrones ».", "La construction et l'entretien des murs étaient financés par des taxes sur le commerce du sel."],
     },
-    image: "/geo-images/croatia/cult-dubrovnik-walls.webp"
+    image: "/poi-images/cult-dubrovnik-walls.webp"
   },
   {
     id: "cult-trogir",
@@ -2011,7 +2011,7 @@ export const croatiaAllPoi = [
       pt: ["Trogir foi fundada no século III a.C. por colonos gregos de Issa (atualmente Vis).", "O portal de Radovan da catedral é considerado a obra mais importante da arte românico-gótica na Croácia.", "A Fortaleza Kamerlengo foi construída no século XV pelos venezianos.", "A ilha onde se situa a cidade velha está ligada ao continente e à ilha de Čiovo por duas pontes.", "Trogir serviu de local de filmagem para a série 'Game of Thrones' e para a série britânica 'Doctor Who'.", "A torre sineira da catedral foi construída ao longo de vários séculos e combina diferentes estilos arquitetónicos.", "Existe na cidade uma tradição de construção naval que é mantida até hoje.", "O nome Trogir deriva do grego 'Tragurion', que significa 'ilha das cabras'."],
       fr: ["Trogir a été fondée au IIIe siècle av. J.-C. par des colons grecs d'Issa (aujourd'hui Vis).", "Le portail de Radovan de la cathédrale est considéré comme l'œuvre la plus importante de l'art roman-gothique en Croatie.", "La forteresse de Kamerlengo a été construite au XVe siècle par les Vénitiens.", "L'île abritant la vieille ville est reliée au continent et à l'île de Čiovo par deux ponts.", "Trogir a servi de lieu de tournage pour la série « Game of Thrones » et la série britannique « Doctor Who ».", "Le clocher de la cathédrale a été construit sur plusieurs siècles et combine différents styles architecturaux.", "La ville possède une tradition de construction navale qui perdure aujourd'hui.", "Le nom de Trogir dérive du grec « Tragurion », qui signifie « l'île aux chèvres »."],
     },
-    image: "/geo-images/croatia/cult-trogir.webp"
+    image: "/poi-images/cult-trogir.webp"
   },
   {
     id: "nat-plitvice",
@@ -2084,7 +2084,7 @@ export const croatiaAllPoi = [
         pt: ["O parque nacional foi fundado em 1949, sendo o mais antigo do sudeste da Europa.", "As barreiras de travertino crescem cerca de um centímetro por ano.", "O parque serviu de cenário para filmes de Karl May na década de 1960.", "As florestas são compostas principalmente por faias e abetos.", "É proibido nadar nos lagos para proteger a natureza.", "Os lagos dividem-se em Superiores (12) e Inferiores (4).", "O nome 'Plitvice' foi mencionado pela primeira vez em 1777.", "O Seliški Vrh é o ponto mais alto, com 1.279 metros."],
         fr: ["Le parc national a été fondé en 1949, le plus ancien d'Europe du Sud-Est.", "Les barrières de travertin croissent d'environ un centimètre par an.", "Le parc a servi de décor aux films de Karl May dans les années 1960.", "Les forêts sont principalement composées de hêtres et de sapins.", "La baignade est strictement interdite dans les lacs.", "Les lacs sont répartis en lacs supérieurs (12) et inférieurs (4).", "Le nom 'Plitvice' apparaît pour la première fois en 1777.", "Le Seliški Vrh est le point culminant à 1 279 mètres."],
     },
-    image: "/geo-images/croatia/nat-plitvice.webp"
+    image: "/poi-images/nat-plitvice.webp"
   },
   {
     id: "nat-kornati", "sights": {
@@ -2202,7 +2202,7 @@ export const croatiaAllPoi = [
         pt: ["O parque nacional abrange a maior parte do arquipélago das Kornati, com cerca de 140 ilhas.", "As falésias mais altas situam-se na ilha de Klobučar, com 82 metros de altura.", "O nome Kornati deriva provavelmente do latim 'corona' (coroa).", "Os muros de pedra seca nas ilhas têm uma extensão total de centenas de quilómetros.", "A fortaleza de Tureta, da época bizantina, é um dos sítios históricos mais importantes.", "O rico mundo subaquático torna as Kornati uma das melhores áreas de mergulho do Adriático.", "O parque foi fundado em 1980 para proteger este ecossistema único.", "George Bernard Shaw escreveu que Deus criou as Kornati de 'lágrimas, estrelas e sopros'."],
         fr: ["Le parc national couvre la majeure partie de l'archipel des Kornati, qui compte 140 îles au total.", "Les falaises les plus hautes se trouvent sur l'île de Klobučar (82 mètres au-dessus de la mer).", "Le nom Kornati dérive probablement du latin 'corona' (couronne).", "Les murets de pierre sèche sur les îles totalisent plusieurs centaines de kilomètres de long.", "La forteresse de Tureta, datant de l'époque byzantine, est l'un des sites historiques majeurs.", "La richesse des fonds marins en fait l'une des meilleures zones de plongée de l'Adriatique.", "Le parc a été fondé en 1980 pour protéger cet écosystème unique.", "George Bernard Shaw a écrit que Dieu créa les Kornati à partir de 'larmes, d'étoiles et de souffle'."],
     },
-    image: "/geo-images/croatia/nat-kornati.webp"
+    image: "/poi-images/nat-kornati.webp"
   },
   {
     id: "nat-brijuni",
@@ -2275,7 +2275,7 @@ export const croatiaAllPoi = [
         pt: ["Brijuni foi a residência de verão de Josip Broz Tito de 1947 a 1980.", "O parque foi declarado parque nacional em 1983.", "Na ilha Veliki Brijun existe uma oliveira com 1600 anos.", "O Cadillac Eldorado de Tito pode ser alugado para um passeio.", "As ilhas já eram um local popular para vilas luxuosas na época romana.", "As pegadas de dinossauros na ilha têm cerca de 125 milhões de anos.", "Existe um campo de golfe em Veliki Brijun, criado em 1922.", "Paul Kupelwieser comprou as ilhas em 1893 e transformou-as num resort exclusivo."],
         fr: ["Brijuni fut la résidence d'été de Josip Broz Tito de 1947 à 1980.", "Le parc a été déclaré parc national en 1983.", "Sur l'île de Veliki Brijun se trouve un olivier vieux de 1 600 ans.", "La Cadillac Eldorado de Tito peut être louée pour une promenade.", "Les îles étaient déjà un lieu prisé pour les villas luxueuses à l'époque romaine.", "Les empreintes de dinosaures sur l'île datent d'environ 125 millions d'années.", "Il existe un terrain de golf sur Veliki Brijun, aménagé en 1922.", "Paul Kupelwieser a acheté les îles en 1893 pour en faire un lieu de villégiature exclusif."],
     },
-    image: "/geo-images/croatia/nat-brijuni.webp"
+    image: "/poi-images/nat-brijuni.webp"
   },
   {
     id: "nat-risnjak",
@@ -2348,7 +2348,7 @@ export const croatiaAllPoi = [
         pt: ["Fundado em 1953, o parque abrange uma área de mais de 63 quilómetros quadrados.", "O nome Risnjak deriva da palavra croata para lince (ris).", "A nascente do Kupa é um monumento hidrogeológico de importância nacional.", "No parque convergem quatro grandes zonas climáticas.", "Existem mais de 1.100 espécies e subespécies de plantas registadas no parque.", "O cume do Veliki Risnjak é recomendado apenas para caminhantes experientes.", "O parque faz parte da rede europeia de áreas protegidas Natura 2000.", "O refúgio 'Josip Schlosser Klekovski' é o mais antigo da região de Gorski Kotar."],
         fr: ["Le parc a été fondé en 1953 et couvre plus de 63 kilomètres carrés.", "Le nom Risnjak vient du mot croate signifiant lynx (ris).", "La source de la Kupa est un monument hydrogéologique d'importance nationale.", "Quatre grandes zones climatiques se rencontrent dans le parc.", "Le parc compte plus de 1 100 espèces et sous-espèces de plantes recensées.", "Le sommet du Veliki Risnjak est recommandé aux randonneurs expérimentés.", "Le parc fait partie du réseau européen de zones protégées Natura 2000.", "Le refuge 'Josip Schlosser Klekovski' est le plus ancien de la région."],
     },
-    image: "/geo-images/croatia/nat-risnjak.webp"
+    image: "/poi-images/nat-risnjak.webp"
   },
   {
     id: "hr-velebit",
@@ -2421,7 +2421,7 @@ export const croatiaAllPoi = [
         pt: ["A cordilheira de Velebit tem cerca de 145 quilómetros de comprimento.", "O pico mais alto é o Vaganski Vrh, com 1.757 metros.", "O Parque Nacional Paklenica é famoso pelos seus dois desfiladeiros impressionantes.", "Lukina jama–Trojama é um dos sistemas de grutas mais profundos do mundo (1.431 metros).", "O Jardim Botânico de Velebit protege uma coleção de plantas de montanha.", "A Degenia velebitica, uma planta endémica, está representada nas moedas croatas de 50 lipa.", "O caminho Premužić foi construído na década de 1930 e é conhecido pela sua facilidade de passagem.", "O Velebit é um centro importante do folclore e da mitologia da Croácia."],
         fr: ["Le massif du Velebit mesure environ 145 kilomètres de long.", "Le sommet le plus élevé est le Vaganski Vrh avec 1 757 mètres.", "Le parc national de Paklenica est célèbre pour ses deux gorges impressionnantes.", "Lukina jama–Trojama est l'un des systèmes de grottes les plus profonds du monde (1 431 m).", "Le jardin botanique du Velebit protège une collection de plantes de montagne.", "La Degenia velebitica, une plante endémique, figure sur les pièces croates de 50 lipa.", "Le sentier Premužić a été construit dans les années 1930 et est réputé pour sa facilité d'accès.", "Le Velebit est un centre important du folklore et de la mythologie croates."],
     },
-    image: "/geo-images/croatia/hr-velebit.webp"
+    image: "/poi-images/hr-velebit.webp"
   }
 ];
 

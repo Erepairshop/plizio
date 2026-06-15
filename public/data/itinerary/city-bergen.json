@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Bergen központjában, ahol a II. világháború sebei erőteljesen visszhangoznak a Gestapo Múzeumban, megadva a mély történelmi elmélkedés alaphangját. A dél közeledtével merüljön el a helyi kultúrában a Buekorpsmuseet dobosainak történetén keresztül, majd fedezze fel az apró Theta Múzeumot. A délután a Hanza-korszak felé fordul, a Bryggens Múzeum hihetetlen kikötői régészeti leleteivel. Ahogy közeledik az este, fejezze be sétáját a fenséges Haakon's Hall területén, átérezve a lenyűgöző királyi történelmet.",
         "ro": "Începeți dimineața traversând centrul orașului Bergen, unde rănile războiului răsună puternic în Muzeul Gestapo, stabilind un ton de profundă reflecție istorică. La amiază pătrundeți în cultura locală, explorând istoria brigăzilor de toboșari la Buekorpsmuseet înainte de a vizita minusculul Muzeu Theta. După-amiaza se îndreaptă spre era hanseatică, cu descoperiri arheologice incredibile la Muzeul Bryggens, chiar pe port. Odată cu lăsarea serii, încheiați călătoria plimbându-vă pe domeniul maiestuoasei Haakon's Hall.",
         "en": "Start your morning traversing Bergen's central core, where the scars of WWII echo powerfully inside the Gestapo Museum, setting a tone of deep historical reflection. Midday brings you deeper into local culture, winding through the charming drum brigade history at Buekorpsmuseet before exploring the tiny Theta Museum. The afternoon shifts toward the Hanseatic era, with incredible archaeological finds awaiting at Bryggens Museum right along the harbor. As evening approaches, conclude your journey walking the grounds of the majestic Haakon's Hall, feeling the royal history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Gestapo-Museum im Trockenen. Mittags spazieren Sie mit Regenschirm durch die feuchten Straßen zum Buekorpsmuseet und Theta-Museum. Nachmittags bietet das Bryggens Museum einen perfekten Zufluchtsort vor dem Wetter. Abends wirkt die Håkonshalle im Regen besonders majestätisch, bevor Sie sich in einer nahegelegenen, gemütlichen Taverne aufwärmen.",
+            "hu": "Kezdje az esős reggelt a Gestapo Múzeum száraz termeiben. Délben esernyővel a kézben sétáljon át a nedves utcákon a Buekorpsmuseet és a Theta Múzeum felé. Délután a Bryggens Múzeum tökéletes beltéri menedéket nyújt a záporok elől. Este a Håkonshalle lenyűgöző látványt nyújt az esőben; utána érdemes beülni egy meleg, hangulatos közeli vendéglőbe.",
+            "ro": "Începeți dimineața ploioasă la adăpost, în Muzeul Gestapo. La prânz, mergeți cu umbrela pe străzile umede spre Buekorpsmuseet și Muzeul Theta. După-amiaza, Muzeul Bryggens vă oferă un refugiu perfect și uscat împotriva intemperiilor. Seara, Sala lui Haakon este maiestuoasă în ploaie, înainte de a vă retrage într-o tavernă caldă din apropiere.",
+            "en": "Start the rainy morning indoors at the Gestapo Museum. At noon, walk through the damp, historic streets with an umbrella to Buekorpsmuseet and the Theta Museum. In the afternoon, Bryggens Museum offers a perfect indoor refuge from the showers. By evening, Haakon's Hall looks majestic in the rain, setting the mood before you find a cozy nearby tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gestapo-Museum",
+                "hu": "Gestapo Múzeum",
+                "ro": "Muzeul Gestapo",
+                "en": "Gestapo Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die dunkle Geschichte Bergens im Trockenen; dieses spannende Museum bietet eine hervorragende und sichere Zuflucht vor den starken Vormittagsschauern.",
+                "hu": "Fedezze fel Bergen sötét történelmét a száraz falak között; a múzeum kiváló és elgondolkodtató menedék a gyakori és heves reggeli záporok elől.",
+                "ro": "Descoperiți istoria întunecată a orașului la adăpost; acest muzeu captivant este un refugiu excelent și sigur împotriva averselor puternice de dimineață.",
+                "en": "Discover Bergen's dark history fully indoors; this compelling museum provides an excellent, deeply engaging refuge when heavy rain showers hit the city early."
+              }
+            },
+            {
+              "name": {
+                "de": "Buekorpsmuseet",
+                "hu": "Buekorpsmuseet",
+                "ro": "Buekorpsmuseet",
+                "en": "Buekorpsmuseet"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über Bergens einzigartige Traditionen, während der Regen prasselt; seien Sie aber vorsichtig auf den sehr rutschigen Pflastersteinen davor.",
+                "hu": "Ismerje meg Bergen különleges hagyományait, miközben kint zuhog az eső; azonban nagyon vigyázzon a bejárat előtti kifejezetten csúszós macskakövekre.",
+                "ro": "Aflați despre tradițiile unice din Bergen în timp ce afară plouă torențial; aveți mare grijă la pietrele cubice extrem de alunecoase de la intrare.",
+                "en": "Learn about Bergen's unique traditions while the rain pours outside; however, make sure to watch your step carefully on the wet, slippery cobblestones outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Theta-Museum",
+                "hu": "Theta Múzeum",
+                "ro": "Muzeul Theta",
+                "en": "Theta Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieser historisch bedeutsame kleine Raum war ein geheimes Versteck; er ist einfach perfekt, um dem Regen für eine Weile zu entfliehen und tief in die Geschichte einzutauchen.",
+                "hu": "Ez a történelmi jelentőségű kis szoba egykor titkos búvóhely volt; egyszerűen tökéletes arra, hogy egy időre elmeneküljön az eső elől és magába szívja a múltat.",
+                "ro": "Această cameră mică, plină de istorie, a fost o ascunzătoare secretă; este pur și simplu perfectă pentru a scăpa de ploaie o vreme și a respira istoria locală.",
+                "en": "This historically significant tiny room was once a secret hideout; it's absolutely perfect for escaping the relentless rain for a while and breathing in local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryggens Museum",
+                "hu": "Bryggens Múzeum",
+                "ro": "Muzeul Bryggens",
+                "en": "Bryggens Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist über alten Ruinen gebaut und bietet eine faszinierende, komplett trockene Umgebung, die nasse Nachmittage im historischen Bryggen aufwertet.",
+                "hu": "A múzeum régi romokra épült, lenyűgöző és teljesen száraz környezetet biztosítva, amely feldobja a nedves délutánokat a történelmi Bryggen negyedben.",
+                "ro": "Muzeul este construit peste ruine vechi, oferind un mediu fascinant și complet uscat, care transformă perfect o după-amiază umedă din istoricul Bryggen.",
+                "en": "Built directly over old ruins, this museum provides a fascinating and completely dry environment that perfectly saves any wet afternoon in the historic Bryggen area."
+              }
+            },
+            {
+              "name": {
+                "de": "Håkonshalle",
+                "hu": "Haakon's Hall",
+                "ro": "Sala lui Haakon",
+                "en": "Haakon's Hall"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern bieten hervorragenden Schutz vor starkem Wind und Regen; die mittelalterliche Halle wirkt bei solchem Unwetter besonders majestätisch und dramatisch.",
+                "hu": "A masszív kőfalak kiváló védelmet nyújtanak az erős szél és eső ellen; a középkori csarnok viharos időben különösen fenséges és drámai látványt nyújt.",
+                "ro": "Zidurile masive de piatră oferă o protecție excelentă împotriva vântului și ploii; sala medievală pare și mai maiestuoasă și dramatică pe o vreme atât de rea.",
+                "en": "The incredibly massive stone walls offer excellent shelter from harsh wind and rain; the medieval hall actually looks even more majestic and dramatic in stormy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gut eingepackt an einem kalten Wintermorgen im Gestapo-Museum. Mittags laufen Sie zügig durch die klare Luft zum Buekorpsmuseet und zum versteckten Theta-Museum. Nachmittags wärmen Sie sich im Bryggens Museum auf, während die Sonne früh untergeht. Abends können Sie die im Dunkeln beleuchtete Håkonshalle bewundern, bevor Sie ein warmes Abendessen genießen.",
+            "hu": "Kezdje a fagyos téli reggelt melegen felöltözve a Gestapo Múzeumban. Délben a csípős levegőn sétáljon át a Buekorpsmuseet és az eldugott Theta Múzeum épületéhez. Délután melegedjen fel a Bryggens Múzeumban, miközben a nap már korán lemenőben van. Este csodálja meg a sötétben kivilágított Håkonshalle épületét, mielőtt egy forró vacsorával zárná a napot.",
+            "ro": "Începeți dimineața de iarnă bine îmbrăcați la Muzeul Gestapo. La prânz, mergeți prin aerul rece spre Buekorpsmuseet și ascunsul Muzeu Theta. După-amiaza, încălziți-vă la Muzeul Bryggens, în timp ce soarele apune devreme peste port. Seara, admirați Sala lui Haakon frumos iluminată în întunericul iernii, înainte de a vă bucura de o cină caldă la interior.",
+            "en": "Bundle up for a crisp winter morning start at the Gestapo Museum. At noon, walk briskly through the cold air to Buekorpsmuseet and the hidden Theta Museum. In the afternoon, warm up inside Bryggens Museum as the sun begins to set early over the harbor. By evening, admire the beautifully illuminated Haakon's Hall in the winter darkness before a hot meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gestapo-Museum",
+                "hu": "Gestapo Múzeum",
+                "ro": "Muzeul Gestapo",
+                "en": "Gestapo Museum"
+              },
+              "tip_5lang": {
+                "de": "Die eindrucksvollen Ausstellungen bieten tiefgründige Einblicke und wohlige Wärme an kalten Wintermorgen; dicke Kleidung können Sie bequem im Eingangsbereich ablegen.",
+                "hu": "A kiállítás mély betekintést és kellemes meleget nyújt a fagyos téli reggeleken; a vastag télikabátot érdemes kényelmesen az előtérben hagyni a látogatás idejére.",
+                "ro": "Expozițiile impresionante oferă perspective profunde și căldură confortabilă în diminețile reci de iarnă; lăsați hainele groase la intrare pentru un tur plăcut.",
+                "en": "The exhibits offer deep historical insights and comforting warmth on freezing winter mornings; feel free to leave your heavy winter coats comfortably at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Buekorpsmuseet",
+                "hu": "Buekorpsmuseet",
+                "ro": "Buekorpsmuseet",
+                "en": "Buekorpsmuseet"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, aber faszinierender Ort, um sich kurz aufzuwärmen; die alten, historischen Uniformen wirken im weichen Winterlicht durch die Fenster besonders eindrucksvoll.",
+                "hu": "Kicsi, de lenyűgöző hely a gyors felmelegedéshez; a régi, történelmi egyenruhák az ablakokon beáramló puha téli fényben különösen hatásosan mutatnak.",
+                "ro": "Un loc mic, dar absolut fascinant pentru a vă încălzi rapid; uniformele istorice vechi arată deosebit de impresionant în lumina moale a iernii de afară.",
+                "en": "A small but fascinating place to quickly warm up; the array of historical uniforms looks particularly striking illuminated by the soft, natural winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Theta-Museum",
+                "hu": "Theta Múzeum",
+                "ro": "Muzeul Theta",
+                "en": "Theta Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Widerstandsgeschichte ein; der winzige, enge Raum wärmt sich schnell auf, während es draußen eiskalt stürmt und schneit.",
+                "hu": "Merüljön el az ellenállás izgalmas történetében; a szűkös, apró tér nagyon gyorsan átmelegszik, miközben kint jéghideg téli szél fúj az utcákon.",
+                "ro": "Pătrundeți adânc în istoria rezistenței; spațiul mic și îngust se încălzește foarte repede, în timp ce afară viscolește și este un frig pătrunzător.",
+                "en": "Dive deeply into local resistance history; this very narrow, confined space warms up incredibly quickly while freezing winter winds howl relentlessly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryggens Museum",
+                "hu": "Bryggens Múzeum",
+                "ro": "Muzeul Bryggens",
+                "en": "Bryggens Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die bedeutenden archäologischen Funde in wohlig warmen Räumen, bevor die frühe winterliche Dunkelheit bereits am späten Nachmittag über den Hafen hereinbricht.",
+                "hu": "Fedezze fel a jelentős régészeti leleteket a kellemesen meleg termekben, még mielőtt a korai téli sötétség már késő délután leszállna a nyüzsgő kikötőre.",
+                "ro": "Explorați descoperirile arheologice importante în încăperi plăcut de calde, înainte ca întunericul iernii să coboare devreme peste port în timpul după-amiezii.",
+                "en": "Explore the significant archaeological finds in comfortably warm, heated rooms just before the early winter darkness completely engulfs the historic harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Håkonshalle",
+                "hu": "Haakon's Hall",
+                "ro": "Sala lui Haakon",
+                "en": "Haakon's Hall"
+              },
+              "tip_5lang": {
+                "de": "Die mittelalterliche Halle ist abends stimmungsvoll beleuchtet; ein warmer Rückzugsort, der die königliche Geschichte inmitten des eisigen norwegischen Winterzaubers zeigt.",
+                "hu": "A középkori csarnok este nagyon hangulatosan kivilágított; meleg menedék, amely a királyi történelmet a fagyos norvég téli varázslat közepette mutatja be.",
+                "ro": "Sala medievală este frumos iluminată seara; o retragere caldă care prezintă perfect istoria regală în mijlocul magiei reci a iernii norvegiene.",
+                "en": "The medieval hall is beautifully illuminated in the evening; it serves as a warm retreat perfectly showcasing royal history amidst the freezing Norwegian winter magic."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Tekerjen a reggeli órákban a Bergeni Műszaki Múzeum felé, ahol a város ipari múltja és közlekedési öröksége mechanikai csodákkal kel életre. Délben guruljon át az egyetemi negyedbe egy élénk utazásra a természettudományok világában, majd ismerje meg Norvégia tengerészeti örökségét. A délutáni tekerés próbára teszi állóképességét a Frederiksberg erőd felé, de lenyűgöző tengerparti panorámával jutalmaz. Este guruljon le a gyönyörűen megőrzött Lepra Múzeumhoz, és zárja a napot nyugodt, békés hangulatban.",
         "ro": "Porniți dimineața pedalând spre Muzeul Tehnic, unde trecutul industrial și moștenirea transporturilor orașului prind viață prin minuni mecanice. La amiază, îndreptați-vă spre districtul universitar pentru o călătorie vibrantă prin istoria naturală, urmată de moștenirea maritimă a Norvegiei. Călătoria de după-amiază vă testează rezistența cu o urcare la Fortul Frederiksberg, răsplătindu-vă cu panorame de coastă. Coborâți spre seară la Muzeul Leprei, frumos conservat, încheind ziua într-o notă liniștită.",
         "en": "Pedal into the morning at the Bergen Technical Museum, where the city's industrious past and transport heritage spring to life with mechanical wonder. By midday, cruise over to the University district for a vibrant journey through natural history, followed seamlessly by Norway's deep maritime legacy. The afternoon ride tests your stamina with a climb up to Frederiksberg Fort, rewarding you with sweeping coastal panoramas. Coast down into the evening at the beautifully preserved Leprosy Museum, ending the day on a tranquil, contemplative note."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie wasserfeste Kleidung an und radeln Sie morgens zum Bergener Technikmuseum. Mittags fahren Sie auf nassen Straßen vorsichtig zum Naturhistorischen und zum Schifffahrtsmuseum, die beide trockene Ausstellungen bieten. Nachmittags erfordert der Weg zur Festung Frederiksberg Vorsicht, belohnt aber mit einer mystischen Aussicht. Abends trocknen Sie sich im Lepra-Museum auf einer historischen Tour ab.",
+            "hu": "Vegyen fel vízálló ruhát, és reggel tekerjen el a Bergen Műszaki Múzeumig. Délben óvatosan haladjon a vizes utakon a Természettörténeti és a Tengerészeti Múzeum felé. Délután a Frederiksberg erőd felé vezető út csúszós lehet, de a ködös kilátás megéri. Este szárítkozzon meg a Lepramúzeumban, egy történelmi túra keretében.",
+            "ro": "Purtați haine impermeabile și pedalați dimineața spre Muzeul Tehnic. La prânz, conduceți cu grijă pe drumurile ude spre Muzeul de Istorie Naturală și Muzeul Maritim, ambele cu expoziții uscate. După-amiaza, drumul spre Fortul Frederiksberg necesită prudență, dar priveliștea e mistică. Seara, uscați-vă la Muzeul Leprei.",
+            "en": "Wear waterproof gear and cycle safely to the Bergen Technical Museum in the morning. At noon, ride carefully on wet roads to the Natural History and Maritime Museums for dry exhibits. In the afternoon, the path to Frederiksberg Fort requires caution but offers mystic rainy views. Evening brings a dry refuge at the historic Leprosy Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bergener Technikmuseum",
+                "hu": "Bergen Műszaki Múzeum",
+                "ro": "Muzeul Tehnic din Bergen",
+                "en": "Bergen Technical Museum"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie Ihre nasse Ausrüstung ablegen und die faszinierenden alten Maschinen komplett im Trockenen bewundern; eine wirklich tolle Zuflucht vor dem Regen.",
+                "hu": "Itt kényelmesen leveheti a vízálló felszerelést, és csodálhatja a régi gépeket a teljesen száraz épületben; remek és izgalmas menedék az eső elől.",
+                "ro": "Aici vă puteți da jos echipamentul ud și puteți admira vechile mașinării complet la loc uscat; un refugiu cu adevărat minunat împotriva ploii.",
+                "en": "You can comfortably take off your dripping wet gear and admire the fascinating old machines entirely indoors; it acts as a truly great refuge from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Universitätsmuseum Bergen - Naturgeschichte",
+                "hu": "Bergen Egyetemi Múzeum - Természettörténet",
+                "ro": "Muzeul Universității din Bergen - Istorie Naturală",
+                "en": "University Museum of Bergen – Natural History"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für stark regnerische Stunden; die Tierexponate sind drinnen sicher und trocken, jedoch sollten Sie beim Bremsen auf den nassen Wegen vor dem Eingang aufpassen.",
+                "hu": "Tökéletes a nagyon esős órákhoz; az állatkiállítások teljesen szárazak, de a kerékpárral nagyon óvatosan fékezzen a bejárat előtti csúszós és vizes aszfalton.",
+                "ro": "Perfect pentru orele ploioase grele; exponatele sunt la loc sigur și uscat, dar trebuie să aveți grijă la frânare pe drumurile umede din fața intrării.",
+                "en": "Perfect for heavy rainy hours; the vast animal exhibits are completely safe and dry indoors, but remember to brake very carefully on the wet ground near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Schifffahrtsmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Entkommen Sie dem nassen, ungemütlichen Wetter und tauchen Sie in die Seefahrtsgeschichte ein; der Fahrradparkplatz davor kann bei starkem Regen extrem rutschig sein.",
+                "hu": "Meneküljön a nedves, barátságtalan idő elől, és merüljön el a tengerészet történetében; a kinti kerékpártároló környéke heves esőzéskor rendkívül csúszós lehet.",
+                "ro": "Scăpați de vremea umedă și neplăcută și scufundați-vă în istoria maritimă; parcarea pentru biciclete din față poate fi extrem de alunecoasă în ploaie abundentă.",
+                "en": "Escape the relentlessly wet weather and completely dive into deep maritime history; just be aware that the outdoor bicycle parking area can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Frederiksberg",
+                "hu": "Frederiksberg erőd",
+                "ro": "Fortul Frederiksberg",
+                "en": "Frederiksberg Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht über Bergen ist bei Regen und tiefhängenden Wolken unglaublich dramatisch; seien Sie beim Radfahren auf den sehr nassen Wegen nach oben extrem vorsichtig.",
+                "hu": "A városra nyíló kilátás esőben és alacsony felhőkzet mellett hihetetlenül drámai; a felfelé vezető vizes és faleveles utakon kerékpározva legyen nagyon óvatos.",
+                "ro": "Priveliștea asupra orașului este incredibil de dramatică în ploaie și nori joși; fiți extrem de precauți când pedalați pe potecile foarte umede spre vârf.",
+                "en": "The commanding view is incredibly dramatic with heavy rain and low, moody clouds; however, exercise extreme caution when cycling on the very wet, steep paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Lepra-Museum Bergen",
+                "hu": "Bergen Lepramúzeum",
+                "ro": "Muzeul Leprei din Bergen",
+                "en": "Bergen Leprosy Museum"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihren verregneten Radtag im Trockenen ab; die alten, knarrenden Holzböden und die Medizingeschichte sind bei trübem Regenwetter besonders stimmungsvoll.",
+                "hu": "Zárja le a csapadékos kerékpáros napot a száraz belső terekben; a régi fapadlók és az orvostörténet kifejezetten borzongatóan hangulatosak a borús, esős időben.",
+                "ro": "Încheiați ziua ploioasă de ciclism la adăpost; podelele vechi de lemn și istoria medicală sunt deosebit de atmosferice și captivante pe vreme tristă și ploioasă.",
+                "en": "Perfectly end your intensely rainy cycling day safely indoors; the old wooden floors and historical medical exhibits feel remarkably atmospheric in gloomy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kleiden Sie sich in warmen Schichten für die winterliche Radtour zum Technikmuseum. Mittags trotzen Sie der Kälte auf dem Weg zum Naturhistorischen und Schifffahrtsmuseum, wo warme Heizungen locken. Nachmittags fahren Sie zur Festung Frederiksberg, da die Dämmerung früh einsetzt. Abends beenden Sie Ihre kalte Fahrt am Lepra-Museum, wo Sie im Warmen in die Medizingeschichte eintauchen.",
+            "hu": "Öltözzön rétegesen a téli kerékpározáshoz a Műszaki Múzeum felé. Délben dacoljon a hideggel a Természettörténeti és a Tengerészeti Múzeumig, ahol meleg radiátorok várják. Délután tekerjen a Frederiksberg erődhöz még a korai sötétedés előtt. Este fejezze be a hideg utat a Lepramúzeumnál, és merüljön el az orvostörténetben.",
+            "ro": "Îmbrăcați-vă în straturi groase pentru plimbarea de iarnă spre Muzeul Tehnic. La prânz, înfruntați frigul spre Muzeul de Istorie Naturală și Muzeul Maritim, unde vă așteaptă căldura. După-amiaza, pedalați spre Fortul Frederiksberg înainte de lăsarea întunericului. Seara, încheiați cursa rece la Muzeul Leprei.",
+            "en": "Dress in warm layers for a winter bike ride to the Technical Museum. At noon, brave the cold air to reach the Natural History and Maritime Museums, where warm radiators await. In the afternoon, cycle to Frederiksberg Fort before the early dusk settles in. By evening, end your cold journey at the Leprosy Museum to explore medical history indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bergener Technikmuseum",
+                "hu": "Bergen Műszaki Múzeum",
+                "ro": "Muzeul Tehnic din Bergen",
+                "en": "Bergen Technical Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier nach der frostigen Radtour gut auf und bestaunen Sie die Technikgeschichte; wasserfeste und dicke Handschuhe sind für die Fahrt extrem ratsam.",
+                "hu": "Melegedjen fel a fagyos reggeli tekerés után, és csodálja meg a technikatörténetet; az útra vastag, szélálló kesztyű használata rendkívül erősen ajánlott.",
+                "ro": "Încălziți-vă bine aici după plimbarea înghețată cu bicicleta și admirați istoria tehnologiei; mănușile groase sunt extrem de recomandate pentru acest drum lung.",
+                "en": "Thoroughly warm up after the frosty morning ride and marvel at engineering history; wearing very thick, windproof gloves is highly recommended for the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Universitätsmuseum Bergen - Naturgeschichte",
+                "hu": "Bergen Egyetemi Múzeum - Természettörténet",
+                "ro": "Muzeul Universității din Bergen - Istorie Naturală",
+                "en": "University Museum of Bergen – Natural History"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen historischen Säle sind wunderbar beheizt; verbringen Sie hier die kältesten Mittagstunden und erkunden Sie die nordische Natur in großem Komfort.",
+                "hu": "A hatalmas történelmi termek csodálatosan fűtöttek; töltse itt a nap leghidegebb déli óráit, és fedezze fel az északi természetet a legnagyobb kényelemben.",
+                "ro": "Sălile istorice uriașe sunt minunat de bine încălzite; petreceți aici cele mai reci ore ale prânzului și explorați natura nordică într-un confort deplin.",
+                "en": "The exceptionally large historical halls are wonderfully well-heated; purposefully spend the freezing noon hours here to explore Nordic natural history in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Schifffahrtsmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die detaillierten Schiffsmodelle im angenehm Warmen; die Ausstellungen vermitteln eindrucksvoll die unglaublich harten Winterbedingungen der Seefahrer.",
+                "hu": "Csodálja meg a részletes hajómodelleket a kellemes melegben; a kiállítások kiválóan bemutatják a régi tengerészek hihetetlenül zord téli életkörülményeit.",
+                "ro": "Admirați modelele detaliate de nave la o căldură plăcută; expozițiile transmit impresionant condițiile de iarnă incredibil de grele ale foștilor marinari.",
+                "en": "Admire the intricate ship models in a beautifully warm setting; the exhibits perfectly convey the unbelievably harsh winter conditions faced by historic sailors."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Frederiksberg",
+                "hu": "Frederiksberg erőd",
+                "ro": "Fortul Frederiksberg",
+                "en": "Frederiksberg Fort"
+              },
+              "tip_5lang": {
+                "de": "Im weichen Winterlicht bietet die hochgelegene Festung großartige Fotomotive; fahren Sie jedoch wegen möglicher, unsichtbarer Eisflächen extrem langsam hinauf.",
+                "hu": "A puha téli fényben a magasan fekvő erőd remek fotótémákat kínál a városról; a lehetséges, láthatatlan jégfoltok miatt azonban nagyon lassan tekerjen felfelé.",
+                "ro": "În lumina moale a iernii, fortul înalt oferă motive foto grozave; cu toate acestea, mergeți extrem de încet din cauza posibilelor petice de gheață invizibile.",
+                "en": "The elevated fort offers truly spectacular photo spots in the soft winter light; however, you must ride up very slowly due to the high potential for invisible black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Lepra-Museum Bergen",
+                "hu": "Bergen Lepramúzeum",
+                "ro": "Muzeul Leprei din Bergen",
+                "en": "Bergen Leprosy Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr warmer und nachdenklicher Abschluss des Tages; lernen Sie drinnen alles über historische Medizin, während draußen der frostige Winterabend anbricht.",
+                "hu": "Egy nagyon meleg és elgondolkodtató lezárása a napnak; tanuljon a történelmi orvoslásról a fűtött falak között, miközben kint beáll a fagyos és sötét téli este.",
+                "ro": "Un sfârșit foarte cald și reflexiv al zilei; învățați totul despre medicina istorică în interior, în timp ce afară se lasă seara geroasă și întunecată de iarnă.",
+                "en": "A wonderfully warm and reflective conclusion to the day; learn all about historic medicine safely indoors while the dark, freezing winter evening quietly sets in outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Vezessen egyenesen a felfedezések reggelébe a VilVite-ben, ahol az interaktív tudományos kiállítások minden korosztály számára örömet szereznek. A dél az akadémiai elegancia jegyében telik az Egyetemi Múzeum kulturális szárnyában, majd egy nosztalgikus megálló következik a bájos Iskolamúzeumban. A délután folyamán utazzon el a vízparti Norges Fiskerimuseumhoz, hogy megismerje a létfontosságú part menti kereskedelem történetét. Az este visszaszólítja a városközpontba, hogy megcsodálja a Haakon's Hall ősi kőfalait.",
         "ro": "Conduceți direct într-o dimineață a descoperirilor la VilVite, unde exponatele interactive de știință stârnesc bucurie și mirare pentru toate vârstele. Amiaza aduce eleganță academică la aripa culturală a Muzeului Universității, urmată de o doză de nostalgie la fermecătorul Muzeu al Școlii. Pe măsură ce se lasă după-amiaza, navigați spre Norges Fiskerimuseum de pe malul apei pentru a explora istoria comerțului de coastă. Seara vă cheamă înapoi în centru, admirând zidăria antică formidabilă a Haakon's Hall.",
         "en": "Drive straight into a morning of discovery at VilVite, where interactive science and technology exhibits spark joy and wonder for minds of all ages. Midday shifts towards academic elegance as you arrive at the University Museum's cultural wing, before stopping by the charming Bergen Skolemuseum for a dose of nostalgia. As the afternoon unfolds, navigate out to the waterfront Norges Fiskerimuseum to embrace the vital coastal trade history. The evening calls you back to the city center, admiring the formidable ancient stonework of Haakon's Hall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens bequem und trocken zum interaktiven Zentrum VilVite. Mittags parken Sie nahe dem Kulturhistorischen Museum und dem Schulmuseum, um nur kurz dem Regen getrotzt zu sein. Nachmittags bieten die weitläufigen, überdachten Hallen des Norwegischen Fischereimuseums Schutz, während der Regen auf den Fjord fällt. Abends können Sie zur Håkonshalle fahren und die nasse, glänzende Steinfassade bestaunen.",
+            "hu": "Reggel kényelmesen és szárazon autózzon el a VilVite interaktív központba. Délben parkoljon le a Kultúrtörténeti és az Iskolamúzeum közelében, minimalizálva az esőben töltött időt. Délután a Norvég Halászati Múzeum tágas, fedett csarnokai nyújtanak menedéket a záporok elől. Este hajtson a Håkonshalle épületéhez, és csodálja meg a vizesen csillogó kőhomlokzatot.",
+            "ro": "Conduceți dimineața confortabil și uscat spre centrul interactiv VilVite. La prânz, parcați aproape de Muzeul de Istorie Culturală și de Muzeul Școlii pentru a evita ploaia. După-amiaza, sălile mari și acoperite ale Muzeului Norvegian al Pescuitului oferă adăpost, în timp ce plouă pe fiord. Seara, conduceți la Sala lui Haakon pentru a vedea fațada de piatră umedă.",
+            "en": "Drive comfortably and stay dry as you head to the interactive VilVite center in the morning. At noon, park close to the Cultural History and School Museums to minimize time in the rain. In the afternoon, the Norwegian Fisheries Museum offers spacious indoor shelter while rain falls on the fjord. In the evening, drive to Haakon's Hall to admire its wet, gleaming stone facade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "VilVite",
+                "hu": "VilVite",
+                "ro": "VilVite",
+                "en": "VilVite"
+              },
+              "tip_5lang": {
+                "de": "Dieses riesige Wissenschaftszentrum ist der perfekte Ort, um Stunden im absolut Trockenen zu verbringen und Neues zu lernen, wenn es draußen heftig stürmt und regnet.",
+                "hu": "Ez a hatalmas tudományos központ a tökéletes hely arra, hogy rengeteg időt töltsön az abszolút szárazon, amikor kint nagyon hevesen viharozik és szakad az eső.",
+                "ro": "Acest centru științific uriaș este locul perfect pentru a petrece ore în șir absolut la adăpost și a învăța ceva nou când afară este o furtună puternică.",
+                "en": "This huge, highly interactive science center is the perfect place to easily spend hours fully indoors and stay completely dry when it heavily storms and rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Universitätsmuseum Bergen - Kulturgeschichte",
+                "hu": "Bergen Egyetemi Múzeum - Kultúrtörténet",
+                "ro": "Muzeul Universității din Bergen - Istorie Culturală",
+                "en": "University Museum of Bergen – Cultural History"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die unglaublich reichhaltige Geschichte Norwegens im Trockenen; der kurze Weg vom nahen Parkplatz ist auch bei anhaltend leichtem Regen sehr gut machbar.",
+                "hu": "Fedezze fel Norvégia hihetetlenül gazdag történelmét szárazon; a közeli parkolótól a nagyon rövid séta még a tartós, szemerkélő esőben is kifejezetten könnyen megtehető.",
+                "ro": "Descoperiți istoria incredibil de bogată a Norvegiei la loc uscat; drumul scurt de la parcarea din apropiere este foarte ușor de parcurs chiar și în ploaie continuă.",
+                "en": "Discover incredibly rich Norwegian history comfortably indoors; the very short walk from the nearby parking area is perfectly manageable even during persistent, light rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergener Schulmuseum",
+                "hu": "Bergen Iskolamúzeum",
+                "ro": "Muzeul Școlii din Bergen",
+                "en": "Bergen School Museum"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die charmanten alten Klassenräume komplett drinnen; es ist ein toller, spannender Zufluchtsort vor dem Dauerregen mit vielen interessanten Einblicken.",
+                "hu": "Tekintse meg a hangulatos régi tantermeket teljesen a falak között; remek és izgalmas menedék a tartós eső elől, rengeteg érdekes és nosztalgikus betekintéssel.",
+                "ro": "Vizitați vechile săli de clasă fermecătoare complet în interior; este un refugiu minunat și captivant împotriva ploii continue, cu multe perspective interesante.",
+                "en": "Tour the charming, deeply historical old classrooms entirely indoors; it acts as a genuinely great refuge from persistent, heavy rain with fascinating educational history."
+              }
+            },
+            {
+              "name": {
+                "de": "Norwegisches Fischereimuseum",
+                "hu": "Norvég Halászati Múzeum",
+                "ro": "Muzeul Norvegian al Pescuitului",
+                "en": "Norwegian Fisheries Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum in authentischen alten Lagerhäusern ist extrem groß und trocken; es ist einfach perfekt für tief verregnete Nachmittage mit der ganzen neugierigen Familie.",
+                "hu": "Az autentikus régi raktárakban kialakított múzeum rendkívül tágas és teljesen száraz; egyszerűen tökéletes a mélyen csapadékos délutánokhoz az egész család számára.",
+                "ro": "Muzeul situat în vechile depozite autentice este extrem de mare și uscat; pur și simplu perfect pentru după-amiezele profund ploioase alături de întreaga familie.",
+                "en": "Authentically located in massive old warehouses, this extremely large and dry museum is absolutely perfect for safely spending heavily rainy afternoons with the family."
+              }
+            },
+            {
+              "name": {
+                "de": "Håkonshalle",
+                "hu": "Haakon's Hall",
+                "ro": "Sala lui Haakon",
+                "en": "Haakon's Hall"
+              },
+              "tip_5lang": {
+                "de": "Im strömenden Regen wirkt das massive mittelalterliche Steingebäude noch viel historischer; das Innere ist absolut trocken und vermittelt sofort ein Gefühl von Stärke.",
+                "hu": "Szakadó esőben a masszív középkori kőépület még sokkal történelmibbnek hat; a tágas belső tér abszolút száraz, és szinte azonnal az ősi erő és védelem érzését sugározza.",
+                "ro": "În ploaia torențială, clădirea medievală masivă din piatră pare și mai istorică; interiorul spațios este absolut uscat și transmite imediat un sentiment de forță și protecție.",
+                "en": "In the pouring rain, the incredibly massive medieval stone building looks vastly more historical; the inside is completely dry and immediately conveys a profound sense of strength."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit eingeschalteter Heizung ins interaktive VilVite-Museum für einen warmen Morgen. Mittags fahren Sie bequem zum Kulturhistorischen und zum Schulmuseum, ohne lange in der Kälte laufen zu müssen. Nachmittags können Sie im Fischereimuseum verweilen, während über dem Fjord bereits die frühe Winterdämmerung einsetzt. Abends fahren Sie zur imposant beleuchteten Håkonshalle in der klaren, kalten Winternacht.",
+            "hu": "Indítsa be a fűtést, és kezdje a meleg reggelt a VilVite interaktív múzeumban. Délben kényelmesen autózzon át a Kultúrtörténeti és az Iskolamúzeumhoz, elkerülve a fagyos sétákat. Délután időzzön a Halászati Múzeumban, miközben a fjord felett már korán leszáll a téli szürkület. Este látogasson el a kivilágított Håkonshalle épületéhez a tiszta, hideg téli éjszakában.",
+            "ro": "Porniți încălzirea și începeți dimineața caldă la centrul interactiv VilVite. La prânz, conduceți confortabil spre Muzeul de Istorie Culturală și Muzeul Școlii, evitând frigul. După-amiaza, zăboviți la Muzeul Pescuitului, în timp ce amurgul de iarnă se lasă devreme peste fiord. Seara, vizitați Sala lui Haakon, impresionant iluminată în noaptea rece și senină.",
+            "en": "Turn on the car heater and start with a warm morning at the interactive VilVite center. At noon, drive comfortably to the Cultural History and School Museums to avoid freezing walks. In the afternoon, explore the Fisheries Museum as the early winter twilight settles over the fjord. By evening, visit the impressively illuminated Haakon's Hall in the clear, cold winter night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "VilVite",
+                "hu": "VilVite",
+                "ro": "VilVite",
+                "en": "VilVite"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem eisigen Wind souverän in diese fantastisch beheizte, interaktive Welt; die Parkplätze befinden sich für Sie praktischerweise direkt am Hauptgebäude.",
+                "hu": "Meneküljön a jeges szél elől ebbe a fantasztikusan fűtött, interaktív világba; a hatalmas parkolók rendkívül kényelmesen, közvetlenül a főépület mellett helyezkednek el.",
+                "ro": "Scăpați de vântul înghețat în această lume interactivă fantastic încălzită; parcările mari sunt situate extrem de convenabil chiar lângă clădirea principală.",
+                "en": "Escape the bitter, freezing wind completely into this fantastically heated, interactive world; large parking spaces are very conveniently located right next to the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Universitätsmuseum Bergen - Kulturgeschichte",
+                "hu": "Bergen Egyetemi Múzeum - Kultúrtörténet",
+                "ro": "Muzeul Universității din Bergen - Istorie Culturală",
+                "en": "University Museum of Bergen – Cultural History"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie eine warme, faszinierende Reise durch die Kulturgeschichte; mitten im Winter sind die alten Ausstellungsräume des Museums besonders angenehm temperiert.",
+                "hu": "Éljen át egy meleg, lenyűgöző utazás a kultúrtörténetben; a kemény tél közepén a múzeum régi kiállítótermei kifejezetten kellemesen és barátságosan temperáltak.",
+                "ro": "Experimentați o călătorie caldă și fascinantă prin istoria culturală; în mijlocul iernii, vechile săli de expoziție ale muzeului sunt deosebit de plăcut încălzite.",
+                "en": "Experience a wonderfully warm, fascinating journey through rich cultural history; in the dead of winter, the grand exhibition halls are kept exceptionally and comfortably heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergener Schulmuseum",
+                "hu": "Bergen Iskolamúzeum",
+                "ro": "Muzeul Școlii din Bergen",
+                "en": "Bergen School Museum"
+              },
+              "tip_5lang": {
+                "de": "Die charmanten Holzvertäfelungen und die sehr dicken Wände halten die Winterkälte komplett draußen; es ist ideal, um sich direkt nach dem Parken richtig aufzuwärmen.",
+                "hu": "A bájos, régi faburkolatok és a rendkívül vastag falak teljesen kint tartják a téli hideget; egyszerűen ideális hely arra, hogy közvetlenül a parkolás után felmelegedjen.",
+                "ro": "Lambriurile fermecătoare din lemn și pereții foarte groși țin complet frigul iernii afară; este ideal pentru a vă încălzi cu adevărat imediat după ce ați parcat mașina.",
+                "en": "The charming, rustic wooden paneling and remarkably thick historical walls keep the biting winter cold completely out; it's deeply ideal for warming up right after parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Norwegisches Fischereimuseum",
+                "hu": "Norvég Halászati Múzeum",
+                "ro": "Muzeul Norvegian al Pescuitului",
+                "en": "Norwegian Fisheries Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie im Warmen absolut alles über die unglaublich harte Arbeit der Fischer in den eisigen norwegischen Wintern; sehr bequemes Parken ist direkt am Haus möglich.",
+                "hu": "Tudjon meg a melegben abszolút mindent a halászok hihetetlenül kemény munkájáról a fagyos norvég teleken; nagyon kényelmes parkolási lehetőség van közvetlenül a háznál.",
+                "ro": "Aflați la căldură absolut totul despre munca incredibil de grea a pescarilor în iernile norvegiene înghețate; parcarea foarte convenabilă este posibilă chiar la fața locului.",
+                "en": "Learn absolutely everything about the incredibly hard work of historic fishermen in icy Norwegian winters while staying pleasantly warm; highly convenient on-site parking is available."
+              }
+            },
+            {
+              "name": {
+                "de": "Håkonshalle",
+                "hu": "Haakon's Hall",
+                "ro": "Sala lui Haakon",
+                "en": "Haakon's Hall"
+              },
+              "tip_5lang": {
+                "de": "Es ist der absolut perfekte winterliche Abschluss; die große Halle ist extrem gut vor dem eiskalten Wind geschützt und bietet im Dunkeln eine wahrhaft königliche Atmosphäre.",
+                "hu": "Ez az abszolút tökéletes téli befejezése a napnak; a nagy csarnok rendkívül jól védett a jéghideg széllel szemben, és a sötétben valósággal királyi atmoszférát kínál.",
+                "ro": "Este sfârșitul absolut perfect de iarnă; sala mare este extrem de bine protejată de vântul înghețat și oferă o atmosferă cu adevărat regală în întunericul serii.",
+                "en": "It marks the absolutely perfect winter finale for your day; the grand hall is supremely protected from the freezing wind and offers a beautifully royal atmosphere in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

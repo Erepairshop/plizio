@@ -137,6 +137,168 @@
         "hu": "A reggel a Museumpark világszínvonalú művészetének felfedezésével kezdődik.\n\nA délidő a Sonneveld-ház elegáns modernista vonalait és kortárs kiállításokat helyezi előtérbe.\n\nDélután a régi vízpart felé vesszük az irányt, hogy szabadtéri történelmi hajókat fedezzünk fel.\n\nAz estét a hatalmas Tengerészeti Múzeum zárja, megkoronázva ezt a kultúrával és hajózástörténettel teli napot.",
         "ro": "Dimineața începe cu o explorare a artei de talie mondială la Museumpark.\n\nLa prânz accentul se mută pe liniile moderniste elegante ale Casei Sonneveld și expozițiile contemporane.\n\nDupă-amiaza vă poartă spre vechea faleză pentru a explora nave istorice în aer liber.\n\nSeara se încheie la vastul Muzeu Maritim, finalizând o zi plină de cultură și istorie nautică profundă.",
         "en": "Morning begins with a deep dive into world-class art at Museumpark.\n\nMidday shifts to the elegant modernist lines of the Sonneveld House and cutting-edge contemporary exhibits.\n\nAfternoon takes you towards the old waterfront to explore open-air historical ships.\n\nEvening concludes at the expansive Maritime Museum, wrapping up a day steeped in culture and nautical history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren verregneten Spaziergang im Museum Boijmans Van Beuningen. Mittags bieten die Räume des Sonneveld-Hauses einen trockenen Zufluchtsort. Verbringen Sie den Nachmittag mit moderner Kunst im Melly und maritimer Geschichte im Havenmuseum. Beenden Sie den Tag geschützt im Maritimen Museum, während der Regen über den Hafen von Rotterdam zieht.",
+            "hu": "Kezdje az esős sétát a Boijmans Van Beuningenben. Délben a Sonneveld-ház modern belső terei nyújtanak száraz menedéket. A délutánt a Melly kortárs művészetének és a kikötő történetének szentelje. Zárja a napot a Tengerészeti Múzeum interaktív fedélzetén, miközben kint szakad az eső a rotterdami kikötőben.",
+            "ro": "Începeți plimbarea ploioasă la Boijmans Van Beuningen. La prânz, interioarele Casei Sonneveld oferă un refugiu uscat. Petreceți după-amiaza explorând arta la Melly și istoria maritimă la Havenmuseum. Încheiați ziua la adăpost în Muzeul Maritim, în timp ce ploaia cade neîncetat peste portul Rotterdam.",
+            "en": "Begin your rainy walk at the Boijmans Van Beuningen. By noon, the modern interiors of Sonneveld House offer a perfectly dry escape. Spend the afternoon exploring contemporary art at Melly and maritime history at Havenmuseum. End the day sheltered in the Maritime Museum as the rain washes over the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Boijmans Van Beuningen",
+                "hu": "Museum Boijmans Van Beuningen",
+                "ro": "Museum Boijmans Van Beuningen",
+                "en": "Museum Boijmans Van Beuningen"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstsammlung im Trockenen und schütteln Sie Ihren Regenschirm in der Garderobe ab, bevor Sie beginnen.",
+                "hu": "Csodálja meg a hatalmas művészeti gyűjteményt, és tegye le a vizes esernyőt a tágas ruhatárban a felfedezés előtt.",
+                "ro": "Admirați vasta colecție de artă și lăsați umbrela udă la garderoba spațioasă înainte de a explora expozițiile fascinante.",
+                "en": "Admire the extensive art collection indoors, and shake off your umbrella in their spacious cloakroom before exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonneveld House",
+                "hu": "Sonneveld House",
+                "ro": "Sonneveld House",
+                "en": "Sonneveld House"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in dieses perfekt erhaltene Haus ein, um dem Nieselregen zu entkommen und das Design der 1930er Jahre zu bestaunen.",
+                "hu": "Lépjen be ebbe a tökéletesen megőrzött otthonba, hogy elmeneküljön a szitáló eső elől, és csodálja meg a 30-as évek dizájnját.",
+                "ro": "Pășiți în această casă funcționalistă pentru a scăpa de ploaie și admirați designul inovator al anilor 1930 în confort.",
+                "en": "Step inside this perfectly preserved functionalist home to escape the drizzle and marvel at the 1930s design."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstinstituut Melly",
+                "hu": "Kunstinstituut Melly",
+                "ro": "Kunstinstituut Melly",
+                "en": "Kunstinstituut Melly"
+              },
+              "tip_5lang": {
+                "de": "Die zeitgenössischen Ausstellungen hier sind perfekt für einen verregneten Nachmittag und bieten tiefe Einblicke in die Kunst.",
+                "hu": "A kortárs kiállítások tökéletesek egy esős délutánra, elmélyedést kínálva a modern vizuális kultúrában, távol a pocsolyáktól.",
+                "ro": "Expozițiile contemporane de aici sunt perfecte pentru o după-amiază ploioasă, oferind perspective asupra artei vizuale.",
+                "en": "The contemporary exhibitions here are perfect for a rainy afternoon, offering deep dives into modern visual culture indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Havenmuseum",
+                "hu": "Havenmuseum",
+                "ro": "Havenmuseum",
+                "en": "Havenmuseum"
+              },
+              "tip_5lang": {
+                "de": "Während die Schiffe draußen sind, bieten die Innenbereiche Schutz; wasserfeste Schuhe sind für die Docks empfehlenswert.",
+                "hu": "Bár a hajók kint ringatóznak, a belső terek érdekesek; vegyen fel vízálló cipőt a dokkok körüli sétához.",
+                "ro": "În timp ce navele sunt afară, expozițiile interioare oferă context; purtați cizme impermeabile bune pentru docuri.",
+                "en": "While the ships are outside, the indoor exhibits provide fascinating context; bring good waterproof boots for the docks."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Maritime Museum",
+                "ro": "Maritime Museum",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die interaktiven maritimen Ausstellungen, ein perfekter Zufluchtsort am verregneten Abend am Hafen.",
+                "hu": "Fedezze fel az interaktív tengerészeti kiállításokat, ami tökéletes száraz menedék, ahogy leszáll az esős este.",
+                "ro": "Explorați expozițiile maritime interactive, un refugiu uscat perfect pe măsură ce ploaia de seară se așterne peste port.",
+                "en": "Explore the interactive indoor maritime displays, a perfect dry haven as the evening rain sets over the Rotterdam harbor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen im Boijmans Van Beuningen. Wärmen Sie sich mittags im funktionalistischen Sonneveld-Haus auf. Tauchen Sie an einem kühlen Nachmittag in die Ausstellungen im Melly ein. Beenden Sie Ihren Spaziergang vor dem frühen Sonnenuntergang um 17 Uhr mit den beleuchteten Schiffen am Hafen.",
+            "hu": "Kezdje a hűvös téli reggelt a Boijmans Múzeumban. Délben melegedjen fel a funkcionalista Sonneveld-házban. A délután folyamán merüljön el a Melly kortárs kiállításaiban. Fejezze be a sétát a korai, 17 órás sötétedés előtt a kikötő kivilágított hajóinál a Tengerészeti Múzeumban.",
+            "ro": "Începeți dimineața rece de iarnă la Boijmans. Încălziți-vă la prânz în interiorul Casei Sonneveld. Pe măsură ce după-amiaza se răcește, explorați expozițiile de la Melly. Terminați plimbarea înainte de apusul devreme de la ora 17:00 cu istoria maritimă iluminată în port.",
+            "en": "Start your brisk winter morning at the Boijmans Van Beuningen. Warm up by noon inside the functionalist Sonneveld House. As the afternoon cools, dive into the thought-provoking exhibits at Melly. Finish your walk before the early 5 PM sunset with the illuminated maritime history by the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Boijmans Van Beuningen",
+                "hu": "Museum Boijmans Van Beuningen",
+                "ro": "Museum Boijmans Van Beuningen",
+                "en": "Museum Boijmans Van Beuningen"
+              },
+              "tip_5lang": {
+                "de": "Die großen Galerien bieten einen warmen Start in den Wintertag; nutzen Sie die Garderobe für Ihre schweren Jacken.",
+                "hu": "A hatalmas galériák meleg kezdést adnak a téli napnak; nyugodtan tegye be a vastag kabátokat a ruhatárba.",
+                "ro": "Marile galerii oferă un început cald pentru o zi de iarnă; folosiți garderoba pentru straturile groase de haine.",
+                "en": "The grand galleries offer a warm, inspiring start to a winter day; utilize the coat check for your heavy layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonneveld House",
+                "hu": "Sonneveld House",
+                "ro": "Sonneveld House",
+                "en": "Sonneveld House"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das Winterlicht durch die Fenster fällt, während Sie im Inneren angenehm gewärmt bleiben.",
+                "hu": "Figyelje meg, hogyan játszik a téli fény a hatalmas ablakokon, miközben ön kellemes melegben sétál odabent.",
+                "ro": "Observați cum lumina de iarnă pătrunde prin ferestrele mari, în timp ce rămâneți confortabil la căldură în interior.",
+                "en": "Observe how winter light plays through the large windows of this modern villa while staying comfortably warm inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstinstituut Melly",
+                "hu": "Kunstinstituut Melly",
+                "ro": "Kunstinstituut Melly",
+                "en": "Kunstinstituut Melly"
+              },
+              "tip_5lang": {
+                "de": "Die modernen Kunstinstallationen bieten eine lebendige Flucht vor den eisigen Nachmittagstemperaturen draußen.",
+                "hu": "A modern művészeti installációk élénk és fűtött benti menedéket nyújtanak a fagyos délutáni hőmérséklet elől.",
+                "ro": "Instalațiile de artă modernă oferă o evadare vibrantă în interior din calea temperaturilor scăzute de după-amiază.",
+                "en": "The thought-provoking modern art installations provide a vibrant indoor escape from the freezing afternoon temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Havenmuseum",
+                "hu": "Havenmuseum",
+                "ro": "Havenmuseum",
+                "en": "Havenmuseum"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich mit einem dicken Schal ein, um die Schiffe zu sehen, bevor Sie in die beheizten Bereiche gehen.",
+                "hu": "Tekerjen sálat a nyaka köré a kinti történelmi hajók megtekintéséhez, mielőtt visszavonulna a fűtött részekre.",
+                "ro": "Înfășurați-vă cu un fular gros pentru a admira navele istorice înainte de a vă retrage în secțiunile încălzite.",
+                "en": "Bundle up with a thick scarf to admire the historic vessels on the water before retreating to the heated indoor sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Maritime Museum",
+                "ro": "Maritime Museum",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Die interaktiven Exponate sind gemütlich, und die frühe Dämmerung lässt die Hafenlichter draußen magisch wirken.",
+                "hu": "A benti kiállítások otthonosak, a korai sötétedés miatt pedig a kikötő fényei varázslatosan festenek odakint.",
+                "ro": "Expozițiile interactive sunt primitoare, iar amurgul timpuriu face ca luminile portului să pară magice din interior.",
+                "en": "The indoor interactive exhibits are cozy, and the early twilight makes the harbor lights outside look magical."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel a város kulturális központja közelében indul a merész építészeti kiállításokkal.\n\nA délidő a nyüzsgő Leuvehavenbe és a tengerészgyalogság hősies történeteihez vezet.\n\nDélután átkelünk a folyón a modern déli partra, ahol hatalmas fotóarchívumokat fedezünk fel.\n\nAz este globális leletekkel és a holland vámok és adók lenyűgöző történetével csendesedik el.",
         "ro": "Dimineața pornește pe bicicletă aproape de inima culturală a orașului cu expoziții arhitecturale îndrăznețe.\n\nPrânzul vă aduce la animatul Leuvehaven și la poveștile eroice ale Corpului Marin.\n\nDupă-amiaza traversează râul spre malul sudic modern, descoperind arhive fotografice imense.\n\nSeara se încheie cu artefacte globale și cu istoria fascinantă a vămilor și taxelor olandeze.",
         "en": "Morning pedals off near the cultural heart of the city with daring architectural displays.\n\nMidday brings you to the lively Leuvehaven and the heroic tales of the Marine Corps.\n\nAfternoon crosses the river to the modern south bank, discovering immense photographic archives.\n\nEvening winds down with global artifacts and the fascinating history of Dutch customs and taxation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Nieuwe Instituut. Ziehen Sie mittags einen festen Poncho an für die Fahrt zu den Maritimen Museen. Nachmittags geht es über die Brücke zum Foto- und Wereldmuseum. Der Abend endet im Steuermuseum; achten Sie auf rutschige Straßenbahnschienen.",
+            "hu": "A reggel a Nieuwe Instituut dizájnjával indul. Délben vegyen fel egy erős poncsót a Tengerészeti múzeumokhoz vezető útra. Délután tekerjen át a hídon a Fotó- és Világmúzeumhoz. Az este az Adómúzeumban zárul; vigyázzon a nedves, csúszós villamossínekre.",
+            "ro": "Dimineața începe la Nieuwe Instituut. La prânz, purtați un poncho solid pentru drumul spre muzeele maritime. După-amiaza vă duce peste pod la muzeele Foto și Wereld. Seara se încheie la Muzeul Taxelor; atenție la șinele de tramvai alunecoase.",
+            "en": "Morning starts with design at Nieuwe Instituut. Midday rides to the Maritime museums call for a solid poncho. Afternoon takes you across the bridge to the Photo and World museums. Evening concludes at the Tax Museum; watch out for slippery wet tram tracks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nieuwe Instituut",
+                "hu": "Nieuwe Instituut",
+                "ro": "Nieuwe Instituut",
+                "en": "Nieuwe Instituut"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Architektur ein, während Ihre Regensachen in der Garderobe dieses Kulturzentrums trocknen.",
+                "hu": "Merüljön el a holland építészetben, miközben a biciklis esőruhája megszárad a kulturális központ ruhatárában.",
+                "ro": "Explorați arhitectura olandeză în timp ce echipamentul de ploaie se usucă la garderoba acestui centru cultural modern.",
+                "en": "Dive into Dutch architecture while your bike gear dries off in the cloakroom of this cutting-edge cultural hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Maritime Museum",
+                "ro": "Maritime Museum",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad gut ab und erkunden Sie die Seefahrtsgeschichte sicher vor dem Rotterdamer Regen.",
+                "hu": "Zárja le a kerékpárt, és fedezze fel a tengerészet történetét bent, távol a rotterdami esőtől és széltől.",
+                "ro": "Asigurați-vă bicicleta și explorați istoria maritimă la interior, feriți de ploaia și vântul din Rotterdam.",
+                "en": "Secure your bike and head inside to explore sea-faring history safely away from the Rotterdam rain and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mariniersmuseum",
+                "hu": "Mariniersmuseum",
+                "ro": "Mariniersmuseum",
+                "en": "Mariniersmuseum"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die Geschichte der Marineinfanterie im Trockenen kennen; ein perfekter Stopp bei starkem Regen.",
+                "hu": "Ismerje meg a tengerészgyalogosok történetét száraz, meleg környezetben; tökéletes menedék egy nagy felhőszakadáskor.",
+                "ro": "Aflați istoria trupelor marine într-un mediu cald și uscat; o oprire perfectă la prânz în timpul unei ploi torențiale.",
+                "en": "Learn about the marine corps' history in a dry, warm environment; a perfect midday stop during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Nederlands Fotomuseum",
+                "hu": "Nederlands Fotomuseum",
+                "ro": "Nederlands Fotomuseum",
+                "en": "Nederlands Fotomuseum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fotografie-Archive im Inneren, nachdem Sie die nasse Erasmusbrücke auf zwei Rädern überquert haben.",
+                "hu": "Élvezze a lenyűgöző fotóarchívumot odabent, miután két keréken átkelt az eső áztatta, szeles Erasmus-hídon.",
+                "ro": "Bucurați-vă de arhivele foto impresionante în interior, după ce ați traversat podul Erasmus umed și bătut de vânt.",
+                "en": "Enjoy visually stunning photography archives indoors after navigating the wet and breezy Erasmus Bridge on two wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Wereldmuseum Rotterdam",
+                "hu": "Wereldmuseum Rotterdam",
+                "ro": "Wereldmuseum Rotterdam",
+                "en": "Wereldmuseum Rotterdam"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie globale Kulturen in diesem Gebäude, das an einem regnerischen Nachmittag hervorragenden Schutz bietet.",
+                "hu": "Fedezze fel a világ kultúráit ebben a nagyszerű épületben, amely kiváló menedéket nyújt egy esős délutánon.",
+                "ro": "Descoperiți culturi globale în această clădire impunătoare, care oferă un adăpost excelent într-o după-amiază ploioasă.",
+                "en": "Discover global cultures in this grand building, offering excellent shelter and fascinating artifacts on a rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Belasting & Douane Museum",
+                "hu": "Belasting & Douane Museum",
+                "ro": "Belasting & Douane Museum",
+                "en": "Belasting & Douane Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über Steuern in diesem Museum; fahren Sie vorsichtig auf den rutschigen Straßen hierher.",
+                "hu": "Fedezze fel az adózás történetét ebben az otthonos múzeumban, csak figyeljen a csúszós, nedves utakra idefelé.",
+                "ro": "Descoperiți istoria taxelor în acest muzeu primitor, aveți doar grijă la drumurile umede și alunecoase pe drum.",
+                "en": "Uncover the history of taxes in this cozy museum, just be careful on the slippery wet roads on your way here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Wintertour beginnt am Nieuwe Instituut. Fahren Sie zügig, um sich auf dem Weg zu den Maritimen Museen warm zu halten. Die Nachmittagssonne steht tief auf dem Weg zum Foto- und Wereldmuseum. Beenden Sie die Tour im Steuermuseum; nutzen Sie starke Fahrradlichter für die frühe Dunkelheit.",
+            "hu": "A csípős téli tekerés a Nieuwe Instituutnál kezdődik. Haladjon tempósan, hogy bemelegedjen a Tengerészeti múzeumok felé délben. A délutáni nap már alacsonyan jár, amikor a Fotó- és Világmúzeumhoz ér. Zárjon az Adómúzeumban a korai sötétségben; kapcsolja fel a kerékpárlámpákat.",
+            "ro": "Plimbarea de iarnă începe la Nieuwe Instituut. Pedalați alert pentru a vă încălzi pe drumul spre muzeele maritime. Soarele de după-amiază e jos când mergeți spre muzeele Foto și Wereld. Încheiați la Muzeul Taxelor; folosiți lumini puternice pentru întunericul timpuriu.",
+            "en": "Crisp winter cycling begins at Nieuwe Instituut. Keep moving to stay warm as you ride to the Maritime museums by noon. The afternoon sun is low as you cross to the Photo and World museums. End at the Tax Museum under the early evening dark; ensure your bike lights are bright."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nieuwe Instituut",
+                "hu": "Nieuwe Instituut",
+                "ro": "Nieuwe Instituut",
+                "en": "Nieuwe Instituut"
+              },
+              "tip_5lang": {
+                "de": "Ein visueller Start in einen kalten Tag; genießen Sie das warme Innere nach einer kühlen Morgenfahrt.",
+                "hu": "Vizuálisan gazdag kezdés egy hideg napon; élvezze a fűtött belső teret a csípős reggeli városi tekerés után.",
+                "ro": "Un început vizual bogat pentru o zi rece; bucurați-vă de interiorul cald după o plimbare matinală geroasă.",
+                "en": "A visually rich start to a cold day; enjoy the warm, modern interior after a brisk morning cycle through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Maritime Museum",
+                "ro": "Maritime Museum",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre frierenden Hände auf, während Sie das maritime Erbe in den interaktiven Innenräumen erkunden.",
+                "hu": "Melegítse fel fagyos kezeit, miközben felfedezi a gazdag tengerészeti örökséget a kiváló interaktív terekben.",
+                "ro": "Încălziți-vă mâinile înghețate explorând patrimoniul maritim prezentat în spațiile interioare atractive.",
+                "en": "Thaw your freezing hands while exploring the rich maritime heritage presented in their highly interactive indoor spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Mariniersmuseum",
+                "hu": "Mariniersmuseum",
+                "ro": "Mariniersmuseum",
+                "en": "Mariniersmuseum"
+              },
+              "tip_5lang": {
+                "de": "Die fesselnde Militärgeschichte bietet eine gut beheizte Pause von der klaren Winterluft.",
+                "hu": "A lenyűgöző katonai történelem odabent kiváló és jól fűtött pihenőt kínál a metsző téli levegő elől.",
+                "ro": "Istoria militară captivantă din interior oferă o pauză bine încălzită de la aerul rece de iarnă.",
+                "en": "The compelling military history inside will captivate you, offering a well-heated break from the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Nederlands Fotomuseum",
+                "hu": "Nederlands Fotomuseum",
+                "ro": "Nederlands Fotomuseum",
+                "en": "Nederlands Fotomuseum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den großen Galerien auf, nachdem Sie den kalten Fluss Maas überquert haben.",
+                "hu": "Melegedjen fel a tágas, lenyűgöző holland fotókkal teli galériákban, miután áttekert a fagyos Maas folyó felett.",
+                "ro": "Încălziți-vă în galeriile spațioase pline de fotografii olandeze, după o traversare rece a râului Maas.",
+                "en": "Warm up in the spacious galleries filled with striking Dutch photography after a chilly crossing of the Maas river."
+              }
+            },
+            {
+              "name": {
+                "de": "Wereldmuseum Rotterdam",
+                "hu": "Wereldmuseum Rotterdam",
+                "ro": "Wereldmuseum Rotterdam",
+                "en": "Wereldmuseum Rotterdam"
+              },
+              "tip_5lang": {
+                "de": "Die globalen Artefakte bieten einen Kontrast zum grauen Winternachmittag; parken Sie Ihr Rad sicher.",
+                "hu": "A világ körüli leletek élénk kontrasztot nyújtanak a szürke téli délutánhoz; zárja le biztonságosan a biciklit.",
+                "ro": "Artefactele globale oferă un contrast vibrant cu după-amiaza gri de iarnă; parcați bicicleta în siguranță.",
+                "en": "The stunning global artifacts provide a vibrant contrast to the gray winter afternoon outside; park your bike securely."
+              }
+            },
+            {
+              "name": {
+                "de": "Belasting & Douane Museum",
+                "hu": "Belasting & Douane Museum",
+                "ro": "Belasting & Douane Museum",
+                "en": "Belasting & Douane Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wintertour in diesem Museum; stellen Sie sicher, dass Ihre Lichter für die Rückfahrt voll geladen sind.",
+                "hu": "Zárja a téli tekerést ebben a különleges múzeumban; ellenőrizze, hogy a kerékpárlámpák feltöltve várják a sötét utat.",
+                "ro": "Încheiați plimbarea de iarnă aici; asigurați-vă că luminile bicicletei sunt încărcate pentru drumul întunecat spre casă.",
+                "en": "Wrap up your winter ride at this fascinating museum; ensure your bike lights are fully charged for the dark ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "A reggel a város északi kerülete felé száguld, hogy felfedezze a tömegközlekedés nosztalgikus történetét.\n\nA délidő a régi rádiók bájos gyűjteményeivel és a távközlés fejlődésével folytatódik.\n\nDélután leereszkedünk az ikonikus Museumparkba egy adag klasszikus és modern művészetért.\n\nAz este a déli kerületben ér véget, ahol elmélyülhetünk a holland vizuális történetmesélésben.",
         "ro": "Dimineața se îndreaptă rapid spre cartierul nordic al orașului pentru a descoperi istoria nostalgică a transportului public.\n\nPrânzul continuă cu colecții fermecătoare de radiouri de epocă și evoluția telecomunicațiilor.\n\nDupă-amiaza coboară spre emblematicul Museumpark pentru o doză de artă.\n\nSeara se așterne în cartierul sudic pentru o apreciere profundă a fotografiei olandeze.",
         "en": "Morning speeds towards the city's northern district to uncover the nostalgic history of public transport.\n\nMidday continues with charming collections of vintage radios and the evolution of telecommunications.\n\nAfternoon cruises down to the iconic Museumpark for a dose of classical and modern art.\n\nEvening settles in the southern district for a deep appreciation of Dutch visual storytelling."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre verregnete Fahrt am Verkehrsmuseum. Erkunden Sie mittags die Radio- und Telekom-Museen, die mit dem Auto leicht erreichbar sind. Der Nachmittag bringt Sie zur Boijmans-Galerie. Enden Sie am Fotomuseum; nahegelegene Parkhäuser halten Sie trocken.",
+            "hu": "Kezdje az esős autózást a Közlekedési Múzeumban. Délben fedezze fel a Rádió- és Telekom múzeumokat, melyek kocsival könnyen megközelíthetők. A délutánt a Boijmans galériában töltheti. Zárjon a Fotómúzeumnál; a közeli parkolóházak szárazon tartják.",
+            "ro": "Începeți traseul ploios cu mașina la Muzeul Transporturilor. La prânz, explorați muzeele Radio și Telecom, ușor accesibile. După-amiaza vă aduce la faimoasa galerie Boijmans. Încheiați la Muzeul Foto; parcările acoperite vă mențin perfect uscați.",
+            "en": "Start your rainy drive at the Transport Museum. By noon, explore the Radio and Telecom museums, easily accessible by car. Afternoon brings you to the renowned Boijmans gallery. Conclude at the Fotomuseum; parking garages nearby keep you perfectly dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rotterdams Openbaar Vervoer Museum",
+                "hu": "Rotterdams Openbaar Vervoer Museum",
+                "ro": "Rotterdams Openbaar Vervoer Museum",
+                "en": "Rotterdams Openbaar Vervoer Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine Indoor-Ausstellung von Oldtimer-Fahrzeugen; parken Sie in der Nähe und genießen Sie die überdachten Exponate.",
+                "hu": "Látványos benti járműkiállítás; parkoljon a közelben, és élvezze a fedett tárlatot, miközben odakint szakad az eső.",
+                "ro": "O expoziție interioară de vehicule de epocă; parcați în apropiere și bucurați-vă de adăpost în timp ce plouă torențial.",
+                "en": "A fascinating indoor display of vintage transit vehicles; park nearby and enjoy the covered exhibits while it pours."
+              }
+            },
+            {
+              "name": {
+                "de": "Radio Museum",
+                "hu": "Radio Museum",
+                "ro": "Radio Museum",
+                "en": "Radio Museum"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem Regen in das goldene Zeitalter des Rundfunks in diesem gemütlichen, nostalgischen Raum.",
+                "hu": "Lépjen be az esőből a műsorszórás aranykorába ebben az otthonos, nosztalgiával teli benti térben.",
+                "ro": "Pășiți din ploaie în epoca de aur a radioului în acest spațiu interior confortabil și plin de nostalgie.",
+                "en": "Step out of the rain and into the golden age of broadcasting in this cozy, nostalgia-filled indoor space."
+              }
+            },
+            {
+              "name": {
+                "de": "Houweling Telecom Museum",
+                "hu": "Houweling Telecom Museum",
+                "ro": "Houweling Telecom Museum",
+                "en": "Houweling Telecom Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte der Telekommunikation im Trockenen, eine großartige Flucht vor dem nassen Wetter.",
+                "hu": "Ismerje meg a telekommunikáció történetét egy tökéletesen száraz környezetben, ideális menedék az esős délben.",
+                "ro": "Descoperiți istoria telecomunicațiilor într-un mediu perfect uscat, o evadare excelentă la prânz din vremea umedă.",
+                "en": "Discover the history of telecommunications in a perfectly dry environment, a great midday escape from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Boijmans Van Beuningen",
+                "hu": "Museum Boijmans Van Beuningen",
+                "ro": "Museum Boijmans Van Beuningen",
+                "en": "Museum Boijmans Van Beuningen"
+              },
+              "tip_5lang": {
+                "de": "Das unterirdische Museumpark-Parkhaus ist ideal, um trocken zu bleiben, bevor Sie in die Kunst eintauchen.",
+                "hu": "A földalatti Museumpark garázs ideális, hogy szárazon érkezzen meg, mielőtt elmerülne az európai művészetben.",
+                "ro": "Parcarea subterană Museumpark este ideală pentru a ajunge uscat înainte de a vă scufunda în arta europeană.",
+                "en": "The underground Museumpark garage is ideal for arriving dry before immersing yourself in centuries of European art."
+              }
+            },
+            {
+              "name": {
+                "de": "Nederlands Fotomuseum",
+                "hu": "Nederlands Fotomuseum",
+                "ro": "Nederlands Fotomuseum",
+                "en": "Nederlands Fotomuseum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den regnerischen Tag mit Fotografie; das nahegelegene Wilhelminapier-Parken sichert einen trockenen Weg.",
+                "hu": "Zárja az esős délutánt gazdag képi történetekkel; a közeli Wilhelminapier parkoló garantálja az esőmentes átjutást.",
+                "ro": "Încheiați după-amiaza ploioasă explorând povești vizuale; parcarea apropiată Wilhelminapier asigură o tranziție uscată.",
+                "en": "End the rainy afternoon exploring rich visual stories; the nearby Wilhelminapier parking ensures a rain-free transition."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den frostigen Morgen am Verkehrsmuseum mit eingeschalteter Autoheizung. Die Radio- und Telekom-Museen bieten mittags warme Nostalgie. Verbringen Sie den Nachmittag im Boijmans. Genießen Sie um 17 Uhr das beleuchtete Fotomuseum, bevor Sie im warmen Auto heimfahren.",
+            "hu": "Kezdje a fagyos reggelt a Közlekedési Múzeumban, feltekert autófűtéssel. A Rádió- és Telekom múzeumok délben meleg nosztalgiát kínálnak. Töltse a hűvös délutánt a Boijmansban. 17 órára élvezze a kivilágított Fotómúzeumot, mielőtt a meleg autóval hazaindul.",
+            "ro": "Începeți dimineața geroasă la Muzeul Transporturilor cu căldura mașinii pornită. Muzeele Radio și Telecom oferă la prânz nostalgie caldă. Petreceți după-amiaza rece la Boijmans. La ora 17, bucurați-vă de Muzeul Foto iluminat înainte de a pleca acasă la căldură.",
+            "en": "Start the frosty morning at the Transport Museum with the car's heater on. Midday stops at the Radio and Telecom museums offer warm nostalgia. Spend the chilly afternoon at Boijmans. By 5 PM, enjoy the illuminated Fotomuseum before heading home in the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rotterdams Openbaar Vervoer Museum",
+                "hu": "Rotterdams Openbaar Vervoer Museum",
+                "ro": "Rotterdams Openbaar Vervoer Museum",
+                "en": "Rotterdams Openbaar Vervoer Museum"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie die Menschen in vergangenen Wintern reisten; das große Depot bietet einen beheizten Start.",
+                "hu": "Nézze meg, hogyan utaztak az emberek a régebbi teleken; a hatalmas csarnok fűtött kezdést biztosít az autós túrának.",
+                "ro": "Vedeți cum călătoreau localnicii în iernile trecute; depoul mare oferă un început cald pentru turul cu mașina.",
+                "en": "See how locals traveled in past winters; the large indoor depot provides a great, heated start to your driving tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Radio Museum",
+                "hu": "Radio Museum",
+                "ro": "Radio Museum",
+                "en": "Radio Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Leuchten alter Radios schafft eine warme Atmosphäre, perfekt für einen kalten Wintermorgen.",
+                "hu": "A régi rádiók fénye csodálatosan meleg hangulatot áraszt, ami tökéletes egy hideg téli délelőtti felfedezéshez.",
+                "ro": "Strălucirea radiourilor de epocă creează o atmosferă minunat de caldă, perfectă pentru o dimineață rece de iarnă.",
+                "en": "The glow of vintage radios creates a wonderfully warm atmosphere, perfect for a cold winter morning exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Houweling Telecom Museum",
+                "hu": "Houweling Telecom Museum",
+                "ro": "Houweling Telecom Museum",
+                "en": "Houweling Telecom Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die faszinierenden Telefonexponate im Inneren, abseits der eisigen Winterwinde der Rotterdamer Straßen.",
+                "hu": "Élvezze a lenyűgöző telefonos kiállításokat odabent, távol a rotterdami utcák fagyos téli szelétől.",
+                "ro": "Bucurați-vă de expozițiile fascinante de telefoane în interior, departe de vânturile înghețate de pe străzile orașului.",
+                "en": "Enjoy the fascinating hands-on telephone exhibits inside, away from the freezing winter winds of the Rotterdam streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Boijmans Van Beuningen",
+                "hu": "Museum Boijmans Van Beuningen",
+                "ro": "Museum Boijmans Van Beuningen",
+                "en": "Museum Boijmans Van Beuningen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage, um die Kälte zu meiden, und wandern Sie stundenlang durch die beheizten Galerien.",
+                "hu": "Használja a közeli mélygarázst a hideg elkerülésére, és barangoljon órákig a kellemesen fűtött művészeti galériákban.",
+                "ro": "Folosiți parcarea subterană pentru a evita frigul și petreceți ore întregi plimbându-vă prin galeriile de artă încălzite.",
+                "en": "Utilize the nearby underground parking to avoid the cold, and spend hours wandering through the heated art galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Nederlands Fotomuseum",
+                "hu": "Nederlands Fotomuseum",
+                "ro": "Nederlands Fotomuseum",
+                "en": "Nederlands Fotomuseum"
+              },
+              "tip_5lang": {
+                "de": "Die Winterdämmerung umrahmt die Gegend; betreten Sie die warmen Galerien, um Ihren Tag mit Fotografie zu beenden.",
+                "hu": "A téli szürkület gyönyörűen keretezi a negyedet; lépjen be a fűtött galériákba, hogy lenyűgöző fotókkal zárja a napot.",
+                "ro": "Amurgul de iarnă încadrează frumos zona; pășiți în galeriile calde pentru a încheia ziua cu fotografii impresionante.",
+                "en": "The winter twilight beautifully frames the area; step into the warm galleries to end your day with striking photography."
+              }
+            }
+          ]
+        }
       }
     }
   }

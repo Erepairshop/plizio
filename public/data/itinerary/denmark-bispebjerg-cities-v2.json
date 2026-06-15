@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a feltűnő Taksigelseskirken felfedezésével, amely a kerület egyik építészeti gyöngyszeme. Délben az interaktív Enigma múzeumba látogat, ahol megelevenedik a kommunikáció története. Délután történelmi helyi templomokban barangolva találhat nyugalmat a nyüzsgő városban. Az este a vibráló Blaagaard Teaterben zárul, amely a helyi kultúrába enged bepillantást.",
         "ro": "Începeți dimineața explorând impresionanta Taksigelseskirken, o bijuterie arhitecturală a cartierului. La prânz, veți vizita muzeul interactiv Enigma, unde prinde viață istoria comunicațiilor. După-amiaza, vă veți plimba prin bisericile istorice locale, găsind liniște în orașul plin de viață. Seara se încheie la vibrantul Blaagaard Teater, oferind o mostră de cultură locală.",
         "en": "Start your morning exploring the striking Taksigelseskirken, an architectural gem of the district. Midday brings you to the interactive Enigma museum where communications history comes alive. In the afternoon, you will wander through historic local churches, finding peace in the bustling city. The evening concludes at the vibrant Blaagaard Teater, offering a taste of local culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in der modernen Taksigelseskirken. Mittags bietet das Enigma Museum den perfekten Rückzugsort vor dem dänischen Regen mit seinen faszinierenden Ausstellungen. Am Nachmittag erkunden wir die sakrale Stille der lokalen Kirchen, während wir von Dach zu Dach eilen. Der Abend klingt gemütlich und trocken bei einer Vorstellung im Blaagaard Teater aus.",
+            "hu": "A délelőtt a Taksigelseskirken modern falaid között indul, védve az esőtől. Délben az Enigma múzeum nyújt tökéletes menedéket és izgalmas kiállításokat a dán záporok elől. Délután a környék templomainak csendjében pihenünk meg két séta között, figyelve a vízcseppek kopogását. Az estét a Blaagaard Teater fedett és barátságos nézőterén zárjuk, ahol teljesen megfeledkezhetünk a kinti időjárásról.",
+            "ro": "Dimineața începe la adăpost în interiorul modern al bisericii Taksigelseskirken. La prânz, muzeul Enigma oferă refugiul perfect împotriva ploii daneze, cu expozițiile sale fascinante. După-amiaza explorăm liniștea sacră a bisericilor locale, grăbindu-ne de la un acoperiș la altul. Seara se încheie confortabil și uscat la o reprezentație la Blaagaard Teater, departe de umezeala de afară.",
+            "en": "The morning begins sheltered within the modern walls of Taksigelseskirken. At noon, the Enigma museum provides the perfect retreat from the Danish rain with its fascinating indoor exhibits. In the afternoon, we explore the sacred silence of local churches, dashing between covered spaces. The evening ends cozily and dry at a performance in Blaagaard Teater, safe from the damp weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taksigelseskirken",
+                "hu": "Taksigelseskirken",
+                "ro": "Taksigelseskirken",
+                "en": "Taksigelseskirken"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die expressionistische Backsteinarchitektur im trockenen Innenraum; nutzen Sie den Schirmständer im Eingangsbereich, bevor Sie die Akustik genießen.",
+                "hu": "Csodáld meg az expresszionista téglaépítészetet a száraz belső térben; használd az esernyőtartót a bejáratnál, mielőtt átadnád magad a különleges akusztikának.",
+                "ro": "Admirați arhitectura expresionistă din cărămidă în interiorul uscat; folosiți suportul de umbrele de la intrare înainte de a vă bucura de acustica deosebită.",
+                "en": "Admire the expressionist brick architecture in the dry interior; use the umbrella stand at the entrance before immersing yourself in the unique acoustics."
+              }
+            },
+            {
+              "name": {
+                "de": "Enigma",
+                "hu": "Enigma",
+                "ro": "Enigma",
+                "en": "Enigma"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kommunikationsmuseum ist der ideale Ort für Regentage; erkunden Sie die interaktiven Post- und Telegrafie-Exponate ganz ohne nass zu werden.",
+                "hu": "Ez a kommunikációs múzeum ideális helyszín esős napokra; fedezd fel az interaktív postai és távíró kiállításokat anélkül, hogy egy csepp eső is érne.",
+                "ro": "Acest muzeu al comunicării este locul ideal pentru zilele ploioase; explorați expozițiile interactive de poștă și telegrafie fără a vă uda deloc.",
+                "en": "This communication museum is the ideal venue for rainy days; explore the interactive postal and telegraphy exhibits without getting a drop of rain on you."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's Church",
+                "hu": "Saint John's Church",
+                "ro": "Saint John's Church",
+                "en": "Saint John's Church"
+              },
+              "tip_5lang": {
+                "de": "Die neugotische Pracht bietet einen hervorragenden Unterschlupf; achten Sie auf die bunten Glasfenster, die auch bei grauem Himmel wunderbar leuchten.",
+                "hu": "A neogótikus pompa kiváló menedéket nyújt a zápor elől; figyeld meg a színes üvegablakokat, amelyek még szürke égbolt mellett is csodásan fénylenek.",
+                "ro": "Splendoarea neogotică oferă un adăpost excelent împotriva ploii; observați vitraliile colorate care strălucesc minunat chiar și sub un cer cenușiu.",
+                "en": "The neo-Gothic splendor provides excellent shelter from the downpour; note the stained glass windows that glow beautifully even under a grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "De Gamles Bys Kirke",
+                "hu": "De Gamles Bys Kirke",
+                "ro": "De Gamles Bys Kirke",
+                "en": "De Gamles Bys Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein intimer Ort der Ruhe fernab des nassen Trubels; prüfen Sie vorher die Öffnungszeiten, um nicht im Regen vor verschlossenen Türen zu stehen.",
+                "hu": "Az intimebb hangulatú templom nyugalma távol tartja a kinti vizes nyüzsgést; ellenőrizd előre a nyitvatartást, hogy ne a kapu alatt kelljen várakoznod.",
+                "ro": "Liniștea acestei biserici intime vă ține departe de agitația umedă de afară; verificați orarul în avans pentru a nu aștepta sub ploaie la poartă.",
+                "en": "The tranquility of this intimate church keeps the wet bustle at bay; check opening hours in advance so you don't have to wait outside in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaagaard Teater",
+                "hu": "Blaagaard Teater",
+                "ro": "Blaagaard Teater",
+                "en": "Blaagaard Teater"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei einer Vorstellung im Trockenen; die Garderobe ist perfekt, um nasse Mäntel abzugeben und die Kultur warm zu genießen.",
+                "hu": "Zárd a napot egy előadással a száraz nézőtéren; a ruhatár tökéletes a vizes kabátok leadására, így kényelmesen és melegben élvezheted a kultúrát.",
+                "ro": "Încheiați ziua cu un spectacol în sala uscată; garderoba este perfectă pentru a lăsa hainele ude, astfel încât să vă bucurați de cultură la căldură.",
+                "en": "End the day with a performance in the dry auditorium; the cloakroom is perfect for dropping off wet coats so you can enjoy culture in warmth."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Taksigelseskirken, wo der Frost die Backsteine ziert. Mittags wärmen wir uns im Enigma Museum auf, bevor die Sonne gegen 16:00 Uhr bereits zu sinken beginnt. Am Nachmittag tauchen die Kirchenlichter die Stadt in eine magische Atmosphäre. Den frostigen Abend verbringen wir in der wohligen Wärme des Blaagaard Teaters.",
+            "hu": "A téli reggel frissen indul a Taksigelseskirken épületénél, ahol a dér díszíti a téglákat. Délben az Enigma múzeumban melegszünk fel, még mielőtt a nap 16:00 körül elkezdene lebukni a horizont alá. Délután a templomok fényei varázslatos hangulatot árasztanak a városban. A fagyos estét a Blaagaard Teater barátságos melegében töltjük el.",
+            "ro": "Dimineața de iarnă începe proaspăt la Taksigelseskirken, unde chiciura decorează cărămizile. La prânz ne încălzim în muzeul Enigma, înainte ca soarele să apună deja în jurul orei 16:00. După-amiaza, luminile bisericilor scaldă orașul într-o atmosferă magică. Seara geroasă o petrecem în căldura primitoare de la Blaagaard Teater.",
+            "en": "The winter morning starts fresh at Taksigelseskirken, where frost decorates the bricks. At noon, we warm up in the Enigma museum before the sun begins to set around 4:00 PM. In the afternoon, church lights bathe the city in a magical atmosphere. We spend the frosty evening in the welcoming warmth of Blaagaard Teater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taksigelseskirken",
+                "hu": "Taksigelseskirken",
+                "ro": "Taksigelseskirken",
+                "en": "Taksigelseskirken"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur wirkt im Winterlicht besonders rein; tragen Sie warme Schichten, da große Kirchenschiffe oft etwas kühler sein können.",
+                "hu": "A letisztult építészet téli fényben különösen tiszta hatást kelt; öltözz rétegesen, mert a nagy templomterek télen hűvösek lehetnek.",
+                "ro": "Arhitectura simplă pare deosebit de pură în lumina iernii; purtați straturi calde, deoarece navele mari ale bisericilor pot fi destul de răcoroase.",
+                "en": "The simple architecture looks especially pure in winter light; wear warm layers as large church naves can be quite cool in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Enigma",
+                "hu": "Enigma",
+                "ro": "Enigma",
+                "en": "Enigma"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragend beheiztes Museum für die kalte Mittagszeit; nutzen Sie die interaktiven Stationen, um die Kälte draußen völlig zu vergessen.",
+                "hu": "Kiválóan fűtött múzeum a hideg déli órákra; próbáld ki az interaktív állomásokat, hogy teljesen megfeledkezz a kinti fagyos időjárásról.",
+                "ro": "Un muzeu excelent încălzit pentru orele reci de prânz; folosiți stațiile interactive pentru a uita complet de frigul de afară.",
+                "en": "An excellently heated museum for the cold midday hours; use the interactive stations to completely forget about the freezing weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's Church",
+                "hu": "Saint John's Church",
+                "ro": "Saint John's Church",
+                "en": "Saint John's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, um das schwindende Tageslicht durch die Fenster zu sehen; ein Ort für stille, warme Besinnung.",
+                "hu": "Látogasd meg a templomot kora délután, hogy lásd a fogyatkozó napfényt az ablakokon át; a csendes és meleg elmélyülés tökéletes helyszíne.",
+                "ro": "Vizitați biserica la începutul după-amiezii pentru a vedea lumina naturală slabă prin ferestre; un loc pentru o reflecție caldă și liniștită.",
+                "en": "Visit the church in the early afternoon to see the fading daylight through the windows; a perfect place for quiet and warm reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "De Gamles Bys Kirke",
+                "hu": "De Gamles Bys Kirke",
+                "ro": "De Gamles Bys Kirke",
+                "en": "De Gamles Bys Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die warme Beleuchtung im Inneren bietet Schutz vor der dänischen Winterkälte; genießen Sie die historische Atmosphäre in einer beheizten Bank.",
+                "hu": "A belső tér meleg világítása menedéket nyújt a dán téli hideg ellen; élvezd a történelmi hangulatot az egyik fűtött padsorban ülve.",
+                "ro": "Iluminatul cald din interior oferă adăpost împotriva frigului de iarnă danez; bucurați-vă de atmosfera istorică stând într-o bancă încălzită.",
+                "en": "The warm interior lighting provides a sanctuary from the Danish winter cold; enjoy the historical atmosphere while sitting in a heated pew."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaagaard Teater",
+                "hu": "Blaagaard Teater",
+                "ro": "Blaagaard Teater",
+                "en": "Blaagaard Teater"
+              },
+              "tip_5lang": {
+                "de": "Wenn es um 17 Uhr dunkel wird, ist das Theater der gemütlichste Ort; reservieren Sie Tickets vorab, um den Winterabend kulturell zu krönen.",
+                "hu": "Mivel 17 órakor már sötét van, a színház a legmelegebb menedék; foglalj jegyet előre, hogy a téli estét egy kulturális élménnyel koronázd meg.",
+                "ro": "Deoarece se întunecă deja la ora 17, teatrul este cel mai primitor refugiu; rezervați bilete în avans pentru a încheia seara de iarnă cultural.",
+                "en": "Since it gets dark by 5 PM, the theater is the coziest refuge; book tickets in advance to crown your winter evening with a cultural highlight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját a Brønshøj Kirke-nél, élvezve a friss reggeli levegőt. Délben tekerjen a feltűnő Bellahøj Kirke és Stefanskirken felé. A délután az Enigma múzeumhoz vezet, amely mélyreható bepillantást nyújt a postatörténetbe. Zárja aktív napját egy esti előadással vagy kulturális eseménnyel a Blaagaard Teaterben.",
         "ro": "Începeți turul cu bicicleta la Brønshøj Kirke, bucurându-vă de aerul proaspăt al dimineții. La prânz, pedalați spre impresionantele Bellahøj Kirke și Stefanskirken. După-amiaza vă duce la Enigma, oferind o privire profundă în istoria poștală. Relaxați-vă după o zi activă cu un spectacol de seară sau un eveniment cultural la Blaagaard Teater.",
         "en": "Kick off your cycling tour at Brønshøj Kirke, embracing the brisk morning air. By midday, pedal towards the striking Bellahøj Kirke and Stefanskirken, enjoying the scenic bike paths. The afternoon leads you to Enigma, offering a deep dive into postal and communication history. Wind down your active day with an evening performance or cultural event at Blaagaard Teater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Regenkleidung bewaffnet radeln wir vormittags durch Bispebjerg. Die Kirchen bieten kurze, trockene Pausen, während das Enigma Museum zur Mittagszeit eine längere Erholung ermöglicht. Achten Sie auf nasse Radwege und rutschiges Laub. Den Abend lassen wir entspannt im Blaagaard Teater ausklingen, wo wir unsere nasse Ausrüstung sicher verstauen können.",
+            "hu": "Esőruhával felszerelkezve vágunk neki délelőtt Bispebjergnek. A templomok rövid, száraz pihenőket kínálnak, míg délben az Enigma múzeum biztosít hosszabb kikapcsolódást. Figyelj a vizes kerékpárutakra és a csúszós levelekre menet közben. Az estét a Blaagaard Teaterben zárjuk, ahol a vizes felszerelést biztonságban hagyhatjuk a ruhatárban.",
+            "ro": "Echipați cu haine de ploaie, pedalăm dimineața prin Bispebjerg. Bisericile oferă scurte pauze uscate, în timp ce muzeul Enigma permite o odihnă mai lungă la prânz. Atenție la pistele de biciclete umede și frunzele alunecoase. Încheiem seara relaxați la Blaagaard Teater, unde ne putem depozita în siguranță echipamentul ud.",
+            "en": "Armed with rain gear, we cycle through Bispebjerg in the morning. Churches offer short, dry breaks, while the Enigma museum allows for a longer rest at midday. Watch out for wet bike paths and slippery leaves. We end the evening relaxed at Blaagaard Teater, where we can safely store our wet gear in the cloakroom."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brønshøj Kirke",
+                "hu": "Brønshøj Kirke",
+                "ro": "Brønshøj Kirke",
+                "en": "Brønshøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Fahrrads; die mittelalterlichen Mauern halten jedes Unwetter zuverlässig draußen.",
+                "hu": "Használd a fedett bejárati részt a bicikli leállításához; a középkori falak megbízhatóan kint tartanak minden vihart és esőt.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a parca bicicleta; zidurile medievale țin la distanță orice furtună sau ploaie.",
+                "en": "Use the covered entrance area to park your bike; the medieval walls reliably keep any storm or rain outside while you explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj Kirke",
+                "hu": "Bellahøj Kirke",
+                "ro": "Bellahøj Kirke",
+                "en": "Bellahøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem gepflasterten Vorplatz; im Inneren finden Sie eine schlichte, trockene Oase zum Aufwärmen und Durchatmen.",
+                "hu": "Vigyázz a fékezéssel a kövezett előtéren; odabent letisztult, száraz oázist találsz a felmelegedéshez és egy rövid pihenőhöz.",
+                "ro": "Atenție la frânare pe platforma pavată; în interior veți găsi o oază sobră și uscată pentru a vă încălzi și a vă odihni puțin.",
+                "en": "Be careful when braking on the paved forecourt; inside you will find a simple, dry oasis to warm up and catch your breath."
+              }
+            },
+            {
+              "name": {
+                "de": "Stefanskirken",
+                "hu": "Stefanskirken",
+                "ro": "Stefanskirken",
+                "en": "Stefanskirken"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um den stärksten Regen abzuwarten; die freundliche Atmosphäre lädt zum Verweilen ein, während die Reifen draußen abtropfen.",
+                "hu": "Ideális megálló a legerősebb eső kivárására; a barátságos légkör marasztaló, miközben a kerékpárgumik kint csepegnek le a fedett részen.",
+                "ro": "O oprire ideală pentru a aștepta trecerea celei mai puternice ploi; atmosfera prietenoasă vă invită să zăboviți în timp ce bicicletele se scurg afară.",
+                "en": "An ideal stop to wait out the heaviest rain; the friendly atmosphere invites you to linger while your bike tires drip dry outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Enigma",
+                "hu": "Enigma",
+                "ro": "Enigma",
+                "en": "Enigma"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und gönnen Sie sich eine lange Pause im Trockenen; das Museumscafé ist perfekt für eine warme Stärkung.",
+                "hu": "Parkold le a bringát biztonságosan, és tarts egy hosszú, száraz szünetet; a múzeumi kávézó tökéletes egy melegítő frissítőhöz.",
+                "ro": "Parcați bicicleta în siguranță și luați o pauză lungă la uscat; cafeneaua muzeului este perfectă pentru o gustare caldă și revigorantă.",
+                "en": "Park your bike safely and treat yourself to a long break in the dry; the museum cafe is perfect for a warming refreshment."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaagaard Teater",
+                "hu": "Blaagaard Teater",
+                "ro": "Blaagaard Teater",
+                "en": "Blaagaard Teater"
+              },
+              "tip_5lang": {
+                "de": "Verschließen Sie Ihr Rad gut und genießen Sie das Programm; die Garderobe nimmt gerne Ihren Helm und die Regenjacke entgegen.",
+                "hu": "Zárd le jól a kerékpárt, és élvezd az előadást; a ruhatárban szívesen fogadják a sisakot és az esőkabátot is a szünetre.",
+                "ro": "Încuiați bine bicicleta și bucurați-vă de spectacol; la garderobă vă puteți lăsa casca și pelerina de ploaie în timpul reprezentației.",
+                "en": "Lock your bike securely and enjoy the program; the cloakroom will gladly take your helmet and rain jacket for the duration of the show."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Handschuhe und gute Beleuchtung. Vormittags erkunden wir die frostigen Vororte, mittags dient das Enigma Museum als rettende Wärmestation. Da es bereits gegen 16 Uhr dämmert, sind reflektierende Kleidung und funktionierende Lichter unerlässlich. Der Abend im Blaagaard Teater ist die verdiente Belohnung nach der kalten Fahrt.",
+            "hu": "A téli biciklitúra meleg kesztyűt és jó világítást igényel. Délelőtt a fagyos külvárost fedezzük fel, délben az Enigma múzeum szolgál mentőövként a felmelegedéshez. Mivel 16 óra körül már sötétedik, a fényvisszaverő ruházat és a működő lámpák elengedhetetlenek. Az este a Blaagaard Teaterben a megérdemelt jutalom a hideg tekerés után.",
+            "ro": "O tură cu bicicleta iarna necesită mănuși groase și iluminare bună. Dimineața explorăm suburbiile înghețate, iar la prânz muzeul Enigma servește ca stație de încălzire. Deoarece se înserează deja în jurul orei 16, hainele reflectorizante și luminile funcționale sunt esențiale. Seara la Blaagaard Teater este recompensa meritată după drumul rece.",
+            "en": "A winter bike tour requires warm gloves and good lighting. In the morning we explore the frosty suburbs, and at noon the Enigma museum serves as a vital warming station. Since it gets dark around 4 PM, reflective clothing and working lights are essential. The evening at Blaagaard Teater is the well-deserved reward after the cold ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brønshøj Kirke",
+                "hu": "Brønshøj Kirke",
+                "ro": "Brønshøj Kirke",
+                "en": "Brønshøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die alte Kirche wirkt im winterlichen Reif besonders malerisch; machen Sie ein schnelles Foto, bevor Sie im beheizten Schiff neue Energie tanken.",
+                "hu": "A régi templom a téli zúzmarában különösen festői; készíts egy gyors fotót, majd tankolj fel energiával a fűtött templomhajóban.",
+                "ro": "Vechea biserică arată deosebit de pitoresc în chiciura iernii; faceți o fotografie rapidă, apoi reîncărcați-vă cu energie în nava încălzită.",
+                "en": "The old church looks particularly picturesque in the winter frost; take a quick photo before recharging your energy in the heated nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj Kirke",
+                "hu": "Bellahøj Kirke",
+                "ro": "Bellahøj Kirke",
+                "en": "Bellahøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Fahrt in der Kälte; im Inneren bietet die schlichte Ästhetik einen ruhigen Kontrast zum grauen Wintertag.",
+                "hu": "Ellenőrizd a guminyomást a hidegben való indulás előtt; odabent a letisztult esztétika nyugodt kontrasztot nyújt a szürke téli naphoz képest.",
+                "ro": "Verificați presiunea în anvelope înainte de a pleca în frig; în interior, estetica sobră oferă un contrast liniștit față de ziua cenușie de iarnă.",
+                "en": "Check your tire pressure before heading out into the cold; inside, the simple aesthetics provide a calm contrast to a grey winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Stefanskirken",
+                "hu": "Stefanskirken",
+                "ro": "Stefanskirken",
+                "en": "Stefanskirken"
+              },
+              "tip_5lang": {
+                "de": "Die lebendige Gemeinde bietet oft einen warmen Empfang; nutzen Sie den Halt, um die Finger aufzuwärmen, bevor es weiter durch die Kälte geht.",
+                "hu": "A vibráló közösség gyakran meleg fogadtatást kínál; használd ki a megállót az ujjaid felmelegítésére, mielőtt továbbtekernél a hidegben.",
+                "ro": "Comunitatea vibrantă oferă adesea o primire călduroasă; folosiți oprirea pentru a vă încălzi degetele înainte de a pedala mai departe prin frig.",
+                "en": "The vibrant community often offers a warm welcome; use the stop to warm your fingers before cycling further through the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Enigma",
+                "hu": "Enigma",
+                "ro": "Enigma",
+                "en": "Enigma"
+              },
+              "tip_5lang": {
+                "de": "Ein Paradies für verfrorene Radfahrer; verbringen Sie hier die dunkelsten Stunden des Tages und genießen Sie die Wärme der Ausstellungsräume.",
+                "hu": "A fázós biciklisek paradicsoma; töltsd itt a nap legsötétebb óráit, és élvezd a kiállítótermek kellemes melegét.",
+                "ro": "Un paradis pentru bicicliștii înfrigurați; petreceți aici cele mai întunecate ore ale zilei și bucurați-vă de căldura sălilor de expoziție.",
+                "en": "A paradise for chilly cyclists; spend the darkest hours of the day here and enjoy the comforting warmth of the exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaagaard Teater",
+                "hu": "Blaagaard Teater",
+                "ro": "Blaagaard Teater",
+                "en": "Blaagaard Teater"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss eines kalten Tages; die warmen Getränke im Foyer helfen, die Winterkälte endgültig aus den Knochen zu vertreiben.",
+                "hu": "Egy hideg nap tökéletes zárása; a foyerben kapható meleg italok segítenek végleg kiűzni a téli hideget a csontjaidból.",
+                "ro": "Finalul perfect pentru o zi rece; băuturile calde din foaier ajută la alungarea definitivă a frigului de iarnă din oase.",
+                "en": "The perfect end to a cold day; the warm drinks in the foyer help to finally banish the winter chill from your bones."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Az autós túra a Grøndalskirken templomnál kezdődik, ahol magába szívhatja a békés külvárosi hangulatot. Délben olyan gyönyörű történelmi templomokat látogat meg, mint a Mariendal és a Brorsons. Délután kissé keletre vezet, hogy a saját tempójában fedezze fel a lenyűgöző Enigma múzeumot. Az este egy pihentető autózással zárul, amely egy mélyen kulturális felfedezést koronáz meg.",
         "ro": "Turul dvs. cu mașina începe la Grøndalskirken, admirând atmosfera pașnică suburbană. La prânz, veți face opriri între o serie de biserici istorice frumoase precum Mariendal și Brorsons. După-amiaza, veți conduce puțin spre est pentru a explora fascinantul muzeu Enigma în propriul ritm. Seara se încheie cu o plimbare relaxantă, finalizând o explorare profund culturală.",
         "en": "Your driving tour begins at Grøndalskirken, taking in the peaceful suburban atmosphere. Midday involves hopping between a cluster of beautiful historic churches like Mariendal and Brorsons. In the afternoon, you will drive slightly east to explore the fascinating Enigma museum at your own pace. The evening wraps up with a relaxing drive back, concluding a deeply cultural exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Bispebjerg ganz bequem und trocken. Wir hüpfen von einer historischen Kirche zur nächsten, während der Scheibenwischer den dänischen Regen bändigt. Mittags parken wir nah am Enigma Museum für einen ausgiebigen, geschützten Besuch. Den Abend lassen wir entspannt beim Blaagaard Teater ausklingen, wobei der kurze Weg vom Parkplatz ins Warme ein echter Luxus ist.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Bispebjerget. Egyik történelmi templomtól a másikig ugrunk, miközben az ablaktörlő vívja harcát a dán esővel. Délben az Enigma múzeum közelében parkolunk le egy alapos, fedett látogatásra. Az estét a Blaagaard Teaterben zárjuk, ahol a parkolótól a bejáratig tartó rövid út igazi luxus az esős időben.",
+            "ro": "Cu mașina explorăm Bispebjerg confortabil și fără să ne udăm. Mergem de la o biserică istorică la alta, în timp ce ștergătoarele fac față ploii daneze. La prânz parcăm aproape de muzeul Enigma pentru o vizită prelungită la adăpost. Încheiem seara relaxați la Blaagaard Teater, drumul scurt de la parcare până la intrare fiind un adevărat lux pe ploaie.",
+            "en": "By car, we explore Bispebjerg comfortably and stay dry. We hop from one historic church to another while the wipers battle the Danish rain. At noon, we park close to the Enigma museum for an extensive, sheltered visit. We end the evening relaxed at Blaagaard Teater, where the short walk from the parking lot to the warmth is a real luxury in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grøndalskirken",
+                "hu": "Grøndalskirken",
+                "ro": "Grøndalskirken",
+                "en": "Grøndalskirken"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in den Seitenstraßen; das markante Gebäude ist auch durch die verregnete Windschutzscheibe gut zu erkennen.",
+                "hu": "Használd ki az oldalsó utcák parkolási lehetőségeit; a jellegzetes épület még az eső áztatta szélvédőn keresztül is könnyen felismerhető.",
+                "ro": "Profitați de locurile de parcare de pe străzile laterale; clădirea distinctivă este ușor de recunoscut chiar și prin parbrizul plin de ploaie.",
+                "en": "Take advantage of the parking options in the side streets; the striking building is easily recognizable even through a rain-streaked windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Mariendal Kirke",
+                "hu": "Mariendal Kirke",
+                "ro": "Mariendal Kirke",
+                "en": "Mariendal Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto bringt Sie in die imposante Hallenkirche; bewundern Sie die Details im Trockenen, während es draußen prasselt.",
+                "hu": "Egy rövid vágta az autótól, és már bent is vagy az impozáns csarnoktemplomban; csodáld a részleteket szárazon, miközben kint kopog az eső.",
+                "ro": "Un scurt sprint de la mașină vă duce în interiorul impunător al bisericii; admirați detaliile la uscat în timp ce afară plouă torențial.",
+                "en": "A quick sprint from the car takes you into the imposing hall church; admire the details in the dry while the rain beats down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Brorsons Kirke",
+                "hu": "Brorsons Kirke",
+                "ro": "Brorsons Kirke",
+                "en": "Brorsons Kirke"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt vor der Tür; die neugotische Backsteinästhetik ist ein wunderbarer Zufluchtsort vor dem grauen Wetter.",
+                "hu": "Keress parkolót közvetlenül az ajtó előtt; a neogótikus téglaesztétika csodálatos menedék a szürke és vizes időjárás elől.",
+                "ro": "Căutați un loc de parcare chiar în fața ușii; estetica neogotică din cărămidă este un refugiu minunat împotriva vremii cenușii și umede.",
+                "en": "Look for a parking spot right in front of the door; the neo-Gothic brick aesthetics offer a wonderful escape from the grey and wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Thomas Kirke",
+                "hu": "Sankt Thomas Kirke",
+                "ro": "Sankt Thomas Kirke",
+                "en": "Sankt Thomas Kirke"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Schirme im Auto, wenn Sie nur kurz zur Besichtigung huschen; die ruhige Atmosphäre drinnen lässt den Regen vergessen.",
+                "hu": "Hagyd a vizes esernyőket az autóban, ha csak gyorsan beugrasz körülnézni; a benti nyugodt légkör azonnal feledteti a kinti záport.",
+                "ro": "Lăsați umbrelele ude în mașină dacă intrați doar pentru o scurtă vizită; atmosfera liniștită de interior vă va face să uitați de ploaie.",
+                "en": "Leave wet umbrellas in the car if you're just popping in for a quick look; the calm interior atmosphere makes you forget the rain instantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Hellig Kors Kirke",
+                "hu": "Hellig Kors Kirke",
+                "ro": "Hellig Kors Kirke",
+                "en": "Hellig Kors Kirke"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Einparkzonen; die Kirche bietet eine weite, trockene Halle, die perfekt für eine spirituelle Pause im Regen ist.",
+                "hu": "Figyelj a parkolási zónákra; a templom tágas, száraz csarnoka tökéletes helyszín egy spirituális szünethez az esőben.",
+                "ro": "Atenție la zonele de parcare; nava spațioasă și uscată a bisericii este locul perfect pentru o pauză spirituală pe timp de ploaie.",
+                "en": "Pay attention to the parking zones; the church's spacious, dry hall is the perfect setting for a spiritual break during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Enigma",
+                "hu": "Enigma",
+                "ro": "Enigma",
+                "en": "Enigma"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight für Regentage; nutzen Sie die Zeit für einen ausführlichen Besuch, während Ihr Auto sicher und trocken auf dem Parkplatz wartet.",
+                "hu": "Az esős napok fénypontja; szánj időt egy alapos látogatásra, miközben az autód biztonságban és szárazon vár a közeli parkolóban.",
+                "ro": "Punctul culminant al zilelor ploioase; alocați timp pentru o vizită detaliată în timp ce mașina așteaptă în siguranță în parcarea apropiată.",
+                "en": "The highlight of rainy days; take the time for a thorough visit while your car waits safely and dry in the nearby parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit Sitzheizung und Winterreifen ist die Tour durch Bispebjerg ein Genuss. Vormittags bewundern wir die verschneite Architektur der Kirchen direkt vom warmen Innenraum des Wagens aus. Mittags bietet das Enigma Museum reichlich Wärme und Kultur. Da die Sonne früh untergeht, genießen wir die beleuchteten Straßen auf dem Weg zum Blaagaard Teater, dem perfekten Ziel für einen kalten Winterabend.",
+            "hu": "Ülésfűtéssel és téli gumikkal a bispebjergi túra igazi élvezet. Délelőtt közvetlenül az autó melegéből csodáljuk meg a templomok hófödte építészetét. Délben az Enigma múzeum bőséges meleget és kultúrát kínál. Mivel a nap korán nyugszik, élvezzük a kivilágított utcákat a Blaagaard Teater felé menet, ami a téli este tökéletes célpontja.",
+            "ro": "Cu scaune încălzite și anvelope de iarnă, turul prin Bispebjerg este o plăcere. Dimineața admirăm arhitectura înzăpezită a bisericilor direct din căldura mașinii. La prânz, muzeul Enigma oferă căldură și cultură din belșug. Deoarece soarele apune devreme, ne bucurăm de străzile iluminate spre Blaagaard Teater, destinația perfectă pentru o seară de iarnă.",
+            "en": "With heated seats and winter tires, the tour through Bispebjerg is a treat. In the morning, we admire the snow-covered architecture of the churches directly from the warmth of the car. At noon, the Enigma museum offers plenty of warmth and culture. Since the sun sets early, we enjoy the illuminated streets on the way to Blaagaard Teater, the perfect winter evening destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grøndalskirken",
+                "hu": "Grøndalskirken",
+                "ro": "Grøndalskirken",
+                "en": "Grøndalskirken"
+              },
+              "tip_5lang": {
+                "de": "Die Backsteine leuchten im frühen Abendlicht besonders warm; parken Sie kurz, um die frostige Stille vor der Kirche für einen Moment zu genießen.",
+                "hu": "A téglák kora esti fényben különösen melegnek tűnnek; parkolj le egy pillanatra, hogy élvezd a templom előtti fagyos csendet.",
+                "ro": "Cărămizile par deosebit de calde în lumina serii timpurii; parcați un moment pentru a vă bucura de liniștea înghețată din fața bisericii.",
+                "en": "The bricks look especially warm in the early evening light; park for a moment to enjoy the frosty silence in front of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Mariendal Kirke",
+                "hu": "Mariendal Kirke",
+                "ro": "Mariendal Kirke",
+                "en": "Mariendal Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Fahrten im beheizten Kirchenschiff aufzuwärmen; beachten Sie die winterliche Dekoration im Altarraum.",
+                "hu": "Ideális helyszín a felmelegedéshez a két autózás között a fűtött templomhajóban; figyeld meg a téli dekorációt a szentély körül.",
+                "ro": "Un loc ideal pentru a vă încălzi între drumurile cu mașina în nava încălzită; observați decorațiunile de iarnă din jurul altarului.",
+                "en": "An ideal place to warm up between drives in the heated nave; take note of the winter decorations around the altar area."
+              }
+            },
+            {
+              "name": {
+                "de": "Brorsons Kirke",
+                "hu": "Brorsons Kirke",
+                "ro": "Brorsons Kirke",
+                "en": "Brorsons Kirke"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig bei Glätte in den Wohnstraßen; drinnen erwartet Sie eine behagliche Atmosphäre, die einen Schutz vor dem Frost bietet.",
+                "hu": "Parkolj óvatosan a csúszós lakóutcákban; odabent barátságos légkör vár, amely tökéletes védelmet nyújt a kinti fagy ellen.",
+                "ro": "Parcați cu atenție pe străzile rezidențiale alunecoase; în interior vă așteaptă o atmosferă primitoare, oferind protecție împotriva gerului.",
+                "en": "Park carefully on slippery residential streets; inside, a cozy atmosphere awaits, providing perfect protection against the frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Thomas Kirke",
+                "hu": "Sankt Thomas Kirke",
+                "ro": "Sankt Thomas Kirke",
+                "en": "Sankt Thomas Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Holzelemente im Inneren strahlen im Winter eine besondere Gemütlichkeit aus; ein kurzer Halt für innere Einkehr lohnt sich.",
+                "hu": "A belső tér sötét faelemei télen különleges meghittséget árasztanak; egy rövid megálló a belső elmélyülésért mindenképpen megéri.",
+                "ro": "Elementele din lemn închis la culoare din interior emană o căldură deosebită iarna; o scurtă oprire pentru reculegere merită cu siguranță.",
+                "en": "The dark wood elements in the interior radiate a special coziness in winter; a short stop for inner reflection is definitely worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Hellig Kors Kirke",
+                "hu": "Hellig Kors Kirke",
+                "ro": "Hellig Kors Kirke",
+                "en": "Hellig Kors Kirke"
+              },
+              "tip_5lang": {
+                "de": "In der Dämmerung wirkt die beleuchtete Kirche wie ein Leuchtturm in der Kälte; nutzen Sie den Parkplatz für einen schnellen Besuch.",
+                "hu": "A szürkületben a kivilágított templom úgy hat, mint egy világítótorony a hidegben; használd a parkolót egy gyors, melegítő látogatáshoz.",
+                "ro": "În amurg, biserica iluminată arată ca un far în mijlocul frigului; folosiți parcarea pentru o vizită rapidă și reconfortantă.",
+                "en": "In the twilight, the illuminated church looks like a lighthouse in the cold; use the parking area for a quick, warming visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Enigma",
+                "hu": "Enigma",
+                "ro": "Enigma",
+                "en": "Enigma"
+              },
+              "tip_5lang": {
+                "de": "Perfekt, um die frostigsten Stunden des Nachmittags im Warmen zu verbringen; genießen Sie das Café, bevor Sie die Heimreise im Auto antreten.",
+                "hu": "Tökéletes hely a délutáni legfagyosabb órák melegben töltéséhez; élvezd a kávézót, mielőtt visszaülnél a fűtött autódba.",
+                "ro": "Locul perfect pentru a petrece cele mai geroase ore ale după-amiezii la căldură; bucurați-vă de cafenea înainte de a reveni în mașina încălzită.",
+                "en": "The perfect place to spend the frostiest hours of the afternoon in the warmth; enjoy the cafe before returning to your heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }
