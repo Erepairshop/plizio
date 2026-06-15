@@ -748,6 +748,38 @@ function hasStreetCluster(arr: { name?: unknown }[]): boolean {
   return false;
 }
 
+// AI-citeable "key facts" strip (GEO): data-derived, deterministic snapshot the
+// LLMs can lift to answer "what/where/what to see". Built from existing structured
+// fields only (no generation). Missing fields are dropped gracefully. (user 2026-06-15)
+const _KEYFACTS_LABELS: Record<string, { loc: string; sights: string; near: string; pop: string }> = {
+  de: { loc: "Lage", sights: "Top-Sehenswürdigkeiten", near: "In der Nähe", pop: "Einwohner" },
+  hu: { loc: "Elhelyezkedés", sights: "Fő látnivalók", near: "A közelben", pop: "Lakosság" },
+  ro: { loc: "Locație", sights: "Atracții principale", near: "În apropiere", pop: "Populație" },
+  en: { loc: "Location", sights: "Top sights", near: "Nearby", pop: "Population" },
+  fr: { loc: "Situation", sights: "À voir", near: "À proximité", pop: "Population" },
+  tr: { loc: "Konum", sights: "Başlıca yerler", near: "Yakında", pop: "Nüfus" },
+  hr: { loc: "Lokacija", sights: "Znamenitosti", near: "U blizini", pop: "Stanovništvo" },
+};
+function renderKeyFacts(
+  poi: POI, lang: Lang, countryName: string,
+  topSights: string[], nearby: { name: string; km: number } | null,
+): string {
+  const L = _KEYFACTS_LABELS[lang] || _KEYFACTS_LABELS.en;
+  const rows: string[] = [];
+  // Location: region (if a known region parent) + country
+  const r = (regions as POI[]).find((x) => x.id === poi.parent);
+  const regionName = r ? ((r.name as Record<string, string>)?.[lang] || (r.name as Record<string, string>)?.de || "") : "";
+  const locParts = [regionName, countryName].filter(Boolean);
+  if (locParts.length) rows.push(`<li><strong>${L.loc}:</strong> ${escapeHtml(locParts.join(", "))}</li>`);
+  const ts = topSights.filter((s) => typeof s === "string" && s.trim()).slice(0, 3);
+  if (ts.length >= 2) rows.push(`<li><strong>${L.sights}:</strong> ${escapeHtml(ts.join(" · "))}</li>`);
+  if (nearby && nearby.name) rows.push(`<li><strong>${L.near}:</strong> ${escapeHtml(nearby.name)} (${Math.round(nearby.km)} km)</li>`);
+  const pop = (poi as { population?: unknown }).population;
+  if (typeof pop === "number" && pop > 0) rows.push(`<li><strong>${L.pop}:</strong> ~${pop.toLocaleString("de-DE")}</li>`);
+  if (rows.length < 2) return ""; // not enough atoms to be worth a strip
+  return `<section class="plz-keyfacts"><ul>${rows.join("")}</ul></section>`;
+}
+
 function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }[] {
   const c0 = coordLatLon(poi.coords);
   if (!c0) return [];
@@ -2978,6 +3010,7 @@ ready();})();</script>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), _nc[0] ? { name: (getLocalized((_nc[0].p as POI).name as Partial<Record<string, string>>, lang) as string) || (_nc[0].p as POI).id, km: _nc[0].km } : null)}
   ${renderClimate(poi, lang)}
   <div id="sec-info">
   ${renderPracticalInfo(poi, lang)}
