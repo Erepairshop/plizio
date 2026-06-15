@@ -649,9 +649,19 @@ function getRelatedPois(poi: POI, limit = 6): POI[] {
       arr.push(p);
     }
   }
+  // Sort by PROXIMITY within the same-parent pool, so the "Städte in der Nähe"
+  // related cards are genuinely the nearest region cities (Lauingen → Dillingen,
+  // Gundelfingen …) rather than arbitrary big siblings (Nürnberg/Regensburg).
+  // POIs without coords sink to the end (Infinity).
+  const c0 = coordLatLon(poi.coords);
+  const distOf = (p: POI) => {
+    const c = coordLatLon(p.coords);
+    if (!c0 || !c) return Infinity;
+    return haversineKm(c0[0], c0[1], c[0], c[1]);
+  };
   return (_poisByParent.get(poi.parent) || [])
     .filter((p) => p.id !== poi.id)
-    .sort((a, b) => Number(a.type !== poi.type) - Number(b.type !== poi.type))
+    .sort((a, b) => distOf(a) - distOf(b))
     .slice(0, limit);
 }
 
