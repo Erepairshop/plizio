@@ -729,6 +729,25 @@ function junkSeriesSet(arr: { name?: unknown }[]): Set<string> {
   return s;
 }
 
+// Bare street-name junk: OSM dumps residential streets as "sights" (Berliner
+// Straße, Krokusweg…). Only drop when a POI has a CLUSTER (>=5) of them — isolated
+// ones may be famous boulevards. Keep named POIs on a street (Spielplatz X-Straße)
+// and well-known tourist streets (Philosophenweg, Königsallee…). (user 2026-06-15)
+const _STREET_SUF = /(stra(ß|ss)e|gasse|\w{2,}weg|allee)\s*$/i;
+const _STREET_KEEP = /(spielplatz|bolzplatz|spielpark|spielwiese|liegewiese|grillplatz|bade(platz|stelle)|kinderspiel|kindergarten|kita|kindertage|schule|gymnasium|hochschule|kirche|kapelle|\bdom\b|kloster|synagoge|moschee|museum|galerie|\bbad\b|schwimmbad|freibad|hallenbad|therme|\bpark\b|garten|friedhof|sportplatz|stadion|\bhalle\b|bahnhof|haltestelle|\bmarkt|rathaus|brunnen|denkmal|mahnmal|\bturm|\bburg\b|schloss|theater|kino|bibliothek|b(ü|ue)cherei|zentrum|center|klinik|krankenhaus|apotheke|hotel|restaurant|gasthof|gasthaus|tierpark|\bzoo\b|minigolf|skatepark|jugend|feuerwehr|parkplatz|naturbade|aussicht)/i;
+const _STREET_FAMOUS = /(philosophenweg|k(ö|oe)nigsallee|kurf(ü|ue)rstendamm|ku.?damm|maximilianstra(ß|ss)e|reeperbahn|jungfernstieg|m(ö|oe)nckebergstra(ß|ss)e|neuer wall|schlossallee|prachtstra(ß|ss)e|theatinerstra(ß|ss)e|residenzstra(ß|ss)e|k(ä|ae)rntner|mariahilfer|getreidegasse|schildergasse|hohe stra(ß|ss)e|leopoldstra(ß|ss)e|k(ö|oe)nigstra(ß|ss)e|kr(ä|ae)merbr(ü|ue)cke|deichstra(ß|ss)e|prinzregentenstra(ß|ss)e)/i;
+function isBareStreet(name: unknown): boolean {
+  if (typeof name !== "string") return false;
+  const n = name.trim();
+  if (!n || _STREET_KEEP.test(n) || _STREET_FAMOUS.test(n)) return false;
+  return _STREET_SUF.test(n);
+}
+function hasStreetCluster(arr: { name?: unknown }[]): boolean {
+  let c = 0;
+  for (const x of arr || []) if (isBareStreet(x?.name)) { if (++c >= 5) return true; }
+  return false;
+}
+
 function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }[] {
   const c0 = coordLatLon(poi.coords);
   if (!c0) return [];
@@ -2504,10 +2523,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // keeping the original index so cross-lang variant alignment stays correct.
   const _seenSight = new Set<string>();
   const _junkSeries = junkSeriesSet(sightsArr as { name?: unknown }[]);
+  const _streetCluster = hasStreetCluster(sightsArr as { name?: unknown }[]);
   const sightsItems: { s: SightItem; i: number }[] = [];
   sightsArr.forEach((s, i) => {
     const pre = sightSeriesPrefix(s.name);
     if (pre && _junkSeries.has(pre)) return; // drop junk numbered-series member
+    if (_streetCluster && isBareStreet(s.name)) return; // drop residential street dump
     const k = slugifySight(typeof s.name === "string" ? s.name : "");
     if (k && _seenSight.has(k)) return;
     if (k) _seenSight.add(k);
@@ -2522,10 +2543,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const a = (nearbyObj as any)[l]; return !Array.isArray(a) || a.length === nearbyArr.length;
   });
   const _nJunk = junkSeriesSet(nearbyArr as { name?: unknown }[]);
+  const _nStreet = hasStreetCluster(nearbyArr as { name?: unknown }[]);
   const nearbyItems: { s: SightItem; i: number }[] = [];
   nearbyArr.forEach((s, i) => {
     const pre = sightSeriesPrefix(s.name);
     if (pre && _nJunk.has(pre)) return; // drop junk numbered-series member
+    if (_nStreet && isBareStreet(s.name)) return; // drop residential street dump
     nearbyItems.push({ s, i });
   });
   const nearbyHtml = nearbyItems.length > 0

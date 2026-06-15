@@ -23,15 +23,36 @@ function sightSeriesPrefix(name: unknown): string {
   n = n.replace(/\s+/g, " ").trim();
   return (n && n !== orig) ? n : "";
 }
+const _STREET_SUF = /(stra(ß|ss)e|gasse|\w{2,}weg|allee)\s*$/i;
+const _STREET_KEEP = /(spielplatz|bolzplatz|spielpark|spielwiese|liegewiese|grillplatz|bade(platz|stelle)|kinderspiel|kindergarten|kita|kindertage|schule|gymnasium|hochschule|kirche|kapelle|\bdom\b|kloster|synagoge|moschee|museum|galerie|\bbad\b|schwimmbad|freibad|hallenbad|therme|\bpark\b|garten|friedhof|sportplatz|stadion|\bhalle\b|bahnhof|haltestelle|\bmarkt|rathaus|brunnen|denkmal|mahnmal|\bturm|\bburg\b|schloss|theater|kino|bibliothek|b(ü|ue)cherei|zentrum|center|klinik|krankenhaus|apotheke|hotel|restaurant|gasthof|gasthaus|tierpark|\bzoo\b|minigolf|skatepark|jugend|feuerwehr|parkplatz|naturbade|aussicht)/i;
+const _STREET_FAMOUS = /(philosophenweg|k(ö|oe)nigsallee|kurf(ü|ue)rstendamm|ku.?damm|maximilianstra(ß|ss)e|reeperbahn|jungfernstieg|m(ö|oe)nckebergstra(ß|ss)e|neuer wall|schlossallee|prachtstra(ß|ss)e|theatinerstra(ß|ss)e|residenzstra(ß|ss)e|k(ä|ae)rntner|mariahilfer|getreidegasse|schildergasse|hohe stra(ß|ss)e|leopoldstra(ß|ss)e|k(ö|oe)nigstra(ß|ss)e|kr(ä|ae)merbr(ü|ue)cke|deichstra(ß|ss)e|prinzregentenstra(ß|ss)e)/i;
+function isBareStreet(name: unknown): boolean {
+  if (typeof name !== "string") return false;
+  const n = name.trim();
+  if (!n || _STREET_KEEP.test(n) || _STREET_FAMOUS.test(n)) return false;
+  return _STREET_SUF.test(n);
+}
 function dropJunkSeries(byLang: any): any {
   if (!byLang || typeof byLang !== "object") return byLang;
   const out: Record<string, any> = {};
   for (const [lang, arr] of Object.entries(byLang)) {
     if (!Array.isArray(arr)) { out[lang] = arr; continue; }
     const c = new Map<string, number>();
-    for (const x of arr as any[]) { const p = sightSeriesPrefix(x?.name); if (p) c.set(p, (c.get(p) || 0) + 1); }
+    let streets = 0;
+    for (const x of arr as any[]) {
+      const p = sightSeriesPrefix(x?.name); if (p) c.set(p, (c.get(p) || 0) + 1);
+      if (isBareStreet(x?.name)) streets++;
+    }
     const junk = new Set<string>(); for (const [p, n] of c) if (n >= 4) junk.add(p);
-    out[lang] = junk.size ? (arr as any[]).filter((x) => { const p = sightSeriesPrefix(x?.name); return !(p && junk.has(p)); }) : arr;
+    const streetCluster = streets >= 5;
+    out[lang] = (junk.size || streetCluster)
+      ? (arr as any[]).filter((x) => {
+          const p = sightSeriesPrefix(x?.name);
+          if (p && junk.has(p)) return false;
+          if (streetCluster && isBareStreet(x?.name)) return false;
+          return true;
+        })
+      : arr;
   }
   return out;
 }
